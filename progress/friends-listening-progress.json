@@ -133,7 +133,36 @@
     "word:turkeys": 3,
     "word:upstate": 1,
     "word:uptown": 2,
-    "word:vikram": 1
+    "word:vikram": 1,
+    "word:beeped": 1,
+    "word:blouse": 1,
+    "word:brolin": 1,
+    "word:bunnies": 3,
+    "word:caitlin": 1,
+    "word:carton": 4,
+    "word:cheater": 4,
+    "word:cleansing": 1,
+    "word:cranberry": 1,
+    "word:decaf": 4,
+    "word:disneyland": 4,
+    "word:dollhouse": 3,
+    "word:dresser": 1,
+    "word:erectus": 1,
+    "word:farber": 1,
+    "word:flan": 1,
+    "word:frannie": 1,
+    "word:groomsman": 1,
+    "word:headshots": 1,
+    "word:hernia": 1,
+    "word:hummus": 1,
+    "word:hypothetically": 1,
+    "word:luisa": 1,
+    "word:margaritas": 1,
+    "word:memorize": 3,
+    "word:moo": 1,
+    "word:moonlight": 5,
+    "word:muriel": 1,
+    "word:nubbin": 1
   },
   "scoreUpdatedAt": {
     "word:smelly": "2026-06-03T13:53:19.003Z",
@@ -267,7 +296,36 @@
     "word:turkeys": "2026-06-03T14:55:43.050Z",
     "word:upstate": "2026-06-03T14:55:44.900Z",
     "word:uptown": "2026-06-03T14:55:50.119Z",
-    "word:vikram": "2026-06-03T14:55:51.499Z"
+    "word:vikram": "2026-06-03T14:55:51.499Z",
+    "word:beeped": "2026-06-03T14:56:07.018Z",
+    "word:blouse": "2026-06-03T14:56:08.603Z",
+    "word:brolin": "2026-06-03T14:56:09.652Z",
+    "word:bunnies": "2026-06-03T14:56:15.639Z",
+    "word:caitlin": "2026-06-03T14:56:17.520Z",
+    "word:carton": "2026-06-03T14:56:20.857Z",
+    "word:cheater": "2026-06-03T14:56:24.925Z",
+    "word:cleansing": "2026-06-03T14:56:27.942Z",
+    "word:cranberry": "2026-06-03T14:56:30.808Z",
+    "word:decaf": "2026-06-03T14:56:33.825Z",
+    "word:disneyland": "2026-06-03T14:56:37.742Z",
+    "word:dollhouse": "2026-06-03T14:56:41.293Z",
+    "word:dresser": "2026-06-03T14:56:43.976Z",
+    "word:erectus": "2026-06-03T14:56:45.426Z",
+    "word:farber": "2026-06-03T14:56:47.661Z",
+    "word:flan": "2026-06-03T14:56:48.878Z",
+    "word:frannie": "2026-06-03T14:56:50.011Z",
+    "word:groomsman": "2026-06-03T14:56:51.295Z",
+    "word:headshots": "2026-06-03T14:56:52.864Z",
+    "word:hernia": "2026-06-03T14:56:53.926Z",
+    "word:hummus": "2026-06-03T14:56:56.879Z",
+    "word:hypothetically": "2026-06-03T14:56:58.281Z",
+    "word:luisa": "2026-06-03T14:56:59.580Z",
+    "word:margaritas": "2026-06-03T14:57:01.198Z",
+    "word:memorize": "2026-06-03T14:57:05.382Z",
+    "word:moo": "2026-06-03T14:57:08.665Z",
+    "word:moonlight": "2026-06-03T14:57:15.465Z",
+    "word:muriel": "2026-06-03T14:57:17.164Z",
+    "word:nubbin": "2026-06-03T14:57:18.667Z"
   },
   "scoreDeletedAt": {},
   "resetAt": null,
@@ -1196,8 +1254,211 @@
       "score": 1,
       "source": "screen",
       "at": "2026-06-03T14:55:51.499Z"
+    },
+    {
+      "itemId": "word:beeped",
+      "previous": null,
+      "score": 1,
+      "source": "screen",
+      "at": "2026-06-03T14:56:07.018Z"
+    },
+    {
+      "itemId": "word:blouse",
+      "previous": null,
+      "score": 1,
+      "source": "screen",
+      "at": "2026-06-03T14:56:08.603Z"
+    },
+    {
+      "itemId": "word:brolin",
+      "previous": null,
+      "score": 1,
+      "source": "screen",
+      "at": "2026-06-03T14:56:09.652Z"
+    },
+    {
+      "itemId": "word:bunnies",
+      "previous": null,
+      "score": 3,
+      "source": "screen",
+      "at": "2026-06-03T14:56:15.639Z"
+    },
+    {
+      "itemId": "word:caitlin",
+      "previous": null,
+      "score": 1,
+      "source": "screen",
+      "at": "2026-06-03T14:56:17.520Z"
+    },
+    {
+      "itemId": "word:carton",
+      "previous": null,
+      "score": 4,
+      "source": "screen",
+      "at": "2026-06-03T14:56:20.857Z"
+    },
+    {
+      "itemId": "word:cheater",
+      "previous": null,
+      "score": 4,
+      "source": "screen",
+      "at": "2026-06-03T14:56:24.925Z"
+    },
+    {
+      "itemId": "word:cleansing",
+      "previous": null,
+      "score": 1,
+      "source": "screen",
+      "at": "2026-06-03T14:56:27.942Z"
+    },
+    {
+      "itemId": "word:cranberry",
+      "previous": null,
+      "score": 1,
+      "source": "screen",
+      "at": "2026-06-03T14:56:30.808Z"
+    },
+    {
+      "itemId": "word:decaf",
+      "previous": null,
+      "score": 4,
+      "source": "screen",
+      "at": "2026-06-03T14:56:33.825Z"
+    },
+    {
+      "itemId": "word:disneyland",
+      "previous": null,
+      "score": 4,
+      "source": "screen",
+      "at": "2026-06-03T14:56:37.742Z"
+    },
+    {
+      "itemId": "word:dollhouse",
+      "previous": null,
+      "score": 3,
+      "source": "screen",
+      "at": "2026-06-03T14:56:41.293Z"
+    },
+    {
+      "itemId": "word:dresser",
+      "previous": null,
+      "score": 1,
+      "source": "screen",
+      "at": "2026-06-03T14:56:43.976Z"
+    },
+    {
+      "itemId": "word:erectus",
+      "previous": null,
+      "score": 1,
+      "source": "screen",
+      "at": "2026-06-03T14:56:45.426Z"
+    },
+    {
+      "itemId": "word:farber",
+      "previous": null,
+      "score": 1,
+      "source": "screen",
+      "at": "2026-06-03T14:56:47.661Z"
+    },
+    {
+      "itemId": "word:flan",
+      "previous": null,
+      "score": 1,
+      "source": "screen",
+      "at": "2026-06-03T14:56:48.878Z"
+    },
+    {
+      "itemId": "word:frannie",
+      "previous": null,
+      "score": 1,
+      "source": "screen",
+      "at": "2026-06-03T14:56:50.011Z"
+    },
+    {
+      "itemId": "word:groomsman",
+      "previous": null,
+      "score": 1,
+      "source": "screen",
+      "at": "2026-06-03T14:56:51.295Z"
+    },
+    {
+      "itemId": "word:headshots",
+      "previous": null,
+      "score": 1,
+      "source": "screen",
+      "at": "2026-06-03T14:56:52.864Z"
+    },
+    {
+      "itemId": "word:hernia",
+      "previous": null,
+      "score": 1,
+      "source": "screen",
+      "at": "2026-06-03T14:56:53.926Z"
+    },
+    {
+      "itemId": "word:hummus",
+      "previous": null,
+      "score": 1,
+      "source": "screen",
+      "at": "2026-06-03T14:56:56.879Z"
+    },
+    {
+      "itemId": "word:hypothetically",
+      "previous": null,
+      "score": 1,
+      "source": "screen",
+      "at": "2026-06-03T14:56:58.281Z"
+    },
+    {
+      "itemId": "word:luisa",
+      "previous": null,
+      "score": 1,
+      "source": "screen",
+      "at": "2026-06-03T14:56:59.580Z"
+    },
+    {
+      "itemId": "word:margaritas",
+      "previous": null,
+      "score": 1,
+      "source": "screen",
+      "at": "2026-06-03T14:57:01.198Z"
+    },
+    {
+      "itemId": "word:memorize",
+      "previous": null,
+      "score": 3,
+      "source": "screen",
+      "at": "2026-06-03T14:57:05.382Z"
+    },
+    {
+      "itemId": "word:moo",
+      "previous": null,
+      "score": 1,
+      "source": "screen",
+      "at": "2026-06-03T14:57:08.665Z"
+    },
+    {
+      "itemId": "word:moonlight",
+      "previous": null,
+      "score": 5,
+      "source": "screen",
+      "at": "2026-06-03T14:57:15.465Z"
+    },
+    {
+      "itemId": "word:muriel",
+      "previous": null,
+      "score": 1,
+      "source": "screen",
+      "at": "2026-06-03T14:57:17.164Z"
+    },
+    {
+      "itemId": "word:nubbin",
+      "previous": null,
+      "score": 1,
+      "source": "screen",
+      "at": "2026-06-03T14:57:18.667Z"
     }
   ],
-  "savedAt": "2026-06-03T14:55:55.576Z",
-  "syncedAt": "2026-06-03T14:55:55.576Z"
+  "savedAt": "2026-06-03T14:57:23.481Z",
+  "syncedAt": "2026-06-03T14:57:23.481Z"
 }
