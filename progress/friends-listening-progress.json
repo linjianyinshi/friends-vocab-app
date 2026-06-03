@@ -4,12 +4,60 @@
   "scores": {
     "word:smelly": 4,
     "word:coffeehouse": 5,
-    "word:honeymoon": 5
+    "word:honeymoon": 5,
+    "word:valentines": 2,
+    "word:paleontology": 1,
+    "word:annulment": 1,
+    "word:tux": 1,
+    "word:massages": 2,
+    "word:roommates": 5,
+    "word:muffin": 2,
+    "word:paleontologist": 1,
+    "word:uterus": 1,
+    "word:slutty": 1,
+    "word:triplets": 1,
+    "word:cheesecake": 2,
+    "word:gotcha": 3,
+    "word:kisser": 4,
+    "word:ovulating": 1,
+    "word:phalange": 1,
+    "word:toner": 1,
+    "word:foosball": 1,
+    "word:macholate": 1,
+    "word:missy": 1,
+    "word:refrigerator": 1,
+    "word:strippers": 3,
+    "word:teeny": 1,
+    "word:auditions": 2
   },
   "scoreUpdatedAt": {
     "word:smelly": "2026-06-03T13:53:19.003Z",
     "word:coffeehouse": "2026-06-03T13:53:23.880Z",
-    "word:honeymoon": "2026-06-03T13:53:26.444Z"
+    "word:honeymoon": "2026-06-03T13:53:26.444Z",
+    "word:valentines": "2026-06-03T14:26:22.916Z",
+    "word:paleontology": "2026-06-03T14:26:26.396Z",
+    "word:annulment": "2026-06-03T14:26:27.978Z",
+    "word:tux": "2026-06-03T14:26:29.460Z",
+    "word:massages": "2026-06-03T14:26:33.143Z",
+    "word:roommates": "2026-06-03T14:26:35.449Z",
+    "word:muffin": "2026-06-03T14:26:39.847Z",
+    "word:paleontologist": "2026-06-03T14:26:47.330Z",
+    "word:uterus": "2026-06-03T14:26:51.064Z",
+    "word:slutty": "2026-06-03T14:26:55.466Z",
+    "word:triplets": "2026-06-03T14:26:57.332Z",
+    "word:cheesecake": "2026-06-03T14:27:01.585Z",
+    "word:gotcha": "2026-06-03T14:27:08.568Z",
+    "word:kisser": "2026-06-03T14:27:15.285Z",
+    "word:ovulating": "2026-06-03T14:27:18.418Z",
+    "word:phalange": "2026-06-03T14:27:19.902Z",
+    "word:toner": "2026-06-03T14:27:21.086Z",
+    "word:foosball": "2026-06-03T14:27:22.919Z",
+    "word:macholate": "2026-06-03T14:27:35.555Z",
+    "word:missy": "2026-06-03T14:27:37.305Z",
+    "word:refrigerator": "2026-06-03T14:27:39.889Z",
+    "word:strippers": "2026-06-03T14:27:44.173Z",
+    "word:teeny": "2026-06-03T14:27:46.674Z",
+    "word:auditions": "2026-06-03T14:27:50.142Z"
   },
   "scoreDeletedAt": {},
   "resetAt": null,
@@ -35,8 +83,176 @@
       "score": 5,
       "source": "screen",
       "at": "2026-06-03T13:53:26.444Z"
+    },
+    {
+      "itemId": "word:valentines",
+      "previous": null,
+      "score": 2,
+      "source": "screen",
+      "at": "2026-06-03T14:26:22.916Z"
+    },
+    {
+      "itemId": "word:paleontology",
+      "previous": null,
+      "score": 1,
+      "source": "screen",
+      "at": "2026-06-03T14:26:26.396Z"
+    },
+    {
+      "itemId": "word:annulment",
+      "previous": null,
+      "score": 1,
+      "source": "screen",
+      "at": "2026-06-03T14:26:27.978Z"
+    },
+    {
+      "itemId": "word:tux",
+      "previous": null,
+      "score": 1,
+      "source": "screen",
+      "at": "2026-06-03T14:26:29.460Z"
+    },
+    {
+      "itemId": "word:massages",
+      "previous": null,
+      "score": 2,
+      "source": "screen",
+      "at": "2026-06-03T14:26:33.143Z"
+    },
+    {
+      "itemId": "word:roommates",
+      "previous": null,
+      "score": 5,
+      "source": "screen",
+      "at": "2026-06-03T14:26:35.449Z"
+    },
+    {
+      "itemId": "word:muffin",
+      "previous": null,
+      "score": 2,
+      "source": "screen",
+      "at": "2026-06-03T14:26:39.847Z"
+    },
+    {
+      "itemId": "word:paleontologist",
+      "previous": null,
+      "score": 1,
+      "source": "screen",
+      "at": "2026-06-03T14:26:47.330Z"
+    },
+    {
+      "itemId": "word:uterus",
+      "previous": null,
+      "score": 1,
+      "source": "screen",
+      "at": "2026-06-03T14:26:51.064Z"
+    },
+    {
+      "itemId": "word:slutty",
+      "previous": null,
+      "score": 1,
+      "source": "screen",
+      "at": "2026-06-03T14:26:55.466Z"
+    },
+    {
+      "itemId": "word:triplets",
+      "previous": null,
+      "score": 1,
+      "source": "screen",
+      "at": "2026-06-03T14:26:57.332Z"
+    },
+    {
+      "itemId": "word:cheesecake",
+      "previous": null,
+      "score": 2,
+      "source": "screen",
+      "at": "2026-06-03T14:27:01.585Z"
+    },
+    {
+      "itemId": "word:gotcha",
+      "previous": null,
+      "score": 3,
+      "source": "screen",
+      "at": "2026-06-03T14:27:08.568Z"
+    },
+    {
+      "itemId": "word:kisser",
+      "previous": null,
+      "score": 4,
+      "source": "screen",
+      "at": "2026-06-03T14:27:15.285Z"
+    },
+    {
+      "itemId": "word:ovulating",
+      "previous": null,
+      "score": 1,
+      "source": "screen",
+      "at": "2026-06-03T14:27:18.418Z"
+    },
+    {
+      "itemId": "word:phalange",
+      "previous": null,
+      "score": 1,
+      "source": "screen",
+      "at": "2026-06-03T14:27:19.902Z"
+    },
+    {
+      "itemId": "word:toner",
+      "previous": null,
+      "score": 1,
+      "source": "screen",
+      "at": "2026-06-03T14:27:21.086Z"
+    },
+    {
+      "itemId": "word:foosball",
+      "previous": null,
+      "score": 1,
+      "source": "screen",
+      "at": "2026-06-03T14:27:22.919Z"
+    },
+    {
+      "itemId": "word:macholate",
+      "previous": null,
+      "score": 1,
+      "source": "screen",
+      "at": "2026-06-03T14:27:35.555Z"
+    },
+    {
+      "itemId": "word:missy",
+      "previous": null,
+      "score": 1,
+      "source": "screen",
+      "at": "2026-06-03T14:27:37.305Z"
+    },
+    {
+      "itemId": "word:refrigerator",
+      "previous": null,
+      "score": 1,
+      "source": "screen",
+      "at": "2026-06-03T14:27:39.889Z"
+    },
+    {
+      "itemId": "word:strippers",
+      "previous": null,
+      "score": 3,
+      "source": "screen",
+      "at": "2026-06-03T14:27:44.173Z"
+    },
+    {
+      "itemId": "word:teeny",
+      "previous": null,
+      "score": 1,
+      "source": "screen",
+      "at": "2026-06-03T14:27:46.674Z"
+    },
+    {
+      "itemId": "word:auditions",
+      "previous": null,
+      "score": 2,
+      "source": "screen",
+      "at": "2026-06-03T14:27:50.142Z"
     }
   ],
-  "savedAt": "2026-06-03T14:26:13.037Z",
-  "syncedAt": "2026-06-03T14:26:13.037Z"
+  "savedAt": "2026-06-03T14:27:54.608Z",
+  "syncedAt": "2026-06-03T14:27:54.608Z"
 }
