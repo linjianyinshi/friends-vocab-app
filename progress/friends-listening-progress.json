@@ -51,7 +51,33 @@
     "word:contraction": 1,
     "word:crotch": 1,
     "word:divorces": 4,
-    "word:gandalf": 1
+    "word:gandalf": 1,
+    "word:humiliating": 2,
+    "word:invitations": 4,
+    "word:kash": 1,
+    "word:lizzie": 1,
+    "word:masseuse": 1,
+    "word:mugged": 1,
+    "word:napkin": 5,
+    "word:noo": 1,
+    "word:obsessive": 1,
+    "word:ohhh": 5,
+    "word:pickle": 1,
+    "word:proposing": 1,
+    "word:roomie": 1,
+    "word:susie": 1,
+    "word:trifle": 1,
+    "word:unagi": 1,
+    "word:underpants": 4,
+    "word:wiener": 1,
+    "word:wuss": 1,
+    "word:bamboozled": 1,
+    "word:bijan": 1,
+    "word:birthdays": 5,
+    "word:boobies": 4,
+    "word:caterer": 1,
+    "word:centimeters": 4,
+    "word:cheerleader": 2
   },
   "scoreUpdatedAt": {
     "word:smelly": "2026-06-03T13:53:19.003Z",
@@ -103,7 +129,33 @@
     "word:contraction": "2026-06-03T14:32:49.967Z",
     "word:crotch": "2026-06-03T14:32:51.550Z",
     "word:divorces": "2026-06-03T14:32:54.383Z",
-    "word:gandalf": "2026-06-03T14:32:57.568Z"
+    "word:gandalf": "2026-06-03T14:32:57.568Z",
+    "word:humiliating": "2026-06-03T14:43:26.868Z",
+    "word:invitations": "2026-06-03T14:43:32.437Z",
+    "word:kash": "2026-06-03T14:43:34.816Z",
+    "word:lizzie": "2026-06-03T14:43:36.086Z",
+    "word:masseuse": "2026-06-03T14:43:37.902Z",
+    "word:mugged": "2026-06-03T14:43:39.521Z",
+    "word:napkin": "2026-06-03T14:43:44.154Z",
+    "word:noo": "2026-06-03T14:43:47.073Z",
+    "word:obsessive": "2026-06-03T14:43:50.006Z",
+    "word:ohhh": "2026-06-03T14:43:51.772Z",
+    "word:pickle": "2026-06-03T14:43:53.104Z",
+    "word:proposing": "2026-06-03T14:43:58.757Z",
+    "word:roomie": "2026-06-03T14:44:01.455Z",
+    "word:susie": "2026-06-03T14:44:02.723Z",
+    "word:trifle": "2026-06-03T14:44:04.891Z",
+    "word:unagi": "2026-06-03T14:44:08.643Z",
+    "word:underpants": "2026-06-03T14:44:12.791Z",
+    "word:wiener": "2026-06-03T14:44:14.959Z",
+    "word:wuss": "2026-06-03T14:44:16.008Z",
+    "word:bamboozled": "2026-06-03T14:44:18.645Z",
+    "word:bijan": "2026-06-03T14:44:20.693Z",
+    "word:birthdays": "2026-06-03T14:44:23.460Z",
+    "word:boobies": "2026-06-03T14:44:26.711Z",
+    "word:caterer": "2026-06-03T14:44:28.694Z",
+    "word:centimeters": "2026-06-03T14:44:33.045Z",
+    "word:cheerleader": "2026-06-03T14:44:47.115Z"
   },
   "scoreDeletedAt": {},
   "resetAt": null,
@@ -458,8 +510,190 @@
       "score": 1,
       "source": "screen",
       "at": "2026-06-03T14:32:57.568Z"
+    },
+    {
+      "itemId": "word:humiliating",
+      "previous": null,
+      "score": 2,
+      "source": "screen",
+      "at": "2026-06-03T14:43:26.868Z"
+    },
+    {
+      "itemId": "word:invitations",
+      "previous": null,
+      "score": 4,
+      "source": "screen",
+      "at": "2026-06-03T14:43:32.437Z"
+    },
+    {
+      "itemId": "word:kash",
+      "previous": null,
+      "score": 1,
+      "source": "screen",
+      "at": "2026-06-03T14:43:34.816Z"
+    },
+    {
+      "itemId": "word:lizzie",
+      "previous": null,
+      "score": 1,
+      "source": "screen",
+      "at": "2026-06-03T14:43:36.086Z"
+    },
+    {
+      "itemId": "word:masseuse",
+      "previous": null,
+      "score": 1,
+      "source": "screen",
+      "at": "2026-06-03T14:43:37.902Z"
+    },
+    {
+      "itemId": "word:mugged",
+      "previous": null,
+      "score": 1,
+      "source": "screen",
+      "at": "2026-06-03T14:43:39.521Z"
+    },
+    {
+      "itemId": "word:napkin",
+      "previous": null,
+      "score": 5,
+      "source": "screen",
+      "at": "2026-06-03T14:43:44.154Z"
+    },
+    {
+      "itemId": "word:noo",
+      "previous": null,
+      "score": 1,
+      "source": "screen",
+      "at": "2026-06-03T14:43:47.073Z"
+    },
+    {
+      "itemId": "word:obsessive",
+      "previous": null,
+      "score": 1,
+      "source": "screen",
+      "at": "2026-06-03T14:43:50.006Z"
+    },
+    {
+      "itemId": "word:ohhh",
+      "previous": null,
+      "score": 5,
+      "source": "screen",
+      "at": "2026-06-03T14:43:51.772Z"
+    },
+    {
+      "itemId": "word:pickle",
+      "previous": null,
+      "score": 1,
+      "source": "screen",
+      "at": "2026-06-03T14:43:53.104Z"
+    },
+    {
+      "itemId": "word:proposing",
+      "previous": null,
+      "score": 1,
+      "source": "screen",
+      "at": "2026-06-03T14:43:58.757Z"
+    },
+    {
+      "itemId": "word:roomie",
+      "previous": null,
+      "score": 1,
+      "source": "screen",
+      "at": "2026-06-03T14:44:01.455Z"
+    },
+    {
+      "itemId": "word:susie",
+      "previous": null,
+      "score": 1,
+      "source": "screen",
+      "at": "2026-06-03T14:44:02.723Z"
+    },
+    {
+      "itemId": "word:trifle",
+      "previous": null,
+      "score": 1,
+      "source": "screen",
+      "at": "2026-06-03T14:44:04.891Z"
+    },
+    {
+      "itemId": "word:unagi",
+      "previous": null,
+      "score": 1,
+      "source": "screen",
+      "at": "2026-06-03T14:44:08.643Z"
+    },
+    {
+      "itemId": "word:underpants",
+      "previous": null,
+      "score": 4,
+      "source": "screen",
+      "at": "2026-06-03T14:44:12.791Z"
+    },
+    {
+      "itemId": "word:wiener",
+      "previous": null,
+      "score": 1,
+      "source": "screen",
+      "at": "2026-06-03T14:44:14.959Z"
+    },
+    {
+      "itemId": "word:wuss",
+      "previous": null,
+      "score": 1,
+      "source": "screen",
+      "at": "2026-06-03T14:44:16.008Z"
+    },
+    {
+      "itemId": "word:bamboozled",
+      "previous": null,
+      "score": 1,
+      "source": "screen",
+      "at": "2026-06-03T14:44:18.645Z"
+    },
+    {
+      "itemId": "word:bijan",
+      "previous": null,
+      "score": 1,
+      "source": "screen",
+      "at": "2026-06-03T14:44:20.693Z"
+    },
+    {
+      "itemId": "word:birthdays",
+      "previous": null,
+      "score": 5,
+      "source": "screen",
+      "at": "2026-06-03T14:44:23.460Z"
+    },
+    {
+      "itemId": "word:boobies",
+      "previous": null,
+      "score": 4,
+      "source": "screen",
+      "at": "2026-06-03T14:44:26.711Z"
+    },
+    {
+      "itemId": "word:caterer",
+      "previous": null,
+      "score": 1,
+      "source": "screen",
+      "at": "2026-06-03T14:44:28.694Z"
+    },
+    {
+      "itemId": "word:centimeters",
+      "previous": null,
+      "score": 4,
+      "source": "screen",
+      "at": "2026-06-03T14:44:33.045Z"
+    },
+    {
+      "itemId": "word:cheerleader",
+      "previous": null,
+      "score": 2,
+      "source": "screen",
+      "at": "2026-06-03T14:44:47.115Z"
     }
   ],
-  "savedAt": "2026-06-03T14:43:21.146Z",
-  "syncedAt": "2026-06-03T14:43:21.146Z"
+  "savedAt": "2026-06-03T14:44:51.034Z",
+  "syncedAt": "2026-06-03T14:44:51.034Z"
 }
