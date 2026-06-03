@@ -1,0 +1,42 @@
+{
+  "app": "friends-listening-review",
+  "version": 1,
+  "scores": {
+    "word:smelly": 4,
+    "word:coffeehouse": 5,
+    "word:honeymoon": 5
+  },
+  "scoreUpdatedAt": {
+    "word:smelly": "2026-06-03T13:53:19.003Z",
+    "word:coffeehouse": "2026-06-03T13:53:23.880Z",
+    "word:honeymoon": "2026-06-03T13:53:26.444Z"
+  },
+  "scoreDeletedAt": {},
+  "resetAt": null,
+  "notes": {},
+  "history": [
+    {
+      "itemId": "word:smelly",
+      "previous": null,
+      "score": 4,
+      "source": "screen",
+      "at": "2026-06-03T13:53:19.003Z"
+    },
+    {
+      "itemId": "word:coffeehouse",
+      "previous": null,
+      "score": 5,
+      "source": "screen",
+      "at": "2026-06-03T13:53:23.880Z"
+    },
+    {
+      "itemId": "word:honeymoon",
+      "previous": null,
+      "score": 5,
+      "source": "screen",
+      "at": "2026-06-03T13:53:26.444Z"
+    }
+  ],
+  "savedAt": "2026-06-03T14:10:40.591Z",
+  "syncedAt": "2026-06-03T14:10:40.591Z"
+}
