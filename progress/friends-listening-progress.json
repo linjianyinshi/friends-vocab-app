@@ -28,7 +28,30 @@
     "word:refrigerator": 1,
     "word:strippers": 3,
     "word:teeny": 1,
-    "word:auditions": 2
+    "word:auditions": 2,
+    "word:bridesmaid": 1,
+    "word:bummed": 1,
+    "word:lousy": 1,
+    "word:maam": 1,
+    "word:nobodys": 5,
+    "word:nooo": 1,
+    "word:someplace": 5,
+    "word:armadillo": 1,
+    "word:drapes": 1,
+    "word:fiance": 2,
+    "word:fling": 1,
+    "word:lasagna": 1,
+    "word:maternity": 1,
+    "word:moustache": 2,
+    "word:swoop": 1,
+    "word:wha": 1,
+    "word:whod": 1,
+    "word:bras": 1,
+    "word:breezy": 2,
+    "word:contraction": 1,
+    "word:crotch": 1,
+    "word:divorces": 4,
+    "word:gandalf": 1
   },
   "scoreUpdatedAt": {
     "word:smelly": "2026-06-03T13:53:19.003Z",
@@ -57,7 +80,30 @@
     "word:refrigerator": "2026-06-03T14:27:39.889Z",
     "word:strippers": "2026-06-03T14:27:44.173Z",
     "word:teeny": "2026-06-03T14:27:46.674Z",
-    "word:auditions": "2026-06-03T14:27:50.142Z"
+    "word:auditions": "2026-06-03T14:27:50.142Z",
+    "word:bridesmaid": "2026-06-03T14:31:51.640Z",
+    "word:bummed": "2026-06-03T14:32:02.259Z",
+    "word:lousy": "2026-06-03T14:32:03.924Z",
+    "word:maam": "2026-06-03T14:32:05.725Z",
+    "word:nobodys": "2026-06-03T14:32:09.508Z",
+    "word:nooo": "2026-06-03T14:32:12.360Z",
+    "word:someplace": "2026-06-03T14:32:15.377Z",
+    "word:armadillo": "2026-06-03T14:32:16.826Z",
+    "word:drapes": "2026-06-03T14:32:19.977Z",
+    "word:fiance": "2026-06-03T14:32:24.562Z",
+    "word:fling": "2026-06-03T14:32:25.962Z",
+    "word:lasagna": "2026-06-03T14:32:28.912Z",
+    "word:maternity": "2026-06-03T14:32:31.314Z",
+    "word:moustache": "2026-06-03T14:32:37.414Z",
+    "word:swoop": "2026-06-03T14:32:40.164Z",
+    "word:wha": "2026-06-03T14:32:42.231Z",
+    "word:whod": "2026-06-03T14:32:43.332Z",
+    "word:bras": "2026-06-03T14:32:45.215Z",
+    "word:breezy": "2026-06-03T14:32:47.683Z",
+    "word:contraction": "2026-06-03T14:32:49.967Z",
+    "word:crotch": "2026-06-03T14:32:51.550Z",
+    "word:divorces": "2026-06-03T14:32:54.383Z",
+    "word:gandalf": "2026-06-03T14:32:57.568Z"
   },
   "scoreDeletedAt": {},
   "resetAt": null,
@@ -251,8 +297,169 @@
       "score": 2,
       "source": "screen",
       "at": "2026-06-03T14:27:50.142Z"
+    },
+    {
+      "itemId": "word:bridesmaid",
+      "previous": null,
+      "score": 1,
+      "source": "screen",
+      "at": "2026-06-03T14:31:51.640Z"
+    },
+    {
+      "itemId": "word:bummed",
+      "previous": null,
+      "score": 1,
+      "source": "screen",
+      "at": "2026-06-03T14:32:02.259Z"
+    },
+    {
+      "itemId": "word:lousy",
+      "previous": null,
+      "score": 1,
+      "source": "screen",
+      "at": "2026-06-03T14:32:03.924Z"
+    },
+    {
+      "itemId": "word:maam",
+      "previous": null,
+      "score": 1,
+      "source": "screen",
+      "at": "2026-06-03T14:32:05.725Z"
+    },
+    {
+      "itemId": "word:nobodys",
+      "previous": null,
+      "score": 5,
+      "source": "screen",
+      "at": "2026-06-03T14:32:09.508Z"
+    },
+    {
+      "itemId": "word:nooo",
+      "previous": null,
+      "score": 1,
+      "source": "screen",
+      "at": "2026-06-03T14:32:12.360Z"
+    },
+    {
+      "itemId": "word:someplace",
+      "previous": null,
+      "score": 5,
+      "source": "screen",
+      "at": "2026-06-03T14:32:15.377Z"
+    },
+    {
+      "itemId": "word:armadillo",
+      "previous": null,
+      "score": 1,
+      "source": "screen",
+      "at": "2026-06-03T14:32:16.826Z"
+    },
+    {
+      "itemId": "word:drapes",
+      "previous": null,
+      "score": 1,
+      "source": "screen",
+      "at": "2026-06-03T14:32:19.977Z"
+    },
+    {
+      "itemId": "word:fiance",
+      "previous": null,
+      "score": 2,
+      "source": "screen",
+      "at": "2026-06-03T14:32:24.562Z"
+    },
+    {
+      "itemId": "word:fling",
+      "previous": null,
+      "score": 1,
+      "source": "screen",
+      "at": "2026-06-03T14:32:25.962Z"
+    },
+    {
+      "itemId": "word:lasagna",
+      "previous": null,
+      "score": 1,
+      "source": "screen",
+      "at": "2026-06-03T14:32:28.912Z"
+    },
+    {
+      "itemId": "word:maternity",
+      "previous": null,
+      "score": 1,
+      "source": "screen",
+      "at": "2026-06-03T14:32:31.314Z"
+    },
+    {
+      "itemId": "word:moustache",
+      "previous": null,
+      "score": 2,
+      "source": "screen",
+      "at": "2026-06-03T14:32:37.414Z"
+    },
+    {
+      "itemId": "word:swoop",
+      "previous": null,
+      "score": 1,
+      "source": "screen",
+      "at": "2026-06-03T14:32:40.164Z"
+    },
+    {
+      "itemId": "word:wha",
+      "previous": null,
+      "score": 1,
+      "source": "screen",
+      "at": "2026-06-03T14:32:42.231Z"
+    },
+    {
+      "itemId": "word:whod",
+      "previous": null,
+      "score": 1,
+      "source": "screen",
+      "at": "2026-06-03T14:32:43.332Z"
+    },
+    {
+      "itemId": "word:bras",
+      "previous": null,
+      "score": 1,
+      "source": "screen",
+      "at": "2026-06-03T14:32:45.215Z"
+    },
+    {
+      "itemId": "word:breezy",
+      "previous": null,
+      "score": 2,
+      "source": "screen",
+      "at": "2026-06-03T14:32:47.683Z"
+    },
+    {
+      "itemId": "word:contraction",
+      "previous": null,
+      "score": 1,
+      "source": "screen",
+      "at": "2026-06-03T14:32:49.967Z"
+    },
+    {
+      "itemId": "word:crotch",
+      "previous": null,
+      "score": 1,
+      "source": "screen",
+      "at": "2026-06-03T14:32:51.550Z"
+    },
+    {
+      "itemId": "word:divorces",
+      "previous": null,
+      "score": 4,
+      "source": "screen",
+      "at": "2026-06-03T14:32:54.383Z"
+    },
+    {
+      "itemId": "word:gandalf",
+      "previous": null,
+      "score": 1,
+      "source": "screen",
+      "at": "2026-06-03T14:32:57.568Z"
     }
   ],
-  "savedAt": "2026-06-03T14:31:46.348Z",
-  "syncedAt": "2026-06-03T14:31:46.348Z"
+  "savedAt": "2026-06-03T14:33:03.653Z",
+  "syncedAt": "2026-06-03T14:33:03.653Z"
 }
