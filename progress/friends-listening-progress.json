@@ -981,7 +981,15 @@
     "word:bladder": 1,
     "word:burst": 1,
     "word:cruise": 1,
-    "word:fabric": 1
+    "word:fabric": 1,
+    "word:flavor": 1,
+    "word:jaw": 1,
+    "word:juicy": 1,
+    "word:kitten": 5,
+    "word:sack": 1,
+    "word:scissors": 4,
+    "word:smartest": 5,
+    "word:sushi": 3
   },
   "scoreUpdatedAt": {
     "word:smelly": "2026-06-03T13:53:19.003Z",
@@ -2111,7 +2119,15 @@
     "word:bladder": "2026-06-05T13:44:08.627Z",
     "word:burst": "2026-06-05T13:44:09.580Z",
     "word:cruise": "2026-06-05T13:44:10.427Z",
-    "word:fabric": "2026-06-05T13:44:12.447Z"
+    "word:fabric": "2026-06-05T13:44:12.447Z",
+    "word:flavor": "2026-06-05T13:44:46.633Z",
+    "word:jaw": "2026-06-05T13:44:47.784Z",
+    "word:juicy": "2026-06-05T13:44:50.935Z",
+    "word:kitten": "2026-06-05T13:44:53.251Z",
+    "word:sack": "2026-06-05T13:44:55.135Z",
+    "word:scissors": "2026-06-05T13:44:59.520Z",
+    "word:smartest": "2026-06-05T13:45:02.186Z",
+    "word:sushi": "2026-06-05T13:45:26.473Z"
   },
   "scoreDeletedAt": {
     "word:valentines": "2026-06-04T13:10:50Z",
@@ -2271,48 +2287,6 @@
   "resetAt": null,
   "notes": {},
   "history": [
-    {
-      "itemId": "word:smelly",
-      "previous": null,
-      "score": 4,
-      "source": "screen",
-      "at": "2026-06-03T13:53:19.003Z"
-    },
-    {
-      "itemId": "word:coffeehouse",
-      "previous": null,
-      "score": 5,
-      "source": "screen",
-      "at": "2026-06-03T13:53:23.880Z"
-    },
-    {
-      "itemId": "word:honeymoon",
-      "previous": null,
-      "score": 5,
-      "source": "screen",
-      "at": "2026-06-03T13:53:26.444Z"
-    },
-    {
-      "itemId": "word:paleontology",
-      "previous": null,
-      "score": 1,
-      "source": "screen",
-      "at": "2026-06-03T14:26:26.396Z"
-    },
-    {
-      "itemId": "word:annulment",
-      "previous": null,
-      "score": 1,
-      "source": "screen",
-      "at": "2026-06-03T14:26:27.978Z"
-    },
-    {
-      "itemId": "word:tux",
-      "previous": null,
-      "score": 1,
-      "source": "screen",
-      "at": "2026-06-03T14:26:29.460Z"
-    },
     {
       "itemId": "word:massage",
       "previous": null,
@@ -9256,8 +9230,64 @@
       "score": 1,
       "source": "screen",
       "at": "2026-06-05T13:44:12.447Z"
+    },
+    {
+      "itemId": "word:flavor",
+      "previous": null,
+      "score": 1,
+      "source": "screen",
+      "at": "2026-06-05T13:44:46.633Z"
+    },
+    {
+      "itemId": "word:jaw",
+      "previous": null,
+      "score": 1,
+      "source": "screen",
+      "at": "2026-06-05T13:44:47.784Z"
+    },
+    {
+      "itemId": "word:juicy",
+      "previous": null,
+      "score": 1,
+      "source": "screen",
+      "at": "2026-06-05T13:44:50.935Z"
+    },
+    {
+      "itemId": "word:kitten",
+      "previous": null,
+      "score": 5,
+      "source": "screen",
+      "at": "2026-06-05T13:44:53.251Z"
+    },
+    {
+      "itemId": "word:sack",
+      "previous": null,
+      "score": 1,
+      "source": "screen",
+      "at": "2026-06-05T13:44:55.135Z"
+    },
+    {
+      "itemId": "word:scissors",
+      "previous": null,
+      "score": 4,
+      "source": "screen",
+      "at": "2026-06-05T13:44:59.520Z"
+    },
+    {
+      "itemId": "word:smartest",
+      "previous": null,
+      "score": 5,
+      "source": "screen",
+      "at": "2026-06-05T13:45:02.186Z"
+    },
+    {
+      "itemId": "word:sushi",
+      "previous": null,
+      "score": 3,
+      "source": "screen",
+      "at": "2026-06-05T13:45:26.473Z"
     }
   ],
-  "savedAt": "2026-06-05T13:44:18.462Z",
-  "syncedAt": "2026-06-05T13:44:18.462Z"
+  "savedAt": "2026-06-05T13:45:32.899Z",
+  "syncedAt": "2026-06-05T13:45:32.899Z"
 }
