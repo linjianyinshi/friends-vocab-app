@@ -1442,7 +1442,11 @@
     "word:workin": 1,
     "word:yuck": 1,
     "word:anchovies": 1,
-    "word:becasue": 1
+    "word:becasue": 1,
+    "word:beginners": 1,
+    "word:brochures": 1,
+    "word:buzzer": 1,
+    "word:cabdriver": 1
   },
   "scoreUpdatedAt": {
     "word:smelly": "2026-06-03T13:53:19.003Z",
@@ -3033,7 +3037,11 @@
     "word:workin": "2026-06-10T13:30:56.477Z",
     "word:yuck": "2026-06-10T13:30:57.495Z",
     "word:anchovies": "2026-06-10T13:30:58.268Z",
-    "word:becasue": "2026-06-10T13:30:59.573Z"
+    "word:becasue": "2026-06-10T13:30:59.573Z",
+    "word:beginners": "2026-06-10T13:31:55.206Z",
+    "word:brochures": "2026-06-10T13:32:02.197Z",
+    "word:buzzer": "2026-06-10T13:32:02.977Z",
+    "word:cabdriver": "2026-06-10T13:32:04.249Z"
   },
   "scoreDeletedAt": {
     "word:valentines": "2026-06-04T13:10:50Z",
@@ -3193,34 +3201,6 @@
   "resetAt": null,
   "notes": {},
   "history": [
-    {
-      "itemId": "word:cast",
-      "previous": null,
-      "score": 1,
-      "source": "screen",
-      "at": "2026-06-04T14:30:04.850Z"
-    },
-    {
-      "itemId": "word:cop",
-      "previous": null,
-      "score": 1,
-      "source": "screen",
-      "at": "2026-06-04T14:30:06.077Z"
-    },
-    {
-      "itemId": "word:accent",
-      "previous": null,
-      "score": 2,
-      "source": "screen",
-      "at": "2026-06-04T14:30:10.250Z"
-    },
-    {
-      "itemId": "word:bang",
-      "previous": null,
-      "score": 1,
-      "source": "screen",
-      "at": "2026-06-04T14:30:11.606Z"
-    },
     {
       "itemId": "word:shave",
       "previous": null,
@@ -10192,8 +10172,36 @@
       "score": 1,
       "source": "screen",
       "at": "2026-06-10T13:30:59.573Z"
+    },
+    {
+      "itemId": "word:beginners",
+      "previous": null,
+      "score": 1,
+      "source": "screen",
+      "at": "2026-06-10T13:31:55.206Z"
+    },
+    {
+      "itemId": "word:brochures",
+      "previous": null,
+      "score": 1,
+      "source": "screen",
+      "at": "2026-06-10T13:32:02.197Z"
+    },
+    {
+      "itemId": "word:buzzer",
+      "previous": null,
+      "score": 1,
+      "source": "screen",
+      "at": "2026-06-10T13:32:02.977Z"
+    },
+    {
+      "itemId": "word:cabdriver",
+      "previous": null,
+      "score": 1,
+      "source": "screen",
+      "at": "2026-06-10T13:32:04.249Z"
     }
   ],
-  "savedAt": "2026-06-10T13:31:05.217Z",
-  "syncedAt": "2026-06-10T13:31:05.217Z"
+  "savedAt": "2026-06-10T13:32:11.424Z",
+  "syncedAt": "2026-06-10T13:32:11.424Z"
 }
