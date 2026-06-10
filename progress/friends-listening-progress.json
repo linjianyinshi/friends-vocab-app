@@ -1367,7 +1367,32 @@
     "word:lust": 1,
     "word:mache": 1,
     "word:maneuver": 1,
-    "word:martini": 1
+    "word:martini": 1,
+    "word:matey": 1,
+    "word:mazel": 1,
+    "word:messer": 1,
+    "word:mingle": 1,
+    "word:missus": 1,
+    "word:mitts": 1,
+    "word:mitzvah": 1,
+    "word:moth": 1,
+    "word:mozzarella": 1,
+    "word:mumble": 1,
+    "word:newsstand": 1,
+    "word:nooooo": 0,
+    "word:orgasm": 1,
+    "word:oughta": 1,
+    "word:overhear": 1,
+    "word:pecs": 1,
+    "word:plunge": 1,
+    "word:potpourri": 1,
+    "word:projectile": 1,
+    "word:prototype": 1,
+    "word:rattle": 1,
+    "word:receiver": 1,
+    "word:redo": 1,
+    "word:reflex": 1,
+    "word:reunion": 1
   },
   "scoreUpdatedAt": {
     "word:smelly": "2026-06-03T13:53:19.003Z",
@@ -2883,7 +2908,32 @@
     "word:lust": "2026-06-10T13:28:05.756Z",
     "word:mache": "2026-06-10T13:28:08.857Z",
     "word:maneuver": "2026-06-10T13:28:09.994Z",
-    "word:martini": "2026-06-10T13:28:14.206Z"
+    "word:martini": "2026-06-10T13:28:14.206Z",
+    "word:matey": "2026-06-10T13:28:24.477Z",
+    "word:mazel": "2026-06-10T13:28:25.373Z",
+    "word:messer": "2026-06-10T13:28:26.640Z",
+    "word:mingle": "2026-06-10T13:28:27.773Z",
+    "word:missus": "2026-06-10T13:28:30.758Z",
+    "word:mitts": "2026-06-10T13:28:31.767Z",
+    "word:mitzvah": "2026-06-10T13:28:32.920Z",
+    "word:moth": "2026-06-10T13:28:34.523Z",
+    "word:mozzarella": "2026-06-10T13:28:35.519Z",
+    "word:mumble": "2026-06-10T13:28:36.583Z",
+    "word:newsstand": "2026-06-10T13:28:38.963Z",
+    "word:nooooo": "2026-06-10T13:28:40.847Z",
+    "word:orgasm": "2026-06-10T13:28:43.390Z",
+    "word:oughta": "2026-06-10T13:28:44.450Z",
+    "word:overhear": "2026-06-10T13:28:45.364Z",
+    "word:pecs": "2026-06-10T13:28:46.445Z",
+    "word:plunge": "2026-06-10T13:28:47.547Z",
+    "word:potpourri": "2026-06-10T13:28:48.877Z",
+    "word:projectile": "2026-06-10T13:28:49.960Z",
+    "word:prototype": "2026-06-10T13:28:51.440Z",
+    "word:rattle": "2026-06-10T13:28:52.528Z",
+    "word:receiver": "2026-06-10T13:28:53.848Z",
+    "word:redo": "2026-06-10T13:28:55.185Z",
+    "word:reflex": "2026-06-10T13:28:56.602Z",
+    "word:reunion": "2026-06-10T13:28:57.519Z"
   },
   "scoreDeletedAt": {
     "word:valentines": "2026-06-04T13:10:50Z",
@@ -3043,181 +3093,6 @@
   "resetAt": null,
   "notes": {},
   "history": [
-    {
-      "itemId": "word:nipple",
-      "previous": null,
-      "score": 2,
-      "source": "screen",
-      "at": "2026-06-04T14:26:08.332Z"
-    },
-    {
-      "itemId": "word:power",
-      "previous": null,
-      "score": 5,
-      "source": "screen",
-      "at": "2026-06-04T14:26:09.795Z"
-    },
-    {
-      "itemId": "word:pound",
-      "previous": null,
-      "score": 1,
-      "source": "screen",
-      "at": "2026-06-04T14:26:12.566Z"
-    },
-    {
-      "itemId": "word:blind",
-      "previous": null,
-      "score": 5,
-      "source": "screen",
-      "at": "2026-06-04T14:26:14.346Z"
-    },
-    {
-      "itemId": "word:spit",
-      "previous": null,
-      "score": 1,
-      "source": "screen",
-      "at": "2026-06-04T14:26:15.783Z"
-    },
-    {
-      "itemId": "word:opera",
-      "previous": null,
-      "score": 2,
-      "source": "screen",
-      "at": "2026-06-04T14:26:21.283Z"
-    },
-    {
-      "itemId": "word:flip",
-      "previous": null,
-      "score": 1,
-      "source": "screen",
-      "at": "2026-06-04T14:26:23.179Z"
-    },
-    {
-      "itemId": "word:boob",
-      "previous": null,
-      "score": 1,
-      "source": "screen",
-      "at": "2026-06-04T14:26:29.735Z"
-    },
-    {
-      "itemId": "word:puppy",
-      "previous": null,
-      "score": 1,
-      "source": "screen",
-      "at": "2026-06-04T14:26:36.286Z"
-    },
-    {
-      "itemId": "word:puppy",
-      "previous": 1,
-      "score": 5,
-      "source": "screen",
-      "at": "2026-06-04T14:26:42.766Z"
-    },
-    {
-      "itemId": "word:sock",
-      "previous": null,
-      "score": 2,
-      "source": "screen",
-      "at": "2026-06-04T14:26:47.221Z"
-    },
-    {
-      "itemId": "word:breakfast",
-      "previous": null,
-      "score": 5,
-      "source": "screen",
-      "at": "2026-06-04T14:26:48.568Z"
-    },
-    {
-      "itemId": "word:paint",
-      "previous": null,
-      "score": 5,
-      "source": "screen",
-      "at": "2026-06-04T14:26:50.139Z"
-    },
-    {
-      "itemId": "word:nap",
-      "previous": null,
-      "score": 5,
-      "source": "screen",
-      "at": "2026-06-04T14:26:52.255Z"
-    },
-    {
-      "itemId": "word:nap",
-      "previous": 5,
-      "score": 1,
-      "source": "screen",
-      "at": "2026-06-04T14:26:55.030Z"
-    },
-    {
-      "itemId": "word:service",
-      "previous": null,
-      "score": 4,
-      "source": "screen",
-      "at": "2026-06-04T14:26:59.673Z"
-    },
-    {
-      "itemId": "word:closet",
-      "previous": null,
-      "score": 2,
-      "source": "screen",
-      "at": "2026-06-04T14:27:02.974Z"
-    },
-    {
-      "itemId": "word:forgive",
-      "previous": null,
-      "score": 5,
-      "source": "screen",
-      "at": "2026-06-04T14:27:06.522Z"
-    },
-    {
-      "itemId": "word:strip",
-      "previous": null,
-      "score": 1,
-      "source": "screen",
-      "at": "2026-06-04T14:27:08.892Z"
-    },
-    {
-      "itemId": "word:wrap",
-      "previous": null,
-      "score": 1,
-      "source": "screen",
-      "at": "2026-06-04T14:27:14.860Z"
-    },
-    {
-      "itemId": "word:pal",
-      "previous": null,
-      "score": 1,
-      "source": "screen",
-      "at": "2026-06-04T14:27:18.107Z"
-    },
-    {
-      "itemId": "word:bath",
-      "previous": null,
-      "score": 2,
-      "source": "screen",
-      "at": "2026-06-04T14:27:24.494Z"
-    },
-    {
-      "itemId": "word:cheer",
-      "previous": null,
-      "score": 4,
-      "source": "screen",
-      "at": "2026-06-04T14:27:27.257Z"
-    },
-    {
-      "itemId": "word:super",
-      "previous": null,
-      "score": 5,
-      "source": "screen",
-      "at": "2026-06-04T14:27:28.629Z"
-    },
-    {
-      "itemId": "word:brown",
-      "previous": null,
-      "score": 5,
-      "source": "screen",
-      "at": "2026-06-04T14:27:30.441Z"
-    },
     {
       "itemId": "word:warm",
       "previous": null,
@@ -10042,8 +9917,183 @@
       "score": 1,
       "source": "screen",
       "at": "2026-06-10T13:28:14.206Z"
+    },
+    {
+      "itemId": "word:matey",
+      "previous": null,
+      "score": 1,
+      "source": "screen",
+      "at": "2026-06-10T13:28:24.477Z"
+    },
+    {
+      "itemId": "word:mazel",
+      "previous": null,
+      "score": 1,
+      "source": "screen",
+      "at": "2026-06-10T13:28:25.373Z"
+    },
+    {
+      "itemId": "word:messer",
+      "previous": null,
+      "score": 1,
+      "source": "screen",
+      "at": "2026-06-10T13:28:26.640Z"
+    },
+    {
+      "itemId": "word:mingle",
+      "previous": null,
+      "score": 1,
+      "source": "screen",
+      "at": "2026-06-10T13:28:27.773Z"
+    },
+    {
+      "itemId": "word:missus",
+      "previous": null,
+      "score": 1,
+      "source": "screen",
+      "at": "2026-06-10T13:28:30.758Z"
+    },
+    {
+      "itemId": "word:mitts",
+      "previous": null,
+      "score": 1,
+      "source": "screen",
+      "at": "2026-06-10T13:28:31.767Z"
+    },
+    {
+      "itemId": "word:mitzvah",
+      "previous": null,
+      "score": 1,
+      "source": "screen",
+      "at": "2026-06-10T13:28:32.920Z"
+    },
+    {
+      "itemId": "word:moth",
+      "previous": null,
+      "score": 1,
+      "source": "screen",
+      "at": "2026-06-10T13:28:34.523Z"
+    },
+    {
+      "itemId": "word:mozzarella",
+      "previous": null,
+      "score": 1,
+      "source": "screen",
+      "at": "2026-06-10T13:28:35.519Z"
+    },
+    {
+      "itemId": "word:mumble",
+      "previous": null,
+      "score": 1,
+      "source": "screen",
+      "at": "2026-06-10T13:28:36.583Z"
+    },
+    {
+      "itemId": "word:newsstand",
+      "previous": null,
+      "score": 1,
+      "source": "screen",
+      "at": "2026-06-10T13:28:38.963Z"
+    },
+    {
+      "itemId": "word:nooooo",
+      "previous": null,
+      "score": 0,
+      "source": "screen",
+      "at": "2026-06-10T13:28:40.847Z"
+    },
+    {
+      "itemId": "word:orgasm",
+      "previous": null,
+      "score": 1,
+      "source": "screen",
+      "at": "2026-06-10T13:28:43.390Z"
+    },
+    {
+      "itemId": "word:oughta",
+      "previous": null,
+      "score": 1,
+      "source": "screen",
+      "at": "2026-06-10T13:28:44.450Z"
+    },
+    {
+      "itemId": "word:overhear",
+      "previous": null,
+      "score": 1,
+      "source": "screen",
+      "at": "2026-06-10T13:28:45.364Z"
+    },
+    {
+      "itemId": "word:pecs",
+      "previous": null,
+      "score": 1,
+      "source": "screen",
+      "at": "2026-06-10T13:28:46.445Z"
+    },
+    {
+      "itemId": "word:plunge",
+      "previous": null,
+      "score": 1,
+      "source": "screen",
+      "at": "2026-06-10T13:28:47.547Z"
+    },
+    {
+      "itemId": "word:potpourri",
+      "previous": null,
+      "score": 1,
+      "source": "screen",
+      "at": "2026-06-10T13:28:48.877Z"
+    },
+    {
+      "itemId": "word:projectile",
+      "previous": null,
+      "score": 1,
+      "source": "screen",
+      "at": "2026-06-10T13:28:49.960Z"
+    },
+    {
+      "itemId": "word:prototype",
+      "previous": null,
+      "score": 1,
+      "source": "screen",
+      "at": "2026-06-10T13:28:51.440Z"
+    },
+    {
+      "itemId": "word:rattle",
+      "previous": null,
+      "score": 1,
+      "source": "screen",
+      "at": "2026-06-10T13:28:52.528Z"
+    },
+    {
+      "itemId": "word:receiver",
+      "previous": null,
+      "score": 1,
+      "source": "screen",
+      "at": "2026-06-10T13:28:53.848Z"
+    },
+    {
+      "itemId": "word:redo",
+      "previous": null,
+      "score": 1,
+      "source": "screen",
+      "at": "2026-06-10T13:28:55.185Z"
+    },
+    {
+      "itemId": "word:reflex",
+      "previous": null,
+      "score": 1,
+      "source": "screen",
+      "at": "2026-06-10T13:28:56.602Z"
+    },
+    {
+      "itemId": "word:reunion",
+      "previous": null,
+      "score": 1,
+      "source": "screen",
+      "at": "2026-06-10T13:28:57.519Z"
     }
   ],
-  "savedAt": "2026-06-10T13:28:18.002Z",
-  "syncedAt": "2026-06-10T13:28:18.002Z"
+  "savedAt": "2026-06-10T13:29:01.288Z",
+  "syncedAt": "2026-06-10T13:29:01.288Z"
 }
