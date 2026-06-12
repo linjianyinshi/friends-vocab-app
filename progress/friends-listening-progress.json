@@ -260,10 +260,10 @@
     "word:hang": 5,
     "word:forget": 5,
     "word:sweet": 5,
-    "word:mind": 4,
+    "word:mind": 5,
     "word:ring": 5,
     "word:joke": 5,
-    "word:figure": 3,
+    "word:figure": 5,
     "word:dance": 5,
     "word:dog": 5,
     "word:hair": 5,
@@ -1515,7 +1515,15 @@
     "word:alright": 5,
     "word:parent": 5,
     "word:found": 5,
-    "word:read": 5
+    "word:read": 5,
+    "phrase:get back": 5,
+    "phrase:hold on": 5,
+    "word:eye": 5,
+    "word:beautiful": 5,
+    "word:dress": 5,
+    "word:food": 5,
+    "word:late": 5,
+    "word:father": 5
   },
   "scoreUpdatedAt": {
     "word:smelly": "2026-06-03T13:53:19.003Z",
@@ -1776,10 +1784,10 @@
     "word:hang": "2026-06-12T15:08:16.673Z",
     "word:forget": "2026-06-04T13:58:09.519Z",
     "word:sweet": "2026-06-04T13:58:17.854Z",
-    "word:mind": "2026-06-04T13:58:26.806Z",
+    "word:mind": "2026-06-12T15:10:57.076Z",
     "word:ring": "2026-06-04T13:58:37.324Z",
     "word:joke": "2026-06-04T13:58:40.275Z",
-    "word:figure": "2026-06-04T13:58:46.808Z",
+    "word:figure": "2026-06-12T15:11:07.108Z",
     "word:dance": "2026-06-04T13:58:49.760Z",
     "word:dog": "2026-06-04T13:58:51.359Z",
     "word:hair": "2026-06-04T13:58:53.110Z",
@@ -3184,7 +3192,15 @@
     "word:alright": "2026-06-12T15:08:43.335Z",
     "word:parent": "2026-06-12T15:08:47.365Z",
     "word:found": "2026-06-12T15:08:48.723Z",
-    "word:read": "2026-06-12T15:08:50.045Z"
+    "word:read": "2026-06-12T15:08:50.045Z",
+    "phrase:get back": "2026-06-12T15:10:51.617Z",
+    "phrase:hold on": "2026-06-12T15:10:52.918Z",
+    "word:eye": "2026-06-12T15:10:54.119Z",
+    "word:beautiful": "2026-06-12T15:10:55.394Z",
+    "word:dress": "2026-06-12T15:10:58.726Z",
+    "word:food": "2026-06-12T15:11:01.711Z",
+    "word:late": "2026-06-12T15:11:04.536Z",
+    "word:father": "2026-06-12T15:11:05.661Z"
   },
   "scoreDeletedAt": {
     "word:valentines": "2026-06-04T13:10:50Z",
@@ -3344,76 +3360,6 @@
   "resetAt": null,
   "notes": {},
   "history": [
-    {
-      "itemId": "word:horse",
-      "previous": null,
-      "score": 5,
-      "source": "screen",
-      "at": "2026-06-04T14:33:43.921Z"
-    },
-    {
-      "itemId": "word:tank",
-      "previous": null,
-      "score": 5,
-      "source": "screen",
-      "at": "2026-06-04T14:33:45.814Z"
-    },
-    {
-      "itemId": "word:panty",
-      "previous": null,
-      "score": 1,
-      "source": "screen",
-      "at": "2026-06-04T14:33:49.523Z"
-    },
-    {
-      "itemId": "word:parade",
-      "previous": null,
-      "score": 1,
-      "source": "screen",
-      "at": "2026-06-04T14:33:52.815Z"
-    },
-    {
-      "itemId": "word:tray",
-      "previous": null,
-      "score": 1,
-      "source": "screen",
-      "at": "2026-06-04T14:33:53.839Z"
-    },
-    {
-      "itemId": "word:prefer",
-      "previous": null,
-      "score": 4,
-      "source": "screen",
-      "at": "2026-06-04T14:33:57.799Z"
-    },
-    {
-      "itemId": "word:counter",
-      "previous": null,
-      "score": 4,
-      "source": "screen",
-      "at": "2026-06-04T14:34:02.883Z"
-    },
-    {
-      "itemId": "word:lap",
-      "previous": null,
-      "score": 1,
-      "source": "screen",
-      "at": "2026-06-04T14:34:05.591Z"
-    },
-    {
-      "itemId": "word:tail",
-      "previous": null,
-      "score": 5,
-      "source": "screen",
-      "at": "2026-06-04T14:34:07.017Z"
-    },
-    {
-      "itemId": "word:code",
-      "previous": null,
-      "score": 4,
-      "source": "screen",
-      "at": "2026-06-04T14:34:12.768Z"
-    },
     {
       "itemId": "word:rabbit",
       "previous": null,
@@ -10343,6 +10289,76 @@
       "score": 5,
       "source": "review-skip",
       "at": "2026-06-12T15:08:50.045Z"
+    },
+    {
+      "itemId": "phrase:get back",
+      "previous": null,
+      "score": 5,
+      "source": "review-skip",
+      "at": "2026-06-12T15:10:51.617Z"
+    },
+    {
+      "itemId": "phrase:hold on",
+      "previous": null,
+      "score": 5,
+      "source": "review-skip",
+      "at": "2026-06-12T15:10:52.918Z"
+    },
+    {
+      "itemId": "word:eye",
+      "previous": null,
+      "score": 5,
+      "source": "review-skip",
+      "at": "2026-06-12T15:10:54.119Z"
+    },
+    {
+      "itemId": "word:beautiful",
+      "previous": null,
+      "score": 5,
+      "source": "review-skip",
+      "at": "2026-06-12T15:10:55.394Z"
+    },
+    {
+      "itemId": "word:mind",
+      "previous": 4,
+      "score": 5,
+      "source": "review-skip",
+      "at": "2026-06-12T15:10:57.076Z"
+    },
+    {
+      "itemId": "word:dress",
+      "previous": null,
+      "score": 5,
+      "source": "review-skip",
+      "at": "2026-06-12T15:10:58.726Z"
+    },
+    {
+      "itemId": "word:food",
+      "previous": null,
+      "score": 5,
+      "source": "review-skip",
+      "at": "2026-06-12T15:11:01.711Z"
+    },
+    {
+      "itemId": "word:late",
+      "previous": null,
+      "score": 5,
+      "source": "review-skip",
+      "at": "2026-06-12T15:11:04.536Z"
+    },
+    {
+      "itemId": "word:father",
+      "previous": null,
+      "score": 5,
+      "source": "review-skip",
+      "at": "2026-06-12T15:11:05.661Z"
+    },
+    {
+      "itemId": "word:figure",
+      "previous": 3,
+      "score": 5,
+      "source": "review-skip",
+      "at": "2026-06-12T15:11:07.108Z"
     }
   ],
   "reviewEngineVersion": 2,
@@ -13738,6 +13754,6 @@
       "completedCount": 3
     }
   },
-  "savedAt": "2026-06-12T15:09:05.523Z",
-  "syncedAt": "2026-06-12T15:09:05.523Z"
+  "savedAt": "2026-06-12T15:11:22.809Z",
+  "syncedAt": "2026-06-12T15:11:22.809Z"
 }
