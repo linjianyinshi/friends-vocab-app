@@ -257,7 +257,7 @@
     "word:soy": 1,
     "word:severe": 1,
     "word:matter": 5,
-    "word:hang": 3,
+    "word:hang": 5,
     "word:forget": 5,
     "word:sweet": 5,
     "word:mind": 4,
@@ -1503,7 +1503,19 @@
     "word:change": 5,
     "word:number": 5,
     "word:worry": 5,
-    "word:real": 5
+    "word:real": 5,
+    "word:understand": 5,
+    "word:mine": 5,
+    "word:anymore": 5,
+    "word:cute": 5,
+    "word:plan": 5,
+    "word:couple": 5,
+    "word:run": 5,
+    "word:kill": 5,
+    "word:alright": 5,
+    "word:parent": 5,
+    "word:found": 5,
+    "word:read": 5
   },
   "scoreUpdatedAt": {
     "word:smelly": "2026-06-03T13:53:19.003Z",
@@ -1761,7 +1773,7 @@
     "word:soy": "2026-06-04T13:14:37.400Z",
     "word:severe": "2026-06-04T13:14:43.000Z",
     "word:matter": "2026-06-12T15:03:37.583Z",
-    "word:hang": "2026-06-04T13:58:07.585Z",
+    "word:hang": "2026-06-12T15:08:16.673Z",
     "word:forget": "2026-06-04T13:58:09.519Z",
     "word:sweet": "2026-06-04T13:58:17.854Z",
     "word:mind": "2026-06-04T13:58:26.806Z",
@@ -3160,7 +3172,19 @@
     "word:change": "2026-06-12T15:03:44.373Z",
     "word:number": "2026-06-12T15:03:45.584Z",
     "word:worry": "2026-06-12T15:03:46.956Z",
-    "word:real": "2026-06-12T15:03:48.173Z"
+    "word:real": "2026-06-12T15:03:48.173Z",
+    "word:understand": "2026-06-12T15:08:18.061Z",
+    "word:mine": "2026-06-12T15:08:19.913Z",
+    "word:anymore": "2026-06-12T15:08:22.008Z",
+    "word:cute": "2026-06-12T15:08:30.461Z",
+    "word:plan": "2026-06-12T15:08:34.653Z",
+    "word:couple": "2026-06-12T15:08:38.621Z",
+    "word:run": "2026-06-12T15:08:40.087Z",
+    "word:kill": "2026-06-12T15:08:41.671Z",
+    "word:alright": "2026-06-12T15:08:43.335Z",
+    "word:parent": "2026-06-12T15:08:47.365Z",
+    "word:found": "2026-06-12T15:08:48.723Z",
+    "word:read": "2026-06-12T15:08:50.045Z"
   },
   "scoreDeletedAt": {
     "word:valentines": "2026-06-04T13:10:50Z",
@@ -3320,97 +3344,6 @@
   "resetAt": null,
   "notes": {},
   "history": [
-    {
-      "itemId": "word:slap",
-      "previous": null,
-      "score": 1,
-      "source": "screen",
-      "at": "2026-06-04T14:33:02.048Z"
-    },
-    {
-      "itemId": "word:layer",
-      "previous": null,
-      "score": 2,
-      "source": "screen",
-      "at": "2026-06-04T14:33:08.424Z"
-    },
-    {
-      "itemId": "word:vegetarian",
-      "previous": null,
-      "score": 1,
-      "source": "screen",
-      "at": "2026-06-04T14:33:14.257Z"
-    },
-    {
-      "itemId": "word:cell",
-      "previous": null,
-      "score": 5,
-      "source": "screen",
-      "at": "2026-06-04T14:33:17.967Z"
-    },
-    {
-      "itemId": "word:wax",
-      "previous": null,
-      "score": 1,
-      "source": "screen",
-      "at": "2026-06-04T14:33:19.492Z"
-    },
-    {
-      "itemId": "word:prom",
-      "previous": null,
-      "score": 1,
-      "source": "screen",
-      "at": "2026-06-04T14:33:21.899Z"
-    },
-    {
-      "itemId": "word:tattoo",
-      "previous": null,
-      "score": 4,
-      "source": "screen",
-      "at": "2026-06-04T14:33:26.344Z"
-    },
-    {
-      "itemId": "word:jeez",
-      "previous": null,
-      "score": 1,
-      "source": "screen",
-      "at": "2026-06-04T14:33:28.102Z"
-    },
-    {
-      "itemId": "word:shock",
-      "previous": null,
-      "score": 1,
-      "source": "screen",
-      "at": "2026-06-04T14:33:32.212Z"
-    },
-    {
-      "itemId": "word:fossil",
-      "previous": null,
-      "score": 1,
-      "source": "screen",
-      "at": "2026-06-04T14:33:33.886Z"
-    },
-    {
-      "itemId": "word:captain",
-      "previous": null,
-      "score": 5,
-      "source": "screen",
-      "at": "2026-06-04T14:33:36.762Z"
-    },
-    {
-      "itemId": "word:blood",
-      "previous": null,
-      "score": 5,
-      "source": "screen",
-      "at": "2026-06-04T14:33:39.554Z"
-    },
-    {
-      "itemId": "word:destroy",
-      "previous": null,
-      "score": 5,
-      "source": "screen",
-      "at": "2026-06-04T14:33:41.563Z"
-    },
     {
       "itemId": "word:horse",
       "previous": null,
@@ -10319,6 +10252,97 @@
       "score": 5,
       "source": "review-skip",
       "at": "2026-06-12T15:03:48.173Z"
+    },
+    {
+      "itemId": "word:hang",
+      "previous": 3,
+      "score": 5,
+      "source": "review-skip",
+      "at": "2026-06-12T15:08:16.673Z"
+    },
+    {
+      "itemId": "word:understand",
+      "previous": null,
+      "score": 5,
+      "source": "review-skip",
+      "at": "2026-06-12T15:08:18.061Z"
+    },
+    {
+      "itemId": "word:mine",
+      "previous": null,
+      "score": 5,
+      "source": "review-skip",
+      "at": "2026-06-12T15:08:19.913Z"
+    },
+    {
+      "itemId": "word:anymore",
+      "previous": null,
+      "score": 5,
+      "source": "review-skip",
+      "at": "2026-06-12T15:08:22.008Z"
+    },
+    {
+      "itemId": "word:cute",
+      "previous": null,
+      "score": 5,
+      "source": "review-skip",
+      "at": "2026-06-12T15:08:30.461Z"
+    },
+    {
+      "itemId": "word:plan",
+      "previous": null,
+      "score": 5,
+      "source": "review-skip",
+      "at": "2026-06-12T15:08:34.653Z"
+    },
+    {
+      "itemId": "word:couple",
+      "previous": null,
+      "score": 5,
+      "source": "review-skip",
+      "at": "2026-06-12T15:08:38.621Z"
+    },
+    {
+      "itemId": "word:run",
+      "previous": null,
+      "score": 5,
+      "source": "review-skip",
+      "at": "2026-06-12T15:08:40.087Z"
+    },
+    {
+      "itemId": "word:kill",
+      "previous": null,
+      "score": 5,
+      "source": "review-skip",
+      "at": "2026-06-12T15:08:41.671Z"
+    },
+    {
+      "itemId": "word:alright",
+      "previous": null,
+      "score": 5,
+      "source": "review-skip",
+      "at": "2026-06-12T15:08:43.335Z"
+    },
+    {
+      "itemId": "word:parent",
+      "previous": null,
+      "score": 5,
+      "source": "review-skip",
+      "at": "2026-06-12T15:08:47.365Z"
+    },
+    {
+      "itemId": "word:found",
+      "previous": null,
+      "score": 5,
+      "source": "review-skip",
+      "at": "2026-06-12T15:08:48.723Z"
+    },
+    {
+      "itemId": "word:read",
+      "previous": null,
+      "score": 5,
+      "source": "review-skip",
+      "at": "2026-06-12T15:08:50.045Z"
     }
   ],
   "reviewEngineVersion": 2,
@@ -13714,6 +13738,6 @@
       "completedCount": 3
     }
   },
-  "savedAt": "2026-06-12T15:08:10.814Z",
-  "syncedAt": "2026-06-12T15:08:10.814Z"
+  "savedAt": "2026-06-12T15:09:05.523Z",
+  "syncedAt": "2026-06-12T15:09:05.523Z"
 }
