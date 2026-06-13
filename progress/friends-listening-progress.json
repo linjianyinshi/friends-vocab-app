@@ -270,8 +270,8 @@
     "word:damn": 3,
     "word:bed": 5,
     "word:smell": 5,
-    "word:freak": 3,
-    "word:sweetie": 3,
+    "word:freak": 5,
+    "word:sweetie": 5,
     "word:luck": 5,
     "word:six": 5,
     "word:smoke": 5,
@@ -1540,7 +1540,57 @@
     "word:chance": 5,
     "word:serious": 5,
     "word:story": 5,
-    "word:naked": 5
+    "word:naked": 5,
+    "word:realize": 5,
+    "word:fact": 5,
+    "word:hit": 5,
+    "word:hurt": 5,
+    "word:month": 5,
+    "word:point": 5,
+    "word:without": 5,
+    "word:either": 5,
+    "word:important": 5,
+    "word:ass": 5,
+    "word:promise": 5,
+    "word:reason": 5,
+    "word:car": 5,
+    "word:cut": 5,
+    "phrase:go back": 5,
+    "word:line": 5,
+    "word:mad": 5,
+    "word:met": 5,
+    "word:relationship": 5,
+    "word:though": 5,
+    "word:half": 5,
+    "word:sometime": 5,
+    "word:world": 5,
+    "word:pants": 5,
+    "phrase:pick up": 5,
+    "word:perfect": 5,
+    "phrase:come back": 5,
+    "word:glad": 5,
+    "word:lost": 5,
+    "word:easy": 5,
+    "word:stand": 5,
+    "word:broke": 5,
+    "word:decide": 5,
+    "word:ticket": 5,
+    "word:touch": 5,
+    "word:answer": 5,
+    "word:pregnant": 5,
+    "word:least": 5,
+    "word:lose": 5,
+    "word:card": 5,
+    "word:family": 5,
+    "word:fight": 5,
+    "word:present": 5,
+    "word:finish": 5,
+    "phrase:break up": 5,
+    "word:absolutely": 5,
+    "phrase:at least": 5,
+    "word:wonder": 5,
+    "word:die": 5,
+    "word:save": 5
   },
   "scoreUpdatedAt": {
     "word:smelly": "2026-06-03T13:53:19.003Z",
@@ -1811,8 +1861,8 @@
     "word:damn": "2026-06-04T13:58:56.594Z",
     "word:bed": "2026-06-04T13:58:59.045Z",
     "word:smell": "2026-06-04T13:59:01.028Z",
-    "word:freak": "2026-06-04T13:59:05.479Z",
-    "word:sweetie": "2026-06-04T13:59:09.911Z",
+    "word:freak": "2026-06-13T02:37:20.946Z",
+    "word:sweetie": "2026-06-13T02:37:33.006Z",
     "word:luck": "2026-06-04T13:59:22.999Z",
     "word:six": "2026-06-04T13:59:24.283Z",
     "word:smoke": "2026-06-04T13:59:27.112Z",
@@ -3234,7 +3284,57 @@
     "word:chance": "2026-06-12T15:43:04.168Z",
     "word:serious": "2026-06-12T15:43:05.350Z",
     "word:story": "2026-06-12T15:43:06.311Z",
-    "word:naked": "2026-06-12T15:43:07.570Z"
+    "word:naked": "2026-06-12T15:43:07.570Z",
+    "word:realize": "2026-06-13T02:35:44.128Z",
+    "word:fact": "2026-06-13T02:35:45.372Z",
+    "word:hit": "2026-06-13T02:35:46.368Z",
+    "word:hurt": "2026-06-13T02:35:47.695Z",
+    "word:month": "2026-06-13T02:35:50.672Z",
+    "word:point": "2026-06-13T02:35:53.798Z",
+    "word:without": "2026-06-13T02:35:57.476Z",
+    "word:either": "2026-06-13T02:36:01.639Z",
+    "word:important": "2026-06-13T02:36:03.085Z",
+    "word:ass": "2026-06-13T02:36:04.814Z",
+    "word:promise": "2026-06-13T02:36:05.773Z",
+    "word:reason": "2026-06-13T02:36:07.153Z",
+    "word:car": "2026-06-13T02:36:08.249Z",
+    "word:cut": "2026-06-13T02:36:09.562Z",
+    "phrase:go back": "2026-06-13T02:36:10.841Z",
+    "word:line": "2026-06-13T02:36:12.108Z",
+    "word:mad": "2026-06-13T02:36:13.988Z",
+    "word:met": "2026-06-13T02:36:15.117Z",
+    "word:relationship": "2026-06-13T02:36:16.214Z",
+    "word:though": "2026-06-13T02:36:17.593Z",
+    "word:half": "2026-06-13T02:36:18.818Z",
+    "word:sometime": "2026-06-13T02:36:19.910Z",
+    "word:world": "2026-06-13T02:36:21.272Z",
+    "word:pants": "2026-06-13T02:36:22.567Z",
+    "phrase:pick up": "2026-06-13T02:36:24.065Z",
+    "word:perfect": "2026-06-13T02:36:25.350Z",
+    "phrase:come back": "2026-06-13T02:36:26.740Z",
+    "word:glad": "2026-06-13T02:36:54.897Z",
+    "word:lost": "2026-06-13T02:37:06.206Z",
+    "word:easy": "2026-06-13T02:37:07.616Z",
+    "word:stand": "2026-06-13T02:37:10.557Z",
+    "word:broke": "2026-06-13T02:37:12.703Z",
+    "word:decide": "2026-06-13T02:37:13.665Z",
+    "word:ticket": "2026-06-13T02:37:35.448Z",
+    "word:touch": "2026-06-13T02:37:37.478Z",
+    "word:answer": "2026-06-13T02:37:43.727Z",
+    "word:pregnant": "2026-06-13T02:37:46.126Z",
+    "word:least": "2026-06-13T02:37:52.261Z",
+    "word:lose": "2026-06-13T02:37:55.237Z",
+    "word:card": "2026-06-13T02:37:56.573Z",
+    "word:family": "2026-06-13T02:37:57.626Z",
+    "word:fight": "2026-06-13T02:38:03.055Z",
+    "word:present": "2026-06-13T02:38:07.251Z",
+    "word:finish": "2026-06-13T02:38:48.685Z",
+    "phrase:break up": "2026-06-13T02:38:57.213Z",
+    "word:absolutely": "2026-06-13T02:38:59.695Z",
+    "phrase:at least": "2026-06-13T02:39:02.254Z",
+    "word:wonder": "2026-06-13T02:45:07.454Z",
+    "word:die": "2026-06-13T02:45:12.696Z",
+    "word:save": "2026-06-13T02:45:15.393Z"
   },
   "scoreDeletedAt": {
     "word:valentines": "2026-06-04T13:10:50Z",
@@ -3394,370 +3494,6 @@
   "resetAt": null,
   "notes": {},
   "history": [
-    {
-      "itemId": "word:rhyme",
-      "previous": null,
-      "score": 4,
-      "source": "screen",
-      "at": "2026-06-04T14:35:06.350Z"
-    },
-    {
-      "itemId": "word:wallet",
-      "previous": null,
-      "score": 5,
-      "source": "screen",
-      "at": "2026-06-04T14:35:07.642Z"
-    },
-    {
-      "itemId": "word:actress",
-      "previous": null,
-      "score": 4,
-      "source": "screen",
-      "at": "2026-06-04T14:35:15.579Z"
-    },
-    {
-      "itemId": "word:tan",
-      "previous": null,
-      "score": 1,
-      "source": "screen",
-      "at": "2026-06-04T14:35:17.937Z"
-    },
-    {
-      "itemId": "word:eyebrow",
-      "previous": null,
-      "score": 4,
-      "source": "screen",
-      "at": "2026-06-04T14:35:23.863Z"
-    },
-    {
-      "itemId": "word:blanket",
-      "previous": null,
-      "score": 4,
-      "source": "screen",
-      "at": "2026-06-04T14:35:27.005Z"
-    },
-    {
-      "itemId": "word:jar",
-      "previous": null,
-      "score": 1,
-      "source": "screen",
-      "at": "2026-06-04T14:35:28.448Z"
-    },
-    {
-      "itemId": "word:lean",
-      "previous": null,
-      "score": 1,
-      "source": "screen",
-      "at": "2026-06-04T14:35:29.672Z"
-    },
-    {
-      "itemId": "word:slice",
-      "previous": null,
-      "score": 1,
-      "source": "screen",
-      "at": "2026-06-04T14:35:31.600Z"
-    },
-    {
-      "itemId": "word:funniest",
-      "previous": null,
-      "score": 5,
-      "source": "screen",
-      "at": "2026-06-04T14:35:34.273Z"
-    },
-    {
-      "itemId": "word:yummy",
-      "previous": null,
-      "score": 5,
-      "source": "screen",
-      "at": "2026-06-04T14:35:36.550Z"
-    },
-    {
-      "itemId": "word:click",
-      "previous": null,
-      "score": 5,
-      "source": "screen",
-      "at": "2026-06-04T14:35:41.601Z"
-    },
-    {
-      "itemId": "word:stone",
-      "previous": null,
-      "score": 5,
-      "source": "screen",
-      "at": "2026-06-04T14:35:43.374Z"
-    },
-    {
-      "itemId": "word:stone",
-      "previous": 5,
-      "score": 1,
-      "source": "screen",
-      "at": "2026-06-04T14:35:47.498Z"
-    },
-    {
-      "itemId": "word:insist",
-      "previous": null,
-      "score": 3,
-      "source": "screen",
-      "at": "2026-06-04T14:35:49.957Z"
-    },
-    {
-      "itemId": "word:wreck",
-      "previous": null,
-      "score": 1,
-      "source": "screen",
-      "at": "2026-06-04T14:35:51.869Z"
-    },
-    {
-      "itemId": "word:thin",
-      "previous": null,
-      "score": 5,
-      "source": "screen",
-      "at": "2026-06-04T14:35:54.109Z"
-    },
-    {
-      "itemId": "word:steak",
-      "previous": null,
-      "score": 1,
-      "source": "screen",
-      "at": "2026-06-04T14:35:55.535Z"
-    },
-    {
-      "itemId": "word:mustache",
-      "previous": null,
-      "score": 4,
-      "source": "screen",
-      "at": "2026-06-04T14:36:00.293Z"
-    },
-    {
-      "itemId": "word:pad",
-      "previous": null,
-      "score": 5,
-      "source": "screen",
-      "at": "2026-06-04T14:36:02.105Z"
-    },
-    {
-      "itemId": "word:dentist",
-      "previous": null,
-      "score": 5,
-      "source": "screen",
-      "at": "2026-06-04T14:36:03.861Z"
-    },
-    {
-      "itemId": "word:vow",
-      "previous": null,
-      "score": 1,
-      "source": "screen",
-      "at": "2026-06-04T14:36:05.355Z"
-    },
-    {
-      "itemId": "word:drum",
-      "previous": null,
-      "score": 1,
-      "source": "screen",
-      "at": "2026-06-04T14:36:06.512Z"
-    },
-    {
-      "itemId": "word:piss",
-      "previous": null,
-      "score": 1,
-      "source": "screen",
-      "at": "2026-06-04T14:36:07.705Z"
-    },
-    {
-      "itemId": "word:choke",
-      "previous": null,
-      "score": 1,
-      "source": "screen",
-      "at": "2026-06-04T14:36:08.996Z"
-    },
-    {
-      "itemId": "word:contest",
-      "previous": null,
-      "score": 1,
-      "source": "screen",
-      "at": "2026-06-04T14:36:10.806Z"
-    },
-    {
-      "itemId": "word:dare",
-      "previous": null,
-      "score": 4,
-      "source": "screen",
-      "at": "2026-06-04T14:36:13.760Z"
-    },
-    {
-      "itemId": "word:glue",
-      "previous": null,
-      "score": 4,
-      "source": "screen",
-      "at": "2026-06-04T14:36:16.905Z"
-    },
-    {
-      "itemId": "word:style",
-      "previous": null,
-      "score": 5,
-      "source": "screen",
-      "at": "2026-06-04T14:36:20.447Z"
-    },
-    {
-      "itemId": "word:grape",
-      "previous": null,
-      "score": 4,
-      "source": "screen",
-      "at": "2026-06-04T14:36:24.292Z"
-    },
-    {
-      "itemId": "word:hammer",
-      "previous": null,
-      "score": 1,
-      "source": "screen",
-      "at": "2026-06-04T14:36:26.881Z"
-    },
-    {
-      "itemId": "word:puzzle",
-      "previous": null,
-      "score": 5,
-      "source": "screen",
-      "at": "2026-06-04T14:36:28.426Z"
-    },
-    {
-      "itemId": "word:guard",
-      "previous": null,
-      "score": 1,
-      "source": "screen",
-      "at": "2026-06-04T14:36:33.641Z"
-    },
-    {
-      "itemId": "word:skirt",
-      "previous": null,
-      "score": 5,
-      "source": "screen",
-      "at": "2026-06-04T14:36:35.383Z"
-    },
-    {
-      "itemId": "word:badge",
-      "previous": null,
-      "score": 1,
-      "source": "screen",
-      "at": "2026-06-04T14:36:37.368Z"
-    },
-    {
-      "itemId": "word:lotion",
-      "previous": null,
-      "score": 1,
-      "source": "screen",
-      "at": "2026-06-04T14:36:40.094Z"
-    },
-    {
-      "itemId": "word:scotch",
-      "previous": null,
-      "score": 1,
-      "source": "screen",
-      "at": "2026-06-04T14:36:42.851Z"
-    },
-    {
-      "itemId": "word:cave",
-      "previous": null,
-      "score": 3,
-      "source": "screen",
-      "at": "2026-06-04T14:36:46.212Z"
-    },
-    {
-      "itemId": "word:spoke",
-      "previous": null,
-      "score": 1,
-      "source": "screen",
-      "at": "2026-06-04T14:36:50.835Z"
-    },
-    {
-      "itemId": "word:altar",
-      "previous": null,
-      "score": 1,
-      "source": "screen",
-      "at": "2026-06-04T14:36:52.128Z"
-    },
-    {
-      "itemId": "word:belly",
-      "previous": null,
-      "score": 1,
-      "source": "screen",
-      "at": "2026-06-04T14:36:54.870Z"
-    },
-    {
-      "itemId": "word:catalog",
-      "previous": null,
-      "score": 4,
-      "source": "screen",
-      "at": "2026-06-04T14:36:57.881Z"
-    },
-    {
-      "itemId": "word:compliment",
-      "previous": null,
-      "score": 1,
-      "source": "screen",
-      "at": "2026-06-04T14:37:00.088Z"
-    },
-    {
-      "itemId": "word:slut",
-      "previous": null,
-      "score": 1,
-      "source": "screen",
-      "at": "2026-06-04T14:37:01.366Z"
-    },
-    {
-      "itemId": "word:steam",
-      "previous": null,
-      "score": 1,
-      "source": "screen",
-      "at": "2026-06-04T14:37:03.204Z"
-    },
-    {
-      "itemId": "word:necklace",
-      "previous": null,
-      "score": 1,
-      "source": "screen",
-      "at": "2026-06-04T14:37:04.932Z"
-    },
-    {
-      "itemId": "word:pumpkin",
-      "previous": null,
-      "score": 5,
-      "source": "screen",
-      "at": "2026-06-04T14:37:06.488Z"
-    },
-    {
-      "itemId": "word:swallow",
-      "previous": null,
-      "score": 1,
-      "source": "screen",
-      "at": "2026-06-04T14:37:08.417Z"
-    },
-    {
-      "itemId": "word:erase",
-      "previous": null,
-      "score": 5,
-      "source": "screen",
-      "at": "2026-06-04T14:37:11.022Z"
-    },
-    {
-      "itemId": "word:boo",
-      "previous": null,
-      "score": 1,
-      "source": "screen",
-      "at": "2026-06-04T14:37:12.155Z"
-    },
-    {
-      "itemId": "word:coconut",
-      "previous": null,
-      "score": 5,
-      "source": "screen",
-      "at": "2026-06-04T14:37:16.823Z"
-    },
-    {
-      "itemId": "word:blank",
-      "previous": null,
-      "score": 5,
-      "source": "screen",
-      "at": "2026-06-04T14:37:18.852Z"
-    },
     {
       "itemId": "word:bracelet",
       "previous": null,
@@ -10393,6 +10129,370 @@
       "score": 5,
       "source": "review-skip",
       "at": "2026-06-12T15:43:07.570Z"
+    },
+    {
+      "itemId": "word:realize",
+      "previous": null,
+      "score": 5,
+      "source": "review-skip",
+      "at": "2026-06-13T02:35:44.128Z"
+    },
+    {
+      "itemId": "word:fact",
+      "previous": null,
+      "score": 5,
+      "source": "review-skip",
+      "at": "2026-06-13T02:35:45.372Z"
+    },
+    {
+      "itemId": "word:hit",
+      "previous": null,
+      "score": 5,
+      "source": "review-skip",
+      "at": "2026-06-13T02:35:46.368Z"
+    },
+    {
+      "itemId": "word:hurt",
+      "previous": null,
+      "score": 5,
+      "source": "review-skip",
+      "at": "2026-06-13T02:35:47.695Z"
+    },
+    {
+      "itemId": "word:month",
+      "previous": null,
+      "score": 5,
+      "source": "review-skip",
+      "at": "2026-06-13T02:35:50.672Z"
+    },
+    {
+      "itemId": "word:point",
+      "previous": null,
+      "score": 5,
+      "source": "review-skip",
+      "at": "2026-06-13T02:35:53.798Z"
+    },
+    {
+      "itemId": "word:without",
+      "previous": null,
+      "score": 5,
+      "source": "review-skip",
+      "at": "2026-06-13T02:35:57.476Z"
+    },
+    {
+      "itemId": "word:either",
+      "previous": null,
+      "score": 5,
+      "source": "review-skip",
+      "at": "2026-06-13T02:36:01.639Z"
+    },
+    {
+      "itemId": "word:important",
+      "previous": null,
+      "score": 5,
+      "source": "review-skip",
+      "at": "2026-06-13T02:36:03.085Z"
+    },
+    {
+      "itemId": "word:ass",
+      "previous": null,
+      "score": 5,
+      "source": "review-skip",
+      "at": "2026-06-13T02:36:04.814Z"
+    },
+    {
+      "itemId": "word:promise",
+      "previous": null,
+      "score": 5,
+      "source": "review-skip",
+      "at": "2026-06-13T02:36:05.773Z"
+    },
+    {
+      "itemId": "word:reason",
+      "previous": null,
+      "score": 5,
+      "source": "review-skip",
+      "at": "2026-06-13T02:36:07.153Z"
+    },
+    {
+      "itemId": "word:car",
+      "previous": null,
+      "score": 5,
+      "source": "review-skip",
+      "at": "2026-06-13T02:36:08.249Z"
+    },
+    {
+      "itemId": "word:cut",
+      "previous": null,
+      "score": 5,
+      "source": "review-skip",
+      "at": "2026-06-13T02:36:09.562Z"
+    },
+    {
+      "itemId": "phrase:go back",
+      "previous": null,
+      "score": 5,
+      "source": "review-skip",
+      "at": "2026-06-13T02:36:10.841Z"
+    },
+    {
+      "itemId": "word:line",
+      "previous": null,
+      "score": 5,
+      "source": "review-skip",
+      "at": "2026-06-13T02:36:12.108Z"
+    },
+    {
+      "itemId": "word:mad",
+      "previous": null,
+      "score": 5,
+      "source": "review-skip",
+      "at": "2026-06-13T02:36:13.988Z"
+    },
+    {
+      "itemId": "word:met",
+      "previous": null,
+      "score": 5,
+      "source": "review-skip",
+      "at": "2026-06-13T02:36:15.117Z"
+    },
+    {
+      "itemId": "word:relationship",
+      "previous": null,
+      "score": 5,
+      "source": "review-skip",
+      "at": "2026-06-13T02:36:16.214Z"
+    },
+    {
+      "itemId": "word:though",
+      "previous": null,
+      "score": 5,
+      "source": "review-skip",
+      "at": "2026-06-13T02:36:17.593Z"
+    },
+    {
+      "itemId": "word:half",
+      "previous": null,
+      "score": 5,
+      "source": "review-skip",
+      "at": "2026-06-13T02:36:18.818Z"
+    },
+    {
+      "itemId": "word:sometime",
+      "previous": null,
+      "score": 5,
+      "source": "review-skip",
+      "at": "2026-06-13T02:36:19.910Z"
+    },
+    {
+      "itemId": "word:world",
+      "previous": null,
+      "score": 5,
+      "source": "review-skip",
+      "at": "2026-06-13T02:36:21.272Z"
+    },
+    {
+      "itemId": "word:pants",
+      "previous": null,
+      "score": 5,
+      "source": "review-skip",
+      "at": "2026-06-13T02:36:22.567Z"
+    },
+    {
+      "itemId": "phrase:pick up",
+      "previous": null,
+      "score": 5,
+      "source": "review-skip",
+      "at": "2026-06-13T02:36:24.065Z"
+    },
+    {
+      "itemId": "word:perfect",
+      "previous": null,
+      "score": 5,
+      "source": "review-skip",
+      "at": "2026-06-13T02:36:25.350Z"
+    },
+    {
+      "itemId": "phrase:come back",
+      "previous": null,
+      "score": 5,
+      "source": "review-skip",
+      "at": "2026-06-13T02:36:26.740Z"
+    },
+    {
+      "itemId": "word:glad",
+      "previous": null,
+      "score": 5,
+      "source": "review-skip",
+      "at": "2026-06-13T02:36:54.897Z"
+    },
+    {
+      "itemId": "word:lost",
+      "previous": null,
+      "score": 5,
+      "source": "review-skip",
+      "at": "2026-06-13T02:37:06.206Z"
+    },
+    {
+      "itemId": "word:easy",
+      "previous": null,
+      "score": 5,
+      "source": "review-skip",
+      "at": "2026-06-13T02:37:07.616Z"
+    },
+    {
+      "itemId": "word:stand",
+      "previous": null,
+      "score": 5,
+      "source": "review-skip",
+      "at": "2026-06-13T02:37:10.557Z"
+    },
+    {
+      "itemId": "word:broke",
+      "previous": null,
+      "score": 5,
+      "source": "review-skip",
+      "at": "2026-06-13T02:37:12.703Z"
+    },
+    {
+      "itemId": "word:decide",
+      "previous": null,
+      "score": 5,
+      "source": "review-skip",
+      "at": "2026-06-13T02:37:13.665Z"
+    },
+    {
+      "itemId": "word:freak",
+      "previous": 3,
+      "score": 5,
+      "source": "review-known",
+      "at": "2026-06-13T02:37:20.946Z"
+    },
+    {
+      "itemId": "word:sweetie",
+      "previous": 3,
+      "score": 5,
+      "source": "review-skip",
+      "at": "2026-06-13T02:37:33.006Z"
+    },
+    {
+      "itemId": "word:ticket",
+      "previous": null,
+      "score": 5,
+      "source": "review-skip",
+      "at": "2026-06-13T02:37:35.448Z"
+    },
+    {
+      "itemId": "word:touch",
+      "previous": null,
+      "score": 5,
+      "source": "review-skip",
+      "at": "2026-06-13T02:37:37.478Z"
+    },
+    {
+      "itemId": "word:answer",
+      "previous": null,
+      "score": 5,
+      "source": "review-skip",
+      "at": "2026-06-13T02:37:43.727Z"
+    },
+    {
+      "itemId": "word:pregnant",
+      "previous": null,
+      "score": 5,
+      "source": "review-skip",
+      "at": "2026-06-13T02:37:46.126Z"
+    },
+    {
+      "itemId": "word:least",
+      "previous": null,
+      "score": 5,
+      "source": "review-skip",
+      "at": "2026-06-13T02:37:52.261Z"
+    },
+    {
+      "itemId": "word:lose",
+      "previous": null,
+      "score": 5,
+      "source": "review-skip",
+      "at": "2026-06-13T02:37:55.237Z"
+    },
+    {
+      "itemId": "word:card",
+      "previous": null,
+      "score": 5,
+      "source": "review-skip",
+      "at": "2026-06-13T02:37:56.573Z"
+    },
+    {
+      "itemId": "word:family",
+      "previous": null,
+      "score": 5,
+      "source": "review-skip",
+      "at": "2026-06-13T02:37:57.626Z"
+    },
+    {
+      "itemId": "word:fight",
+      "previous": null,
+      "score": 5,
+      "source": "review-skip",
+      "at": "2026-06-13T02:38:03.055Z"
+    },
+    {
+      "itemId": "word:present",
+      "previous": null,
+      "score": 5,
+      "source": "review-skip",
+      "at": "2026-06-13T02:38:07.251Z"
+    },
+    {
+      "itemId": "word:finish",
+      "previous": null,
+      "score": 5,
+      "source": "review-skip",
+      "at": "2026-06-13T02:38:48.685Z"
+    },
+    {
+      "itemId": "phrase:break up",
+      "previous": null,
+      "score": 5,
+      "source": "review-skip",
+      "at": "2026-06-13T02:38:57.213Z"
+    },
+    {
+      "itemId": "word:absolutely",
+      "previous": null,
+      "score": 5,
+      "source": "review-skip",
+      "at": "2026-06-13T02:38:59.695Z"
+    },
+    {
+      "itemId": "phrase:at least",
+      "previous": null,
+      "score": 5,
+      "source": "review-skip",
+      "at": "2026-06-13T02:39:02.254Z"
+    },
+    {
+      "itemId": "word:wonder",
+      "previous": null,
+      "score": 5,
+      "source": "review-known",
+      "at": "2026-06-13T02:45:07.454Z"
+    },
+    {
+      "itemId": "word:die",
+      "previous": null,
+      "score": 5,
+      "source": "review-skip",
+      "at": "2026-06-13T02:45:12.696Z"
+    },
+    {
+      "itemId": "word:save",
+      "previous": null,
+      "score": 5,
+      "source": "review-skip",
+      "at": "2026-06-13T02:45:15.393Z"
     }
   ],
   "reviewEngineVersion": 2,
@@ -13788,6 +13888,6 @@
       "completedCount": 3
     }
   },
-  "savedAt": "2026-06-12T15:43:11.860Z",
-  "syncedAt": "2026-06-12T15:43:11.860Z"
+  "savedAt": "2026-06-13T02:45:24.265Z",
+  "syncedAt": "2026-06-13T02:45:24.265Z"
 }
