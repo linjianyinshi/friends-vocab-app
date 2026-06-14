@@ -15033,7 +15033,8 @@
       "needsLongTermReview": true,
       "lastWrongAt": "2026-06-14T10:57:05.471Z",
       "lastBlockId": "S01E01-05",
-      "updatedAt": "2026-06-14T10:57:05.471Z"
+      "updatedAt": "2026-06-14T10:57:05.471Z",
+      "masteredAt": ""
     }
   },
   "reviewMemoryDeletedAt": {
@@ -15084,6 +15085,6 @@
     "word:public": "2026-06-14T10:54:07.650Z",
     "word:ourselves": "2026-06-14T10:54:18.159Z"
   },
-  "savedAt": "2026-06-14T10:57:29.857Z",
-  "syncedAt": "2026-06-14T10:57:29.857Z"
+  "savedAt": "2026-06-14T14:04:25.431Z",
+  "syncedAt": "2026-06-14T14:04:25.431Z"
 }
