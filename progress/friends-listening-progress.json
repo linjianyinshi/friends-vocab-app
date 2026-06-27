@@ -17100,7 +17100,8 @@
       "needsLongTermReview": true,
       "lastWrongAt": "2026-06-26T15:34:46.741Z",
       "lastBlockId": "S01E01-05",
-      "updatedAt": "2026-06-26T15:34:46.741Z"
+      "updatedAt": "2026-06-26T15:34:46.741Z",
+      "masteredAt": ""
     },
     "word:brutal": {
       "itemId": "word:brutal",
@@ -17117,7 +17118,8 @@
       "needsLongTermReview": true,
       "lastWrongAt": "2026-06-26T15:34:55.739Z",
       "lastBlockId": "S01E01-05",
-      "updatedAt": "2026-06-26T15:34:55.739Z"
+      "updatedAt": "2026-06-26T15:34:55.739Z",
+      "masteredAt": ""
     }
   },
   "reviewMemoryDeletedAt": {
@@ -17194,6 +17196,6 @@
     "word:marsha": "2026-06-26T15:29:07.847Z",
     "phrase:bring back": "2026-06-26T15:34:52.079Z"
   },
-  "savedAt": "2026-06-26T15:35:02.134Z",
-  "syncedAt": "2026-06-26T15:35:02.134Z"
+  "savedAt": "2026-06-27T02:55:25.021Z",
+  "syncedAt": "2026-06-27T02:55:25.021Z"
 }
