@@ -853,7 +853,7 @@ input[type="search"] {
         <article class="study-card review-card" id="reviewCard"></article>
 
         <div class="card-actions">
-          <button id="prevReviewBtn" class="secondary-button" type="button">稍后</button>
+          <button id="prevReviewBtn" class="secondary-button" type="button" title="记录为难词，稍后重复复习">难词</button>
           <button id="revealReviewBtn" class="primary-button" type="button">上一个</button>
           <button id="nextReviewBtn" class="secondary-button" type="button">跳过</button>
         </div>
@@ -20084,6 +20084,9 @@ const DATA_URL = getDataUrl();
 const REVIEW_DATA_URL = getReviewDataUrl();
 const REVIEW_ENGINE_VERSION = 2;
 const REVIEW_REPEAT_SPACING = 6;
+const REVIEW_FIRST_BLOCK_OVERRIDES = {
+  "word:course": "S01E06-10",
+};
 
 const scoreLabels = {
   0: "忽略",
@@ -20258,7 +20261,7 @@ function bindEvents() {
   });
 
   els.prevReviewBtn.addEventListener("click", () => {
-    postponeReviewQuestion();
+    markCurrentReviewQuestionHard();
   });
 
   els.nextReviewBtn.addEventListener("click", () => {
@@ -20359,6 +20362,9 @@ function buildFirstReviewBlockIndex() {
         firstReviewBlockByItemId.set(itemId, block.id);
       }
     }
+  }
+  for (const [itemId, blockId] of Object.entries(REVIEW_FIRST_BLOCK_OVERRIDES)) {
+    firstReviewBlockByItemId.set(canonicalItemId(itemId), blockId);
   }
 }
 
@@ -21503,12 +21509,21 @@ function answerReviewChoice(choiceIndex) {
   renderReview();
 }
 
-function postponeReviewQuestion() {
+function markCurrentReviewQuestionHard() {
   const session = currentReviewSession();
-  if (!session?.queue?.length) return;
+  const entry = session?.queue?.[0];
+  const question = entry ? reviewQuestionsById.get(entry.id) : null;
+  if (!session || !question) return;
   captureReviewUndo();
-  const entry = session.queue.shift();
-  session.queue.push(entry);
+  const stats = reviewQuestionStats(session, question.id);
+  if (!session.currentAttemptFailed) {
+    stats.failureDebt = (stats.failureDebt || 0) + 1;
+    recordReviewMistake(question);
+  }
+  session.queue.shift();
+  setFutureReviewRepeats(session, question.id, stats.failureDebt || 1);
+  session.wrongCount = (session.wrongCount || 0) + 1;
+  session.hardCount = (session.hardCount || 0) + 1;
   session.currentWrongCount = 0;
   session.currentAttemptFailed = false;
   session.wrongChoice = null;
