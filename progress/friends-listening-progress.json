@@ -22714,7 +22714,7 @@
       "term": "pour",
       "type": "word",
       "firstWrongAt": "2026-07-01T12:43:37.035Z",
-      "wrongAppearances": 4,
+      "wrongAppearances": 5,
       "blockIds": [
         "S01E06-10"
       ],
@@ -22722,9 +22722,10 @@
         "S01E06-10:word:pour"
       ],
       "needsLongTermReview": true,
-      "lastWrongAt": "2026-07-01T12:45:07.205Z",
+      "lastWrongAt": "2026-07-01T12:55:47.538Z",
       "lastBlockId": "S01E06-10",
-      "updatedAt": "2026-07-01T12:45:07.205Z"
+      "updatedAt": "2026-07-01T12:55:47.538Z",
+      "masteredAt": ""
     },
     "word:twist": {
       "itemId": "word:twist",
@@ -22788,7 +22789,7 @@
       "term": "concept",
       "type": "word",
       "firstWrongAt": "2026-07-01T12:44:42.153Z",
-      "wrongAppearances": 3,
+      "wrongAppearances": 4,
       "blockIds": [
         "S01E06-10"
       ],
@@ -22796,16 +22797,17 @@
         "S01E06-10:word:concept"
       ],
       "needsLongTermReview": true,
-      "lastWrongAt": "2026-07-01T12:45:23.491Z",
+      "lastWrongAt": "2026-07-01T12:55:51.763Z",
       "lastBlockId": "S01E06-10",
-      "updatedAt": "2026-07-01T12:45:23.491Z"
+      "updatedAt": "2026-07-01T12:55:51.763Z",
+      "masteredAt": ""
     },
     "word:fulfill": {
       "itemId": "word:fulfill",
       "term": "fulfill",
       "type": "word",
       "firstWrongAt": "2026-07-01T12:44:59.600Z",
-      "wrongAppearances": 2,
+      "wrongAppearances": 3,
       "blockIds": [
         "S01E06-10"
       ],
@@ -22813,16 +22815,17 @@
         "S01E06-10:word:fulfill"
       ],
       "needsLongTermReview": true,
-      "lastWrongAt": "2026-07-01T12:45:20.004Z",
+      "lastWrongAt": "2026-07-01T12:55:59.441Z",
       "lastBlockId": "S01E06-10",
-      "updatedAt": "2026-07-01T12:45:20.004Z"
+      "updatedAt": "2026-07-01T12:55:59.441Z",
+      "masteredAt": ""
     },
     "word:gang": {
       "itemId": "word:gang",
       "term": "gang",
       "type": "word",
       "firstWrongAt": "2026-07-01T12:45:09.903Z",
-      "wrongAppearances": 1,
+      "wrongAppearances": 2,
       "blockIds": [
         "S01E06-10"
       ],
@@ -22830,16 +22833,17 @@
         "S01E06-10:word:gang"
       ],
       "needsLongTermReview": true,
-      "lastWrongAt": "2026-07-01T12:45:09.903Z",
+      "lastWrongAt": "2026-07-01T12:56:01.386Z",
       "lastBlockId": "S01E06-10",
-      "updatedAt": "2026-07-01T12:45:09.903Z"
+      "updatedAt": "2026-07-01T12:56:01.386Z",
+      "masteredAt": ""
     },
     "word:ham": {
       "itemId": "word:ham",
       "term": "ham",
       "type": "word",
       "firstWrongAt": "2026-07-01T12:45:12.939Z",
-      "wrongAppearances": 1,
+      "wrongAppearances": 2,
       "blockIds": [
         "S01E06-10"
       ],
@@ -22847,16 +22851,17 @@
         "S01E06-10:word:ham"
       ],
       "needsLongTermReview": true,
-      "lastWrongAt": "2026-07-01T12:45:12.939Z",
+      "lastWrongAt": "2026-07-01T12:56:02.415Z",
       "lastBlockId": "S01E06-10",
-      "updatedAt": "2026-07-01T12:45:12.939Z"
+      "updatedAt": "2026-07-01T12:56:02.415Z",
+      "masteredAt": ""
     },
     "word:senior": {
       "itemId": "word:senior",
       "term": "senior",
       "type": "word",
       "firstWrongAt": "2026-07-01T12:45:16.273Z",
-      "wrongAppearances": 1,
+      "wrongAppearances": 2,
       "blockIds": [
         "S01E06-10"
       ],
@@ -22864,9 +22869,10 @@
         "S01E06-10:word:senior"
       ],
       "needsLongTermReview": true,
-      "lastWrongAt": "2026-07-01T12:45:16.273Z",
+      "lastWrongAt": "2026-07-01T12:56:03.676Z",
       "lastBlockId": "S01E06-10",
-      "updatedAt": "2026-07-01T12:45:16.273Z"
+      "updatedAt": "2026-07-01T12:56:03.676Z",
+      "masteredAt": ""
     },
     "word:shh": {
       "itemId": "word:shh",
@@ -22883,7 +22889,8 @@
       "needsLongTermReview": true,
       "lastWrongAt": "2026-07-01T12:45:32.035Z",
       "lastBlockId": "S01E06-10",
-      "updatedAt": "2026-07-01T12:45:32.035Z"
+      "updatedAt": "2026-07-01T12:45:32.035Z",
+      "masteredAt": ""
     }
   },
   "reviewMemoryDeletedAt": {
@@ -23126,6 +23133,6 @@
     "word:detail": "2026-07-01T12:44:44.770Z",
     "word:example": "2026-07-01T12:44:51.839Z"
   },
-  "savedAt": "2026-07-01T12:45:55.347Z",
-  "syncedAt": "2026-07-01T12:45:55.347Z"
+  "savedAt": "2026-07-01T12:56:17.019Z",
+  "syncedAt": "2026-07-01T12:56:17.019Z"
 }
