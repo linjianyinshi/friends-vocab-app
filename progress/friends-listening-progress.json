@@ -267,7 +267,7 @@
     "word:dance": 5,
     "word:dog": 5,
     "word:hair": 5,
-    "word:damn": 3,
+    "word:damn": 5,
     "word:bed": 5,
     "word:smell": 5,
     "word:freak": 5,
@@ -2575,7 +2575,21 @@
     "word:spout": 5,
     "word:superficial": 5,
     "word:unborn": 5,
-    "word:yup": 5
+    "word:yup": 5,
+    "word:win": 5,
+    "word:office": 5,
+    "word:bet": 5,
+    "word:box": 5,
+    "word:learn": 5,
+    "phrase:find out": 5,
+    "word:message": 5,
+    "word:kick": 5,
+    "word:marriage": 5,
+    "phrase:take off": 5,
+    "word:son": 5,
+    "word:forgot": 5,
+    "word:chair": 5,
+    "word:fault": 5
   },
   "scoreUpdatedAt": {
     "word:smelly": "2026-06-03T13:53:19.003Z",
@@ -2843,7 +2857,7 @@
     "word:dance": "2026-06-04T13:58:49.760Z",
     "word:dog": "2026-06-04T13:58:51.359Z",
     "word:hair": "2026-06-04T13:58:53.110Z",
-    "word:damn": "2026-06-04T13:58:56.594Z",
+    "word:damn": "2026-07-03T12:14:43.410Z",
     "word:bed": "2026-06-04T13:58:59.045Z",
     "word:smell": "2026-06-04T13:59:01.028Z",
     "word:freak": "2026-06-13T02:37:20.946Z",
@@ -5304,7 +5318,21 @@
     "word:spout": "2026-07-03T11:59:54.263Z",
     "word:superficial": "2026-07-03T11:59:58.291Z",
     "word:unborn": "2026-07-03T12:00:03.852Z",
-    "word:yup": "2026-07-03T12:00:08.027Z"
+    "word:yup": "2026-07-03T12:00:08.027Z",
+    "word:win": "2026-07-03T12:14:39.601Z",
+    "word:office": "2026-07-03T12:14:40.863Z",
+    "word:bet": "2026-07-03T12:14:46.833Z",
+    "word:box": "2026-07-03T12:14:47.996Z",
+    "word:learn": "2026-07-03T12:14:50.048Z",
+    "phrase:find out": "2026-07-03T12:14:51.606Z",
+    "word:message": "2026-07-03T12:14:53.556Z",
+    "word:kick": "2026-07-03T12:14:55.174Z",
+    "word:marriage": "2026-07-03T12:14:57.174Z",
+    "phrase:take off": "2026-07-03T12:14:59.325Z",
+    "word:son": "2026-07-03T12:15:00.433Z",
+    "word:forgot": "2026-07-03T12:15:02.029Z",
+    "word:chair": "2026-07-03T12:15:03.691Z",
+    "word:fault": "2026-07-03T12:15:06.503Z"
   },
   "scoreDeletedAt": {
     "word:valentines": "2026-06-04T13:10:50Z",
@@ -5464,111 +5492,6 @@
   "resetAt": null,
   "notes": {},
   "history": [
-    {
-      "itemId": "word:sing",
-      "previous": null,
-      "score": 5,
-      "source": "review-skip",
-      "at": "2026-06-13T13:22:22.525Z"
-    },
-    {
-      "itemId": "word:build",
-      "previous": null,
-      "score": 5,
-      "source": "review-skip",
-      "at": "2026-06-13T13:22:24.271Z"
-    },
-    {
-      "itemId": "word:except",
-      "previous": null,
-      "score": 5,
-      "source": "review-skip",
-      "at": "2026-06-13T13:22:27.097Z"
-    },
-    {
-      "itemId": "word:butt",
-      "previous": 2,
-      "score": 5,
-      "source": "review-known",
-      "at": "2026-06-13T13:22:30.494Z"
-    },
-    {
-      "itemId": "word:heart",
-      "previous": null,
-      "score": 5,
-      "source": "review-skip",
-      "at": "2026-06-13T13:22:36.609Z"
-    },
-    {
-      "itemId": "word:men",
-      "previous": null,
-      "score": 5,
-      "source": "review-skip",
-      "at": "2026-06-13T13:22:38.689Z"
-    },
-    {
-      "itemId": "word:feelings",
-      "previous": null,
-      "score": 5,
-      "source": "review-skip",
-      "at": "2026-06-13T13:22:40.815Z"
-    },
-    {
-      "itemId": "word:front",
-      "previous": null,
-      "score": 5,
-      "source": "review-skip",
-      "at": "2026-06-13T13:22:45.799Z"
-    },
-    {
-      "itemId": "word:pull",
-      "previous": null,
-      "score": 5,
-      "source": "review-skip",
-      "at": "2026-06-13T13:22:48.924Z"
-    },
-    {
-      "itemId": "word:smart",
-      "previous": null,
-      "score": 5,
-      "source": "review-skip",
-      "at": "2026-06-13T13:22:50.274Z"
-    },
-    {
-      "itemId": "word:dream",
-      "previous": null,
-      "score": 5,
-      "source": "review-skip",
-      "at": "2026-06-13T13:23:00.299Z"
-    },
-    {
-      "itemId": "word:machine",
-      "previous": null,
-      "score": 5,
-      "source": "review-skip",
-      "at": "2026-06-13T13:23:03.015Z"
-    },
-    {
-      "itemId": "word:shirt",
-      "previous": null,
-      "score": 5,
-      "source": "review-skip",
-      "at": "2026-06-13T13:23:05.009Z"
-    },
-    {
-      "itemId": "word:shop",
-      "previous": null,
-      "score": 5,
-      "source": "review-skip",
-      "at": "2026-06-13T13:23:07.890Z"
-    },
-    {
-      "itemId": "word:slept",
-      "previous": null,
-      "score": 5,
-      "source": "review-skip",
-      "at": "2026-06-13T13:23:10.082Z"
-    },
     {
       "itemId": "word:worse",
       "previous": null,
@@ -12463,6 +12386,111 @@
       "score": 5,
       "source": "review-skip",
       "at": "2026-07-03T12:00:08.027Z"
+    },
+    {
+      "itemId": "word:win",
+      "previous": null,
+      "score": 5,
+      "source": "review-skip",
+      "at": "2026-07-03T12:14:39.601Z"
+    },
+    {
+      "itemId": "word:office",
+      "previous": null,
+      "score": 5,
+      "source": "review-skip",
+      "at": "2026-07-03T12:14:40.863Z"
+    },
+    {
+      "itemId": "word:damn",
+      "previous": 3,
+      "score": 5,
+      "source": "review-skip",
+      "at": "2026-07-03T12:14:43.410Z"
+    },
+    {
+      "itemId": "word:bet",
+      "previous": null,
+      "score": 5,
+      "source": "review-skip",
+      "at": "2026-07-03T12:14:46.833Z"
+    },
+    {
+      "itemId": "word:box",
+      "previous": null,
+      "score": 5,
+      "source": "review-skip",
+      "at": "2026-07-03T12:14:47.996Z"
+    },
+    {
+      "itemId": "word:learn",
+      "previous": null,
+      "score": 5,
+      "source": "review-skip",
+      "at": "2026-07-03T12:14:50.048Z"
+    },
+    {
+      "itemId": "phrase:find out",
+      "previous": null,
+      "score": 5,
+      "source": "review-skip",
+      "at": "2026-07-03T12:14:51.606Z"
+    },
+    {
+      "itemId": "word:message",
+      "previous": null,
+      "score": 5,
+      "source": "review-skip",
+      "at": "2026-07-03T12:14:53.556Z"
+    },
+    {
+      "itemId": "word:kick",
+      "previous": null,
+      "score": 5,
+      "source": "review-skip",
+      "at": "2026-07-03T12:14:55.174Z"
+    },
+    {
+      "itemId": "word:marriage",
+      "previous": null,
+      "score": 5,
+      "source": "review-skip",
+      "at": "2026-07-03T12:14:57.174Z"
+    },
+    {
+      "itemId": "phrase:take off",
+      "previous": null,
+      "score": 5,
+      "source": "review-skip",
+      "at": "2026-07-03T12:14:59.325Z"
+    },
+    {
+      "itemId": "word:son",
+      "previous": null,
+      "score": 5,
+      "source": "review-skip",
+      "at": "2026-07-03T12:15:00.433Z"
+    },
+    {
+      "itemId": "word:forgot",
+      "previous": null,
+      "score": 5,
+      "source": "review-skip",
+      "at": "2026-07-03T12:15:02.029Z"
+    },
+    {
+      "itemId": "word:chair",
+      "previous": null,
+      "score": 5,
+      "source": "review-skip",
+      "at": "2026-07-03T12:15:03.691Z"
+    },
+    {
+      "itemId": "word:fault",
+      "previous": null,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-03T12:15:06.503Z"
     }
   ],
   "reviewEngineVersion": 2,
@@ -17734,6 +17762,3446 @@
       "skippedCount": 39,
       "completedCount": 34,
       "hardCount": 2
+    },
+    "S01E11-24": {
+      "version": 2,
+      "blockId": "S01E11-24",
+      "total": 871,
+      "queue": [
+        {
+          "id": "S01E11-24:word:massage",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:phrase:in love with",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:cake",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:drunk",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:afraid",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:drive",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:weekend",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:scene",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:phrase:come up",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:phrase:how come",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:asleep",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:hospital",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:coat",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:plus",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:chef",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:teach",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:chick",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:phrase:take care",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:switch",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:sell",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:phrase:figure out",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:phrase:move on",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:town",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:fell",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:lying",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:carry",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:hire",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:ahead",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:conversation",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:phrase:freak out",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:jealous",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:rock",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:beside",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:speech",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:phrase:check out",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:engage",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:stare",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:state",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:allow",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:lock",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:page",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:stole",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:jacket",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:jump",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:anniversary",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:bore",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:treat",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:phrase:go ahead",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:hotel",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:somewhere",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:beat",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:egg",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:human",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:king",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:charge",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:gym",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:honor",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:area",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:fool",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:fridge",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:phrase:get off",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:practice",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:experience",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:letter",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:rather",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:teacher",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:usually",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:desk",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:phrase:make up",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:nipple",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:rush",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:sold",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:busy",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:dying",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:flip",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:insane",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:normal",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:pound",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:bath",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:client",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:closet",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:cost",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:easier",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:merry",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:silly",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:system",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:wrap",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:beach",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:bond",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:certainly",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:cheat",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:cheer",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:country",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:fruit",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:memory",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:phrase:throw up",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:phrase:go away",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:phase",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:trade",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:adult",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:deep",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:jam",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:phrase:move out",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:settle",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:support",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:trick",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:wash",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:dumb",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:ground",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:lamp",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:pig",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:poker",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:press",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:rub",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:bone",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:camp",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:fourth",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:hung",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:law",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:pen",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:science",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:sport",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:stage",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:sweat",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:tight",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:address",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:appointment",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:balcony",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:dessert",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:gun",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:hooker",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:land",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:level",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:neighbor",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:process",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:quarter",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:salt",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:screen",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:ship",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:cop",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:introduce",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:paleontologist",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:schedule",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:weight",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:ankle",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:apple",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:blond",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:circle",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:commitment",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:condom",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:dial",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:lesson",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:study",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:art",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:bell",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:cross",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:generous",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:labor",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:lawyer",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:miracle",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:resume",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:term",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:field",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:final",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:garbage",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:male",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:perfectly",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:pet",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:pin",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:report",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:slip",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:wave",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:champagne",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:insurance",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:mood",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:poem",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:professional",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:route",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:spoil",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:phrase:as soon as",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:phrase:come down",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:create",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:creepy",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:lame",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:opinion",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:pot",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:review",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:salmon",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:squeeze",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:suite",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:view",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:younger",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:creep",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:crime",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:exchange",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:guilty",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:handsome",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:incredibly",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:jeez",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:lasagna",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:layer",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:lick",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:low",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:prom",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:sake",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:soul",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:stood",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:uterus",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:according",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:code",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:contraction",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:parade",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:pickle",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:somehow",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:strange",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:sun",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:theater",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:truck",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:whether",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:written",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:bridge",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:cheek",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:phrase:come by",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:gotcha",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:include",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:kisser",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:poke",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:soft",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:sugar",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:actress",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:bright",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:fail",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:fling",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:mama",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:pigeon",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:remote",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:snack",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:arrest",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:avoid",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:brave",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:cent",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:chest",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:connect",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:curious",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:dish",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:female",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:fries",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:grape",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:gut",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:hoo",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:limit",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:phrase:look around",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:purpose",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:research",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:sang",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:spare",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:spirit",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:steak",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:sting",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:tour",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:travel",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:phrase:turn around",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:writer",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:cheerleader",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:depend",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:earth",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:held",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:hike",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:incident",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:jail",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:margarita",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:moustache",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:musical",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:phrase:on purpose",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:patient",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:pile",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:pride",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:pure",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:spoke",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:spray",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:supply",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:swoop",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:tomatoes",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:tool",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:vet",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:phrase:walk around",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:appear",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:bay",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:bonus",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:boobie",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:boxer",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:buyer",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:capital",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:caterer",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:ceiling",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:chose",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:claw",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:crossword",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:donate",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:exhausted",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:frame",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:fur",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:gesture",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:ignore",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:interrupt",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:kidney",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:kristen",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:needy",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:neighborhood",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:newspaper",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:nightmare",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:painful",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:privacy",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:project",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:rob",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:rumor",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:sight",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:sink",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:smack",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:station",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:talkin",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:tennis",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:thrown",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:wuss",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:amuse",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:behave",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:blouse",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:centimeters",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:clever",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:coach",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:continue",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:cuter",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:develop",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:gate",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:geek",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:image",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:label",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:marks",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:melt",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:nina",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:outfit",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:poop",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:program",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:racquetball",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:response",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:role",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:sample",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:scone",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:shout",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:phrase:stand in",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:steel",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:tiger",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:yard",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:affect",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:alrighty",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:bless",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:burger",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:curl",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:curse",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:deer",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:deny",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:drown",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:electric",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:flame",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:phrase:get down",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:gravity",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:phrase:hit on",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:hon",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:ironic",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:knob",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:laid",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:macaroni",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:mountain",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:overwhelm",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:peed",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:practically",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:remove",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:rice",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:sailor",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:shorts",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:taco",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:tap",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:uptown",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:vein",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:waffle",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:access",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:announce",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:appetizer",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:artist",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:basic",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:bomb",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:bout",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:brag",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:cappuccino",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:chapter",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:cinnamon",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:circus",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:combination",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:cramp",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:cuddle",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:data",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:douglas",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:dresser",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:fabulous",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:fax",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:ferry",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:fist",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:flick",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:floss",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:however",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:hummus",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:hypothetically",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:illegal",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:initial",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:phrase:look up",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:menu",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:mousse",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:murder",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:ninth",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:nudity",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:onto",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:per",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:physically",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:poo",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:punish",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:recommend",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:resist",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:result",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:roast",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:shiny",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:shrink",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:skills",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:stronger",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:thinkin",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:torn",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:phrase:turn into",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:upside",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:woo",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:yourselves",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:yum",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:zero",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:antique",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:argument",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:ashamed",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:background",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:blade",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:cellar",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:competitive",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:cone",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:curly",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:danielle",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:dealer",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:dive",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:exercise",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:flattering",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:focusing",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:fortunately",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:goal",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:goggles",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:greek",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:herbal",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:hoop",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:ink",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:jungle",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:knit",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:lent",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:lewis",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:load",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:loss",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:medium",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:navy",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:nephew",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:net",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:pardon",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:pastry",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:personality",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:pinch",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:profile",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:radiator",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:ravioli",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:raw",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:register",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:rehearse",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:rejection",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:rescue",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:secretly",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:seek",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:similar",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:sketch",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:spanish",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:stroke",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:strongest",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:tense",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:uniform",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:whack",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:wherever",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:airplane",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:bail",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:balance",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:barbecue",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:barge",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:beam",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:beast",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:behavior",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:bitter",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:bluffing",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:burst",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:cigar",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:community",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:conscious",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:contribution",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:craving",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:crown",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:cruise",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:crystal",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:currently",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:devil",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:dozen",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:phrase:drop off",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:emotionally",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:phrase:fall down",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:forbidden",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:fortune",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:generally",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:goat",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:hog",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:humor",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:importantly",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:intimidated",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:liam",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:mitchell",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:moist",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:naughty",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:nauseous",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:north",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:pope",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:progress",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:pump",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:quietly",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:rainbow",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:receipt",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:sack",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:safety",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:sarcastic",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:scissors",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:society",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:spade",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:stake",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:sucker",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:supervisor",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:supposedly",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:sweety",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:technical",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:vulnerable",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:wee",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:weekly",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:yea",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:accountant",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:adam",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:adventure",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:altogether",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:anti",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:applying",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:barbara",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:beeper",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:birdie",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:bun",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:celtics",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:champ",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:committed",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:complex",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:counselor",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:creature",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:cube",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:dart",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:dime",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:drill",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:envelope",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:exotic",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:extinct",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:fertility",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:fest",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:flesh",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:formerly",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:frankly",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:grip",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:horseback",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:icky",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:ideal",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:imagination",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:intimate",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:irony",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:jamie",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:jet",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:joker",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:madness",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:mechanic",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:memo",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:midterm",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:moral",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:necessarily",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:newark",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:newsletter",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:nora",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:occasionally",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:opener",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:panicked",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:paperwork",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:pennsylvania",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:pirate",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:players",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:poet",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:polite",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:portion",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:pose",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:prank",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:psychiatrist",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:phrase:put out",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:raisin",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:ritual",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:roy",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:saucy",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:scenario",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:shrimp",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:sore",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:squirt",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:strict",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:swordfish",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:takin",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:teen",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:telescope",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:theodore",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:thermos",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:threatened",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:phrase:throw in",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:tuna",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:usage",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:vagina",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:vent",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:violent",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:von",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:phrase:walk down",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:whoops",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:admissions",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:andre",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:annual",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:biblical",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:boston",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:chamomile",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:cilantro",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:coleslaw",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:conduct",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:cubicle",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:denim",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:depression",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:digital",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:dining",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:donuts",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:dummy",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:effect",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:estimated",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:evelyn",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:express",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:eyed",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:failure",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:fare",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:flung",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:freshman",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:grey",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:haul",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:heave",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:informed",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:ing",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:intimacy",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:jumbo",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:justice",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:knapsack",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:kung",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:laurie",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:leaf",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:length",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:linda",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:lydia",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:mazel",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:mistress",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:mute",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:oatmeal",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:observe",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:oldest",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:palace",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:plot",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:plunge",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:psychology",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:puberty",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:rattle",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:rebuild",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:reduce",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:restraining",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:reunion",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:righteous",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:sabotage",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:scum",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:seal",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:secretary",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:sibling",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:sidney",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:spontaneous",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:staff",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:stepfather",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:sticker",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:strictly",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:teensy",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:temp",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:thy",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:tonsil",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:toughest",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:tourist",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:tranquilizer",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:unbearable",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:voluntarily",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:weep",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:whoo",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:yuck",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:absolute",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:additional",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:amigo",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:ante",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:appetite",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:aptitude",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:arrangement",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:bicentennial",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:biscotti",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:blackberry",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:blower",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:bonfire",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:bouche",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:branches",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:caution",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:chant",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:chief",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:chitchat",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:clarify",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:codependent",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:compass",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:congress",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:container",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:corn",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:curator",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:daily",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:dangle",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:dealt",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:dee",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:defence",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:dental",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:differ",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:dillon",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:disappointment",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:disk",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:ebony",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:embassy",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:embolism",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:enormous",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:ethnic",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:federal",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:feminist",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:fiasco",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:filth",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:foghorn",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:giorno",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:giver",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:grazie",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:groin",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:hardball",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:heightened",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:hibachi",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:hobby",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:horn",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:horoscope",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:hugh",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:insect",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:inspiration",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:intelligence",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:jeopardy",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:jimbo",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:jockstrap",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:kettle",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:ladybug",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:lesser",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:licker",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:loudly",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:maintaining",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:massager",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:maturity",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:med",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:medication",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:meter",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:musta",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:needless",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:neutral",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:nostril",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:objects",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:ounce",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:overall",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:overboard",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:overpriced",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:overslept",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:pajamas",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:parachute",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:partially",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:particularly",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:patio",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:peg",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:persuade",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:petite",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:petrie",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:playthings",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:poodle",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:possession",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:quartz",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:randy",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:recollection",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:rematch",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:ridicule",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:safer",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:salty",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:scooch",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:scrape",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:sexist",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:shoulders",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:shouldn",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:shove",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:slam",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:slather",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:spender",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:stapler",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:stat",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:status",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:stegosaurus",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:stunted",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:syllable",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:tampa",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:trib",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:tyrannosaurus",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:undone",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:urkel",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:urse",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:villagers",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:vintage",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:vulva",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:wati",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:weave",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:weed",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:yarn",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:zinfandel",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:word:zipper",
+          "kind": "new"
+        },
+        {
+          "id": "S01E11-24:phrase:dental floss",
+          "kind": "new"
+        }
+      ],
+      "currentWrongCount": 0,
+      "currentAttemptFailed": false,
+      "wrongChoice": null,
+      "questionStats": {},
+      "correctCount": 0,
+      "wrongCount": 1,
+      "skippedCount": 14,
+      "completedCount": 1,
+      "hardCount": 1
     }
   },
   "reviewMemory": {
@@ -25659,6 +29127,25 @@
       "updatedAt": "2026-07-03T12:00:03.852Z",
       "masteredAt": "2026-07-03T12:00:03.852Z",
       "masteredSource": "review-hard"
+    },
+    "word:fault": {
+      "itemId": "word:fault",
+      "term": "fault",
+      "type": "word",
+      "firstWrongAt": "2026-07-03T12:15:06.503Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S01E11-24"
+      ],
+      "questionIds": [
+        "S01E11-24:word:fault"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-03T12:15:06.503Z",
+      "lastBlockId": "S01E11-24",
+      "updatedAt": "2026-07-03T12:15:06.503Z",
+      "masteredAt": "2026-07-03T12:15:06.503Z",
+      "masteredSource": "review-hard"
     }
   },
   "reviewMemoryDeletedAt": {
@@ -25958,8 +29445,22 @@
     "word:mmmm": "2026-07-02T12:27:24.719Z",
     "word:snowman": "2026-07-03T11:59:46.607Z",
     "word:snowstorm": "2026-07-03T11:59:50.128Z",
-    "word:yup": "2026-07-03T12:00:08.027Z"
+    "word:yup": "2026-07-03T12:00:08.027Z",
+    "word:win": "2026-07-03T12:14:39.601Z",
+    "word:office": "2026-07-03T12:14:40.863Z",
+    "word:damn": "2026-07-03T12:14:43.410Z",
+    "word:bet": "2026-07-03T12:14:46.833Z",
+    "word:box": "2026-07-03T12:14:47.996Z",
+    "word:learn": "2026-07-03T12:14:50.048Z",
+    "phrase:find out": "2026-07-03T12:14:51.606Z",
+    "word:message": "2026-07-03T12:14:53.556Z",
+    "word:kick": "2026-07-03T12:14:55.174Z",
+    "word:marriage": "2026-07-03T12:14:57.174Z",
+    "phrase:take off": "2026-07-03T12:14:59.325Z",
+    "word:son": "2026-07-03T12:15:00.433Z",
+    "word:forgot": "2026-07-03T12:15:02.029Z",
+    "word:chair": "2026-07-03T12:15:03.691Z"
   },
-  "savedAt": "2026-07-03T12:00:12.482Z",
-  "syncedAt": "2026-07-03T12:00:12.482Z"
+  "savedAt": "2026-07-03T12:15:11.052Z",
+  "syncedAt": "2026-07-03T12:15:11.052Z"
 }
