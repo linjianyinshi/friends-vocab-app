@@ -644,13 +644,13 @@
     "word:boxer": 5,
     "word:kristen": 5,
     "word:buzz": 5,
-    "word:crawl": 1,
+    "word:crawl": 5,
     "word:golf": 5,
     "word:risk": 4,
     "word:amuse": 5,
     "word:bum": 1,
     "word:carpet": 5,
-    "word:comfort": 2,
+    "word:comfort": 5,
     "word:concentrate": 1,
     "word:fifty": 5,
     "word:nude": 1,
@@ -669,7 +669,7 @@
     "word:coach": 5,
     "word:onboard": 2,
     "word:starve": 2,
-    "word:bikini": 1,
+    "word:bikini": 5,
     "word:somethin": 1,
     "word:bakery": 3,
     "word:needle": 1,
@@ -3385,7 +3385,10 @@
     "word:themselves": 5,
     "word:underneath": 5,
     "word:unemployed": 5,
-    "word:angel": 5
+    "word:angel": 5,
+    "word:approve": 5,
+    "word:cabin": 5,
+    "word:claim": 5
   },
   "scoreUpdatedAt": {
     "word:smelly": "2026-07-04T13:44:01.296Z",
@@ -4030,13 +4033,13 @@
     "word:boxer": "2026-07-03T15:13:01.851Z",
     "word:kristen": "2026-07-03T15:14:14.280Z",
     "word:buzz": "2026-06-24T12:17:09.596Z",
-    "word:crawl": "2026-06-05T04:45:37.476Z",
+    "word:crawl": "2026-07-04T15:13:36.089Z",
     "word:golf": "2026-06-05T04:45:40.226Z",
     "word:risk": "2026-06-05T04:45:44.162Z",
     "word:amuse": "2026-07-03T15:15:07.981Z",
     "word:bum": "2026-06-05T04:45:49.280Z",
     "word:carpet": "2026-06-24T12:17:11.781Z",
-    "word:comfort": "2026-06-05T04:45:59.865Z",
+    "word:comfort": "2026-07-04T15:13:33.651Z",
     "word:concentrate": "2026-06-05T04:46:04.299Z",
     "word:fifty": "2026-06-05T04:46:06.298Z",
     "word:nude": "2026-06-05T04:46:12.518Z",
@@ -4055,7 +4058,7 @@
     "word:coach": "2026-07-03T15:15:37.249Z",
     "word:onboard": "2026-06-05T04:47:01.690Z",
     "word:starve": "2026-06-05T04:47:08.377Z",
-    "word:bikini": "2026-06-05T04:47:10.061Z",
+    "word:bikini": "2026-07-04T15:13:23.068Z",
     "word:somethin": "2026-06-05T04:49:30.960Z",
     "word:bakery": "2026-06-05T04:49:37.282Z",
     "word:needle": "2026-06-05T04:49:38.746Z",
@@ -6924,7 +6927,10 @@
     "word:themselves": "2026-07-04T15:08:31.928Z",
     "word:underneath": "2026-07-04T15:08:33.607Z",
     "word:unemployed": "2026-07-04T15:08:49.080Z",
-    "word:angel": "2026-07-04T15:08:59.113Z"
+    "word:angel": "2026-07-04T15:08:59.113Z",
+    "word:approve": "2026-07-04T15:13:17.537Z",
+    "word:cabin": "2026-07-04T15:13:25.351Z",
+    "word:claim": "2026-07-04T15:13:30.276Z"
   },
   "scoreDeletedAt": {
     "word:valentines": "2026-06-04T13:10:50Z",
@@ -7084,48 +7090,6 @@
   "resetAt": null,
   "notes": {},
   "history": [
-    {
-      "itemId": "word:boxer",
-      "previous": 2,
-      "score": 5,
-      "source": "review-hard",
-      "at": "2026-07-03T15:13:01.851Z"
-    },
-    {
-      "itemId": "word:buyer",
-      "previous": null,
-      "score": 5,
-      "source": "review-skip",
-      "at": "2026-07-03T15:13:03.832Z"
-    },
-    {
-      "itemId": "word:capital",
-      "previous": null,
-      "score": 5,
-      "source": "review-skip",
-      "at": "2026-07-03T15:13:07.120Z"
-    },
-    {
-      "itemId": "word:caterer",
-      "previous": 1,
-      "score": 5,
-      "source": "review-hard",
-      "at": "2026-07-03T15:13:09.397Z"
-    },
-    {
-      "itemId": "word:ceiling",
-      "previous": 1,
-      "score": 5,
-      "source": "review-hard",
-      "at": "2026-07-03T15:13:12.308Z"
-    },
-    {
-      "itemId": "word:chose",
-      "previous": null,
-      "score": 5,
-      "source": "review-skip",
-      "at": "2026-07-03T15:13:15.195Z"
-    },
     {
       "itemId": "word:claw",
       "previous": 1,
@@ -12683,6 +12647,48 @@
       "score": 5,
       "source": "review-skip",
       "at": "2026-07-04T15:08:59.113Z"
+    },
+    {
+      "itemId": "word:approve",
+      "previous": null,
+      "score": 5,
+      "source": "review-skip",
+      "at": "2026-07-04T15:13:17.537Z"
+    },
+    {
+      "itemId": "word:bikini",
+      "previous": 1,
+      "score": 5,
+      "source": "review-skip",
+      "at": "2026-07-04T15:13:23.068Z"
+    },
+    {
+      "itemId": "word:cabin",
+      "previous": null,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-04T15:13:25.351Z"
+    },
+    {
+      "itemId": "word:claim",
+      "previous": null,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-04T15:13:30.276Z"
+    },
+    {
+      "itemId": "word:comfort",
+      "previous": 2,
+      "score": 5,
+      "source": "review-skip",
+      "at": "2026-07-04T15:13:33.651Z"
+    },
+    {
+      "itemId": "word:crawl",
+      "previous": 1,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-04T15:13:36.089Z"
     }
   ],
   "reviewEngineVersion": 2,
@@ -17976,30 +17982,6 @@
       "total": 964,
       "queue": [
         {
-          "id": "S02E01-24:word:approve",
-          "kind": "new"
-        },
-        {
-          "id": "S02E01-24:word:bikini",
-          "kind": "new"
-        },
-        {
-          "id": "S02E01-24:word:cabin",
-          "kind": "new"
-        },
-        {
-          "id": "S02E01-24:word:claim",
-          "kind": "new"
-        },
-        {
-          "id": "S02E01-24:word:comfort",
-          "kind": "new"
-        },
-        {
-          "id": "S02E01-24:word:crawl",
-          "kind": "new"
-        },
-        {
           "id": "S02E01-24:word:custard",
           "kind": "new"
         },
@@ -20901,10 +20883,10 @@
       "wrongChoice": null,
       "questionStats": {},
       "correctCount": 6,
-      "wrongCount": 68,
-      "skippedCount": 164,
-      "completedCount": 74,
-      "hardCount": 68
+      "wrongCount": 71,
+      "skippedCount": 167,
+      "completedCount": 77,
+      "hardCount": 71
     }
   },
   "reviewMemory": {
@@ -38425,6 +38407,63 @@
       "updatedAt": "2026-07-04T15:08:55.274Z",
       "masteredAt": "2026-07-04T15:08:55.274Z",
       "masteredSource": "review-hard"
+    },
+    "word:cabin": {
+      "itemId": "word:cabin",
+      "term": "cabin",
+      "type": "word",
+      "firstWrongAt": "2026-07-04T15:13:25.350Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S02E01-24"
+      ],
+      "questionIds": [
+        "S02E01-24:word:cabin"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-04T15:13:25.350Z",
+      "lastBlockId": "S02E01-24",
+      "updatedAt": "2026-07-04T15:13:25.351Z",
+      "masteredAt": "2026-07-04T15:13:25.351Z",
+      "masteredSource": "review-hard"
+    },
+    "word:claim": {
+      "itemId": "word:claim",
+      "term": "claim",
+      "type": "word",
+      "firstWrongAt": "2026-07-04T15:13:30.276Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S02E01-24"
+      ],
+      "questionIds": [
+        "S02E01-24:word:claim"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-04T15:13:30.276Z",
+      "lastBlockId": "S02E01-24",
+      "updatedAt": "2026-07-04T15:13:30.276Z",
+      "masteredAt": "2026-07-04T15:13:30.276Z",
+      "masteredSource": "review-hard"
+    },
+    "word:crawl": {
+      "itemId": "word:crawl",
+      "term": "crawl",
+      "type": "word",
+      "firstWrongAt": "2026-07-04T15:13:36.089Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S02E01-24"
+      ],
+      "questionIds": [
+        "S02E01-24:word:crawl"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-04T15:13:36.089Z",
+      "lastBlockId": "S02E01-24",
+      "updatedAt": "2026-07-04T15:13:36.089Z",
+      "masteredAt": "2026-07-04T15:13:36.089Z",
+      "masteredSource": "review-hard"
     }
   },
   "reviewMemoryDeletedAt": {
@@ -39315,8 +39354,11 @@
     "word:underneath": "2026-07-04T15:08:33.607Z",
     "word:underpants": "2026-07-04T15:08:42.186Z",
     "word:unemployed": "2026-07-04T15:08:49.080Z",
-    "word:angel": "2026-07-04T15:08:59.113Z"
+    "word:angel": "2026-07-04T15:08:59.113Z",
+    "word:approve": "2026-07-04T15:13:17.537Z",
+    "word:bikini": "2026-07-04T15:13:23.068Z",
+    "word:comfort": "2026-07-04T15:13:33.651Z"
   },
-  "savedAt": "2026-07-04T15:09:01.795Z",
-  "syncedAt": "2026-07-04T15:09:01.795Z"
+  "savedAt": "2026-07-04T15:13:40.750Z",
+  "syncedAt": "2026-07-04T15:13:40.750Z"
 }
