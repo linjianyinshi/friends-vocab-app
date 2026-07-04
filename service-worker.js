@@ -1,4 +1,4 @@
-const CACHE_NAME = "friends-vocab-1783080660";
+const CACHE_NAME = "friends-vocab-1783170026";
 const ASSETS = [
   "./",
   "./index.html",
