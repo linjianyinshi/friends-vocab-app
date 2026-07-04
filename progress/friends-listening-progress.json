@@ -1418,19 +1418,19 @@
     "word:sweatpants": 1,
     "word:talky": 1,
     "word:tarragon": 1,
-    "word:teensy": 1,
-    "word:tonsil": 1,
+    "word:teensy": 5,
+    "word:tonsil": 5,
     "word:topless": 1,
     "word:tortilla": 1,
-    "word:tranquilizer": 1,
+    "word:tranquilizer": 5,
     "word:ugliest": 1,
     "word:unattended": 1,
     "word:unattractive": 1,
-    "word:unbearable": 1,
+    "word:unbearable": 5,
     "word:videotape": 5,
     "word:virginity": 5,
     "word:vividly": 5,
-    "word:weep": 1,
+    "word:weep": 5,
     "word:weirder": 1,
     "word:whaddya": 1,
     "word:wham": 1,
@@ -1440,7 +1440,7 @@
     "word:whove": 1,
     "word:wiggle": 1,
     "word:workin": 1,
-    "word:yuck": 1,
+    "word:yuck": 5,
     "word:anchovies": 1,
     "word:becasue": 1,
     "word:beginners": 1,
@@ -3080,7 +3080,62 @@
     "word:spontaneous": 5,
     "word:staff": 5,
     "word:sticker": 5,
-    "word:strictly": 5
+    "word:strictly": 5,
+    "word:temp": 5,
+    "word:thy": 5,
+    "word:toughest": 5,
+    "word:tourist": 5,
+    "word:voluntarily": 5,
+    "word:whoo": 5,
+    "word:absolute": 5,
+    "word:additional": 5,
+    "word:amigo": 5,
+    "word:ante": 5,
+    "word:appetite": 5,
+    "word:aptitude": 5,
+    "word:arrangement": 5,
+    "word:bicentennial": 5,
+    "word:biscotti": 5,
+    "word:blackberry": 5,
+    "word:blower": 5,
+    "word:bonfire": 5,
+    "word:bouche": 5,
+    "word:branches": 5,
+    "word:caution": 5,
+    "word:chant": 5,
+    "word:chief": 5,
+    "word:chitchat": 5,
+    "word:clarify": 5,
+    "word:codependent": 5,
+    "word:compass": 5,
+    "word:congress": 5,
+    "word:container": 5,
+    "word:corn": 5,
+    "word:curator": 5,
+    "word:daily": 5,
+    "word:dangle": 5,
+    "word:dealt": 5,
+    "word:dee": 5,
+    "word:defence": 5,
+    "word:dental": 5,
+    "word:differ": 5,
+    "word:dillon": 5,
+    "word:disappointment": 5,
+    "word:disk": 5,
+    "word:ebony": 5,
+    "word:embassy": 5,
+    "word:embolism": 5,
+    "word:enormous": 5,
+    "word:ethnic": 5,
+    "word:federal": 5,
+    "word:feminist": 5,
+    "word:fiasco": 5,
+    "word:filth": 5,
+    "word:foghorn": 5,
+    "word:giorno": 5,
+    "word:giver": 5,
+    "word:grazie": 5,
+    "word:groin": 5
   },
   "scoreUpdatedAt": {
     "word:smelly": "2026-06-03T13:53:19.003Z",
@@ -4499,19 +4554,19 @@
     "word:sweatpants": "2026-06-10T13:30:12.459Z",
     "word:talky": "2026-06-10T13:30:13.504Z",
     "word:tarragon": "2026-06-10T13:30:14.521Z",
-    "word:teensy": "2026-06-10T13:30:15.604Z",
-    "word:tonsil": "2026-06-10T13:30:16.728Z",
+    "word:teensy": "2026-07-04T12:43:04.831Z",
+    "word:tonsil": "2026-07-04T12:43:12.247Z",
     "word:topless": "2026-06-10T13:30:18.965Z",
     "word:tortilla": "2026-06-10T13:30:24.949Z",
-    "word:tranquilizer": "2026-06-10T13:30:26.378Z",
+    "word:tranquilizer": "2026-07-04T12:43:23.104Z",
     "word:ugliest": "2026-06-10T13:30:28.017Z",
     "word:unattended": "2026-06-10T13:30:29.573Z",
     "word:unattractive": "2026-06-10T13:30:31.631Z",
-    "word:unbearable": "2026-06-10T13:30:34.312Z",
+    "word:unbearable": "2026-07-04T12:43:27.353Z",
     "word:videotape": "2026-06-10T13:30:38.845Z",
     "word:virginity": "2026-06-29T12:16:14.332Z",
     "word:vividly": "2026-07-02T12:24:38.821Z",
-    "word:weep": "2026-06-10T13:30:44.215Z",
+    "word:weep": "2026-07-04T12:43:33.410Z",
     "word:weirder": "2026-06-10T13:30:46.577Z",
     "word:whaddya": "2026-06-10T13:30:47.627Z",
     "word:wham": "2026-06-10T13:30:48.362Z",
@@ -4521,7 +4576,7 @@
     "word:whove": "2026-06-10T13:30:52.547Z",
     "word:wiggle": "2026-06-10T13:30:55.614Z",
     "word:workin": "2026-06-10T13:30:56.477Z",
-    "word:yuck": "2026-06-10T13:30:57.495Z",
+    "word:yuck": "2026-07-04T12:43:37.088Z",
     "word:anchovies": "2026-06-10T13:30:58.268Z",
     "word:becasue": "2026-06-10T13:30:59.573Z",
     "word:beginners": "2026-06-10T13:31:55.206Z",
@@ -6314,7 +6369,62 @@
     "word:spontaneous": "2026-07-04T12:41:56.216Z",
     "word:staff": "2026-07-04T12:42:00.049Z",
     "word:sticker": "2026-07-04T12:42:06.287Z",
-    "word:strictly": "2026-07-04T12:42:08.650Z"
+    "word:strictly": "2026-07-04T12:42:08.650Z",
+    "word:temp": "2026-07-04T12:43:08.434Z",
+    "word:thy": "2026-07-04T12:43:10.842Z",
+    "word:toughest": "2026-07-04T12:43:17.361Z",
+    "word:tourist": "2026-07-04T12:43:20.421Z",
+    "word:voluntarily": "2026-07-04T12:43:31.017Z",
+    "word:whoo": "2026-07-04T12:43:34.940Z",
+    "word:absolute": "2026-07-04T12:43:39.768Z",
+    "word:additional": "2026-07-04T12:43:44.884Z",
+    "word:amigo": "2026-07-04T12:43:48.350Z",
+    "word:ante": "2026-07-04T12:43:50.623Z",
+    "word:appetite": "2026-07-04T12:43:53.437Z",
+    "word:aptitude": "2026-07-04T12:43:57.697Z",
+    "word:arrangement": "2026-07-04T12:44:01.326Z",
+    "word:bicentennial": "2026-07-04T12:44:04.006Z",
+    "word:biscotti": "2026-07-04T12:44:08.401Z",
+    "word:blackberry": "2026-07-04T12:44:11.196Z",
+    "word:blower": "2026-07-04T12:44:14.894Z",
+    "word:bonfire": "2026-07-04T12:44:16.476Z",
+    "word:bouche": "2026-07-04T12:44:18.701Z",
+    "word:branches": "2026-07-04T12:44:20.140Z",
+    "word:caution": "2026-07-04T12:44:21.840Z",
+    "word:chant": "2026-07-04T12:44:23.967Z",
+    "word:chief": "2026-07-04T12:44:28.980Z",
+    "word:chitchat": "2026-07-04T12:44:32.453Z",
+    "word:clarify": "2026-07-04T12:44:34.715Z",
+    "word:codependent": "2026-07-04T12:44:38.913Z",
+    "word:compass": "2026-07-04T12:44:40.495Z",
+    "word:congress": "2026-07-04T12:44:41.906Z",
+    "word:container": "2026-07-04T12:44:45.298Z",
+    "word:corn": "2026-07-04T12:44:46.445Z",
+    "word:curator": "2026-07-04T12:44:49.396Z",
+    "word:daily": "2026-07-04T12:44:51.855Z",
+    "word:dangle": "2026-07-04T12:44:54.861Z",
+    "word:dealt": "2026-07-04T12:44:57.409Z",
+    "word:dee": "2026-07-04T12:44:58.651Z",
+    "word:defence": "2026-07-04T12:45:02.264Z",
+    "word:dental": "2026-07-04T12:45:03.910Z",
+    "word:differ": "2026-07-04T12:45:06.781Z",
+    "word:dillon": "2026-07-04T12:45:09.918Z",
+    "word:disappointment": "2026-07-04T12:45:19.180Z",
+    "word:disk": "2026-07-04T12:45:21.521Z",
+    "word:ebony": "2026-07-04T12:45:22.735Z",
+    "word:embassy": "2026-07-04T12:45:26.730Z",
+    "word:embolism": "2026-07-04T12:45:28.306Z",
+    "word:enormous": "2026-07-04T12:45:31.135Z",
+    "word:ethnic": "2026-07-04T12:45:33.563Z",
+    "word:federal": "2026-07-04T12:45:41.190Z",
+    "word:feminist": "2026-07-04T12:45:43.932Z",
+    "word:fiasco": "2026-07-04T12:45:46.400Z",
+    "word:filth": "2026-07-04T12:45:49.865Z",
+    "word:foghorn": "2026-07-04T12:45:52.106Z",
+    "word:giorno": "2026-07-04T12:45:55.518Z",
+    "word:giver": "2026-07-04T12:46:00.994Z",
+    "word:grazie": "2026-07-04T12:46:05.698Z",
+    "word:groin": "2026-07-04T12:46:06.666Z"
   },
   "scoreDeletedAt": {
     "word:valentines": "2026-06-04T13:10:50Z",
@@ -6474,433 +6584,6 @@
   "resetAt": null,
   "notes": {},
   "history": [
-    {
-      "itemId": "word:hopefully",
-      "previous": null,
-      "score": 5,
-      "source": "review-skip",
-      "at": "2026-06-30T16:30:10.050Z"
-    },
-    {
-      "itemId": "word:ski",
-      "previous": null,
-      "score": 5,
-      "source": "review-known",
-      "at": "2026-06-30T16:30:12.076Z"
-    },
-    {
-      "itemId": "word:theme",
-      "previous": null,
-      "score": 5,
-      "source": "review-skip",
-      "at": "2026-06-30T16:30:14.352Z"
-    },
-    {
-      "itemId": "word:aware",
-      "previous": null,
-      "score": 5,
-      "source": "review-known",
-      "at": "2026-06-30T16:30:16.955Z"
-    },
-    {
-      "itemId": "word:funeral",
-      "previous": null,
-      "score": 5,
-      "source": "review-known",
-      "at": "2026-06-30T16:31:17.323Z"
-    },
-    {
-      "itemId": "phrase:right away",
-      "previous": null,
-      "score": 5,
-      "source": "review-skip",
-      "at": "2026-06-30T16:31:27.851Z"
-    },
-    {
-      "itemId": "word:sea",
-      "previous": null,
-      "score": 5,
-      "source": "review-skip",
-      "at": "2026-06-30T16:31:29.966Z"
-    },
-    {
-      "itemId": "word:jar",
-      "previous": 1,
-      "score": 5,
-      "source": "review-known",
-      "at": "2026-06-30T16:31:39.942Z"
-    },
-    {
-      "itemId": "word:lightning",
-      "previous": null,
-      "score": 5,
-      "source": "review-known",
-      "at": "2026-06-30T16:31:41.980Z"
-    },
-    {
-      "itemId": "word:loose",
-      "previous": null,
-      "score": 5,
-      "source": "review-known",
-      "at": "2026-06-30T16:31:47.439Z"
-    },
-    {
-      "itemId": "word:theory",
-      "previous": null,
-      "score": 5,
-      "source": "review-known",
-      "at": "2026-06-30T16:32:04.337Z"
-    },
-    {
-      "itemId": "word:tone",
-      "previous": null,
-      "score": 5,
-      "source": "review-known",
-      "at": "2026-06-30T16:32:16.397Z"
-    },
-    {
-      "itemId": "word:bagel",
-      "previous": 1,
-      "score": 5,
-      "source": "review-known",
-      "at": "2026-06-30T16:32:55.593Z"
-    },
-    {
-      "itemId": "word:dare",
-      "previous": 4,
-      "score": 5,
-      "source": "review-known",
-      "at": "2026-06-30T16:33:15.558Z"
-    },
-    {
-      "itemId": "word:lousy",
-      "previous": 1,
-      "score": 5,
-      "source": "review-known",
-      "at": "2026-06-30T16:33:22.089Z"
-    },
-    {
-      "itemId": "word:officially",
-      "previous": null,
-      "score": 5,
-      "source": "review-known",
-      "at": "2026-06-30T16:33:42.915Z"
-    },
-    {
-      "itemId": "word:pill",
-      "previous": null,
-      "score": 5,
-      "source": "review-known",
-      "at": "2026-06-30T16:33:50.592Z"
-    },
-    {
-      "itemId": "word:winner",
-      "previous": null,
-      "score": 5,
-      "source": "review-skip",
-      "at": "2026-06-30T16:33:55.922Z"
-    },
-    {
-      "itemId": "word:refer",
-      "previous": null,
-      "score": 5,
-      "source": "review-known",
-      "at": "2026-06-30T16:33:58.519Z"
-    },
-    {
-      "itemId": "word:yellow",
-      "previous": null,
-      "score": 5,
-      "source": "review-skip",
-      "at": "2026-06-30T16:34:00.380Z"
-    },
-    {
-      "itemId": "word:anytime",
-      "previous": null,
-      "score": 5,
-      "source": "review-skip",
-      "at": "2026-06-30T16:34:07.648Z"
-    },
-    {
-      "itemId": "word:trap",
-      "previous": null,
-      "score": 5,
-      "source": "review-skip",
-      "at": "2026-06-30T16:34:10.150Z"
-    },
-    {
-      "itemId": "word:choke",
-      "previous": 1,
-      "score": 5,
-      "source": "review-known",
-      "at": "2026-06-30T16:34:11.784Z"
-    },
-    {
-      "itemId": "word:belt",
-      "previous": null,
-      "score": 5,
-      "source": "review-known",
-      "at": "2026-06-30T16:34:13.884Z"
-    },
-    {
-      "itemId": "word:advantage",
-      "previous": null,
-      "score": 5,
-      "source": "review-known",
-      "at": "2026-06-30T16:34:46.646Z"
-    },
-    {
-      "itemId": "word:freeze",
-      "previous": null,
-      "score": 5,
-      "source": "review-skip",
-      "at": "2026-06-30T16:34:52.789Z"
-    },
-    {
-      "itemId": "word:belly",
-      "previous": 1,
-      "score": 5,
-      "source": "review-known",
-      "at": "2026-07-01T12:41:56.293Z"
-    },
-    {
-      "itemId": "word:bust",
-      "previous": 1,
-      "score": 5,
-      "source": "review-known",
-      "at": "2026-07-01T12:42:00.162Z"
-    },
-    {
-      "itemId": "word:drove",
-      "previous": null,
-      "score": 5,
-      "source": "review-known",
-      "at": "2026-07-01T12:42:02.006Z"
-    },
-    {
-      "itemId": "word:mental",
-      "previous": null,
-      "score": 5,
-      "source": "review-known",
-      "at": "2026-07-01T12:42:05.375Z"
-    },
-    {
-      "itemId": "word:passion",
-      "previous": 4,
-      "score": 5,
-      "source": "review-known",
-      "at": "2026-07-01T12:42:07.391Z"
-    },
-    {
-      "itemId": "word:spill",
-      "previous": 1,
-      "score": 5,
-      "source": "review-known",
-      "at": "2026-07-01T12:42:10.007Z"
-    },
-    {
-      "itemId": "word:thankful",
-      "previous": null,
-      "score": 5,
-      "source": "review-known",
-      "at": "2026-07-01T12:42:12.191Z"
-    },
-    {
-      "itemId": "word:classic",
-      "previous": null,
-      "score": 5,
-      "source": "review-skip",
-      "at": "2026-07-01T12:42:27.255Z"
-    },
-    {
-      "itemId": "word:tricky",
-      "previous": null,
-      "score": 5,
-      "source": "review-known",
-      "at": "2026-07-01T12:42:44.848Z"
-    },
-    {
-      "itemId": "word:beard",
-      "previous": null,
-      "score": 5,
-      "source": "review-known",
-      "at": "2026-07-01T12:42:46.124Z"
-    },
-    {
-      "itemId": "word:bothers",
-      "previous": 3,
-      "score": 5,
-      "source": "review-known",
-      "at": "2026-07-01T12:42:47.760Z"
-    },
-    {
-      "itemId": "word:clinic",
-      "previous": null,
-      "score": 5,
-      "source": "review-known",
-      "at": "2026-07-01T12:42:51.854Z"
-    },
-    {
-      "itemId": "word:cranberry",
-      "previous": 1,
-      "score": 5,
-      "source": "review-known",
-      "at": "2026-07-01T12:42:53.421Z"
-    },
-    {
-      "itemId": "word:desperate",
-      "previous": null,
-      "score": 5,
-      "source": "review-known",
-      "at": "2026-07-01T12:42:57.092Z"
-    },
-    {
-      "itemId": "word:explode",
-      "previous": 1,
-      "score": 5,
-      "source": "review-known",
-      "at": "2026-07-01T12:43:22.090Z"
-    },
-    {
-      "itemId": "word:fantasy",
-      "previous": 4,
-      "score": 5,
-      "source": "review-known",
-      "at": "2026-07-01T12:43:39.772Z"
-    },
-    {
-      "itemId": "word:lit",
-      "previous": null,
-      "score": 5,
-      "source": "review-known",
-      "at": "2026-07-01T12:43:43.988Z"
-    },
-    {
-      "itemId": "word:material",
-      "previous": null,
-      "score": 5,
-      "source": "review-known",
-      "at": "2026-07-01T12:43:50.052Z"
-    },
-    {
-      "itemId": "word:poster",
-      "previous": null,
-      "score": 5,
-      "source": "review-known",
-      "at": "2026-07-01T12:43:51.889Z"
-    },
-    {
-      "itemId": "word:twist",
-      "previous": null,
-      "score": 5,
-      "source": "review-known",
-      "at": "2026-07-01T12:44:20.434Z"
-    },
-    {
-      "itemId": "word:detail",
-      "previous": null,
-      "score": 5,
-      "source": "review-skip",
-      "at": "2026-07-01T12:44:44.770Z"
-    },
-    {
-      "itemId": "word:upon",
-      "previous": null,
-      "score": 5,
-      "source": "review-known",
-      "at": "2026-07-01T12:44:49.036Z"
-    },
-    {
-      "itemId": "word:example",
-      "previous": null,
-      "score": 5,
-      "source": "review-skip",
-      "at": "2026-07-01T12:44:51.839Z"
-    },
-    {
-      "itemId": "word:vomit",
-      "previous": 1,
-      "score": 5,
-      "source": "review-known",
-      "at": "2026-07-01T12:44:54.590Z"
-    },
-    {
-      "itemId": "word:league",
-      "previous": null,
-      "score": 5,
-      "source": "review-known",
-      "at": "2026-07-01T12:45:04.179Z"
-    },
-    {
-      "itemId": "word:pour",
-      "previous": null,
-      "score": 5,
-      "source": "review-hard",
-      "at": "2026-07-01T12:56:51.816Z"
-    },
-    {
-      "itemId": "word:concept",
-      "previous": null,
-      "score": 5,
-      "source": "review-hard",
-      "at": "2026-07-01T12:56:53.667Z"
-    },
-    {
-      "itemId": "word:fulfill",
-      "previous": null,
-      "score": 5,
-      "source": "review-hard",
-      "at": "2026-07-01T12:56:55.498Z"
-    },
-    {
-      "itemId": "word:gang",
-      "previous": 1,
-      "score": 5,
-      "source": "review-hard",
-      "at": "2026-07-01T12:56:56.814Z"
-    },
-    {
-      "itemId": "word:ham",
-      "previous": null,
-      "score": 5,
-      "source": "review-hard",
-      "at": "2026-07-01T12:56:59.112Z"
-    },
-    {
-      "itemId": "word:senior",
-      "previous": null,
-      "score": 5,
-      "source": "review-hard",
-      "at": "2026-07-01T12:57:00.327Z"
-    },
-    {
-      "itemId": "word:shoop",
-      "previous": 1,
-      "score": 5,
-      "source": "review-hard",
-      "at": "2026-07-01T12:57:05.085Z"
-    },
-    {
-      "itemId": "word:silver",
-      "previous": null,
-      "score": 5,
-      "source": "review-skip",
-      "at": "2026-07-01T12:57:10.738Z"
-    },
-    {
-      "itemId": "word:sixth",
-      "previous": null,
-      "score": 5,
-      "source": "review-skip",
-      "at": "2026-07-01T12:57:12.267Z"
-    },
-    {
-      "itemId": "word:vestibule",
-      "previous": 1,
-      "score": 5,
-      "source": "review-hard",
-      "at": "2026-07-01T12:57:14.331Z"
-    },
     {
       "itemId": "word:shh",
       "previous": 4,
@@ -13473,6 +13156,433 @@
       "score": 5,
       "source": "review-hard",
       "at": "2026-07-04T12:42:08.650Z"
+    },
+    {
+      "itemId": "word:teensy",
+      "previous": 1,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-04T12:43:04.831Z"
+    },
+    {
+      "itemId": "word:temp",
+      "previous": null,
+      "score": 5,
+      "source": "review-skip",
+      "at": "2026-07-04T12:43:08.434Z"
+    },
+    {
+      "itemId": "word:thy",
+      "previous": null,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-04T12:43:10.842Z"
+    },
+    {
+      "itemId": "word:tonsil",
+      "previous": 1,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-04T12:43:12.247Z"
+    },
+    {
+      "itemId": "word:toughest",
+      "previous": null,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-04T12:43:17.361Z"
+    },
+    {
+      "itemId": "word:tourist",
+      "previous": null,
+      "score": 5,
+      "source": "review-skip",
+      "at": "2026-07-04T12:43:20.421Z"
+    },
+    {
+      "itemId": "word:tranquilizer",
+      "previous": 1,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-04T12:43:23.104Z"
+    },
+    {
+      "itemId": "word:unbearable",
+      "previous": 1,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-04T12:43:27.353Z"
+    },
+    {
+      "itemId": "word:voluntarily",
+      "previous": null,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-04T12:43:31.017Z"
+    },
+    {
+      "itemId": "word:weep",
+      "previous": 1,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-04T12:43:33.410Z"
+    },
+    {
+      "itemId": "word:whoo",
+      "previous": null,
+      "score": 5,
+      "source": "review-skip",
+      "at": "2026-07-04T12:43:34.940Z"
+    },
+    {
+      "itemId": "word:yuck",
+      "previous": 1,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-04T12:43:37.088Z"
+    },
+    {
+      "itemId": "word:absolute",
+      "previous": null,
+      "score": 5,
+      "source": "review-skip",
+      "at": "2026-07-04T12:43:39.768Z"
+    },
+    {
+      "itemId": "word:additional",
+      "previous": null,
+      "score": 5,
+      "source": "review-skip",
+      "at": "2026-07-04T12:43:44.884Z"
+    },
+    {
+      "itemId": "word:amigo",
+      "previous": null,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-04T12:43:48.350Z"
+    },
+    {
+      "itemId": "word:ante",
+      "previous": null,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-04T12:43:50.623Z"
+    },
+    {
+      "itemId": "word:appetite",
+      "previous": null,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-04T12:43:53.437Z"
+    },
+    {
+      "itemId": "word:aptitude",
+      "previous": null,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-04T12:43:57.697Z"
+    },
+    {
+      "itemId": "word:arrangement",
+      "previous": null,
+      "score": 5,
+      "source": "review-skip",
+      "at": "2026-07-04T12:44:01.326Z"
+    },
+    {
+      "itemId": "word:bicentennial",
+      "previous": null,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-04T12:44:04.006Z"
+    },
+    {
+      "itemId": "word:biscotti",
+      "previous": null,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-04T12:44:08.401Z"
+    },
+    {
+      "itemId": "word:blackberry",
+      "previous": null,
+      "score": 5,
+      "source": "review-skip",
+      "at": "2026-07-04T12:44:11.196Z"
+    },
+    {
+      "itemId": "word:blower",
+      "previous": null,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-04T12:44:14.894Z"
+    },
+    {
+      "itemId": "word:bonfire",
+      "previous": null,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-04T12:44:16.476Z"
+    },
+    {
+      "itemId": "word:bouche",
+      "previous": null,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-04T12:44:18.701Z"
+    },
+    {
+      "itemId": "word:branches",
+      "previous": null,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-04T12:44:20.140Z"
+    },
+    {
+      "itemId": "word:caution",
+      "previous": null,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-04T12:44:21.840Z"
+    },
+    {
+      "itemId": "word:chant",
+      "previous": null,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-04T12:44:23.967Z"
+    },
+    {
+      "itemId": "word:chief",
+      "previous": null,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-04T12:44:28.980Z"
+    },
+    {
+      "itemId": "word:chitchat",
+      "previous": null,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-04T12:44:32.453Z"
+    },
+    {
+      "itemId": "word:clarify",
+      "previous": null,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-04T12:44:34.715Z"
+    },
+    {
+      "itemId": "word:codependent",
+      "previous": null,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-04T12:44:38.913Z"
+    },
+    {
+      "itemId": "word:compass",
+      "previous": null,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-04T12:44:40.495Z"
+    },
+    {
+      "itemId": "word:congress",
+      "previous": null,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-04T12:44:41.906Z"
+    },
+    {
+      "itemId": "word:container",
+      "previous": null,
+      "score": 5,
+      "source": "review-skip",
+      "at": "2026-07-04T12:44:45.298Z"
+    },
+    {
+      "itemId": "word:corn",
+      "previous": null,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-04T12:44:46.445Z"
+    },
+    {
+      "itemId": "word:curator",
+      "previous": null,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-04T12:44:49.396Z"
+    },
+    {
+      "itemId": "word:daily",
+      "previous": null,
+      "score": 5,
+      "source": "review-skip",
+      "at": "2026-07-04T12:44:51.855Z"
+    },
+    {
+      "itemId": "word:dangle",
+      "previous": null,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-04T12:44:54.861Z"
+    },
+    {
+      "itemId": "word:dealt",
+      "previous": null,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-04T12:44:57.409Z"
+    },
+    {
+      "itemId": "word:dee",
+      "previous": null,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-04T12:44:58.651Z"
+    },
+    {
+      "itemId": "word:defence",
+      "previous": null,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-04T12:45:02.264Z"
+    },
+    {
+      "itemId": "word:dental",
+      "previous": null,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-04T12:45:03.910Z"
+    },
+    {
+      "itemId": "word:differ",
+      "previous": null,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-04T12:45:06.781Z"
+    },
+    {
+      "itemId": "word:dillon",
+      "previous": null,
+      "score": 5,
+      "source": "review-skip",
+      "at": "2026-07-04T12:45:09.918Z"
+    },
+    {
+      "itemId": "word:disappointment",
+      "previous": null,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-04T12:45:19.180Z"
+    },
+    {
+      "itemId": "word:disk",
+      "previous": null,
+      "score": 5,
+      "source": "review-skip",
+      "at": "2026-07-04T12:45:21.521Z"
+    },
+    {
+      "itemId": "word:ebony",
+      "previous": null,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-04T12:45:22.735Z"
+    },
+    {
+      "itemId": "word:embassy",
+      "previous": null,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-04T12:45:26.730Z"
+    },
+    {
+      "itemId": "word:embolism",
+      "previous": null,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-04T12:45:28.306Z"
+    },
+    {
+      "itemId": "word:enormous",
+      "previous": null,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-04T12:45:31.135Z"
+    },
+    {
+      "itemId": "word:ethnic",
+      "previous": null,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-04T12:45:33.563Z"
+    },
+    {
+      "itemId": "word:federal",
+      "previous": null,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-04T12:45:41.190Z"
+    },
+    {
+      "itemId": "word:feminist",
+      "previous": null,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-04T12:45:43.932Z"
+    },
+    {
+      "itemId": "word:fiasco",
+      "previous": null,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-04T12:45:46.400Z"
+    },
+    {
+      "itemId": "word:filth",
+      "previous": null,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-04T12:45:49.865Z"
+    },
+    {
+      "itemId": "word:foghorn",
+      "previous": null,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-04T12:45:52.106Z"
+    },
+    {
+      "itemId": "word:giorno",
+      "previous": null,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-04T12:45:55.518Z"
+    },
+    {
+      "itemId": "word:giver",
+      "previous": null,
+      "score": 5,
+      "source": "review-skip",
+      "at": "2026-07-04T12:46:00.994Z"
+    },
+    {
+      "itemId": "word:grazie",
+      "previous": null,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-04T12:46:05.698Z"
+    },
+    {
+      "itemId": "word:groin",
+      "previous": null,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-04T12:46:06.666Z"
     }
   ],
   "reviewEngineVersion": 2,
@@ -36208,6 +36318,937 @@
       "updatedAt": "2026-07-04T12:42:08.650Z",
       "masteredAt": "2026-07-04T12:42:08.650Z",
       "masteredSource": "review-hard"
+    },
+    "word:teensy": {
+      "itemId": "word:teensy",
+      "term": "teensy",
+      "type": "word",
+      "firstWrongAt": "2026-07-04T12:43:04.831Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S01E11-24"
+      ],
+      "questionIds": [
+        "S01E11-24:word:teensy"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-04T12:43:04.831Z",
+      "lastBlockId": "S01E11-24",
+      "updatedAt": "2026-07-04T12:43:04.831Z",
+      "masteredAt": "2026-07-04T12:43:04.831Z",
+      "masteredSource": "review-hard"
+    },
+    "word:thy": {
+      "itemId": "word:thy",
+      "term": "thy",
+      "type": "word",
+      "firstWrongAt": "2026-07-04T12:43:10.842Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S01E11-24"
+      ],
+      "questionIds": [
+        "S01E11-24:word:thy"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-04T12:43:10.842Z",
+      "lastBlockId": "S01E11-24",
+      "updatedAt": "2026-07-04T12:43:10.842Z",
+      "masteredAt": "2026-07-04T12:43:10.842Z",
+      "masteredSource": "review-hard"
+    },
+    "word:tonsil": {
+      "itemId": "word:tonsil",
+      "term": "tonsil",
+      "type": "word",
+      "firstWrongAt": "2026-07-04T12:43:12.247Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S01E11-24"
+      ],
+      "questionIds": [
+        "S01E11-24:word:tonsil"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-04T12:43:12.247Z",
+      "lastBlockId": "S01E11-24",
+      "updatedAt": "2026-07-04T12:43:12.247Z",
+      "masteredAt": "2026-07-04T12:43:12.247Z",
+      "masteredSource": "review-hard"
+    },
+    "word:toughest": {
+      "itemId": "word:toughest",
+      "term": "toughest",
+      "type": "word",
+      "firstWrongAt": "2026-07-04T12:43:17.361Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S01E11-24"
+      ],
+      "questionIds": [
+        "S01E11-24:word:toughest"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-04T12:43:17.361Z",
+      "lastBlockId": "S01E11-24",
+      "updatedAt": "2026-07-04T12:43:17.361Z",
+      "masteredAt": "2026-07-04T12:43:17.361Z",
+      "masteredSource": "review-hard"
+    },
+    "word:tranquilizer": {
+      "itemId": "word:tranquilizer",
+      "term": "tranquilizer",
+      "type": "word",
+      "firstWrongAt": "2026-07-04T12:43:23.104Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S01E11-24"
+      ],
+      "questionIds": [
+        "S01E11-24:word:tranquilizer"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-04T12:43:23.104Z",
+      "lastBlockId": "S01E11-24",
+      "updatedAt": "2026-07-04T12:43:23.104Z",
+      "masteredAt": "2026-07-04T12:43:23.104Z",
+      "masteredSource": "review-hard"
+    },
+    "word:unbearable": {
+      "itemId": "word:unbearable",
+      "term": "unbearable",
+      "type": "word",
+      "firstWrongAt": "2026-07-04T12:43:27.353Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S01E11-24"
+      ],
+      "questionIds": [
+        "S01E11-24:word:unbearable"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-04T12:43:27.353Z",
+      "lastBlockId": "S01E11-24",
+      "updatedAt": "2026-07-04T12:43:27.353Z",
+      "masteredAt": "2026-07-04T12:43:27.353Z",
+      "masteredSource": "review-hard"
+    },
+    "word:voluntarily": {
+      "itemId": "word:voluntarily",
+      "term": "voluntarily",
+      "type": "word",
+      "firstWrongAt": "2026-07-04T12:43:31.017Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S01E11-24"
+      ],
+      "questionIds": [
+        "S01E11-24:word:voluntarily"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-04T12:43:31.017Z",
+      "lastBlockId": "S01E11-24",
+      "updatedAt": "2026-07-04T12:43:31.017Z",
+      "masteredAt": "2026-07-04T12:43:31.017Z",
+      "masteredSource": "review-hard"
+    },
+    "word:weep": {
+      "itemId": "word:weep",
+      "term": "weep",
+      "type": "word",
+      "firstWrongAt": "2026-07-04T12:43:33.410Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S01E11-24"
+      ],
+      "questionIds": [
+        "S01E11-24:word:weep"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-04T12:43:33.410Z",
+      "lastBlockId": "S01E11-24",
+      "updatedAt": "2026-07-04T12:43:33.410Z",
+      "masteredAt": "2026-07-04T12:43:33.410Z",
+      "masteredSource": "review-hard"
+    },
+    "word:yuck": {
+      "itemId": "word:yuck",
+      "term": "yuck",
+      "type": "word",
+      "firstWrongAt": "2026-07-04T12:43:37.088Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S01E11-24"
+      ],
+      "questionIds": [
+        "S01E11-24:word:yuck"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-04T12:43:37.088Z",
+      "lastBlockId": "S01E11-24",
+      "updatedAt": "2026-07-04T12:43:37.088Z",
+      "masteredAt": "2026-07-04T12:43:37.088Z",
+      "masteredSource": "review-hard"
+    },
+    "word:amigo": {
+      "itemId": "word:amigo",
+      "term": "amigo",
+      "type": "word",
+      "firstWrongAt": "2026-07-04T12:43:48.350Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S01E11-24"
+      ],
+      "questionIds": [
+        "S01E11-24:word:amigo"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-04T12:43:48.350Z",
+      "lastBlockId": "S01E11-24",
+      "updatedAt": "2026-07-04T12:43:48.350Z",
+      "masteredAt": "2026-07-04T12:43:48.350Z",
+      "masteredSource": "review-hard"
+    },
+    "word:ante": {
+      "itemId": "word:ante",
+      "term": "ante",
+      "type": "word",
+      "firstWrongAt": "2026-07-04T12:43:50.623Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S01E11-24"
+      ],
+      "questionIds": [
+        "S01E11-24:word:ante"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-04T12:43:50.623Z",
+      "lastBlockId": "S01E11-24",
+      "updatedAt": "2026-07-04T12:43:50.623Z",
+      "masteredAt": "2026-07-04T12:43:50.623Z",
+      "masteredSource": "review-hard"
+    },
+    "word:appetite": {
+      "itemId": "word:appetite",
+      "term": "appetite",
+      "type": "word",
+      "firstWrongAt": "2026-07-04T12:43:53.437Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S01E11-24"
+      ],
+      "questionIds": [
+        "S01E11-24:word:appetite"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-04T12:43:53.437Z",
+      "lastBlockId": "S01E11-24",
+      "updatedAt": "2026-07-04T12:43:53.437Z",
+      "masteredAt": "2026-07-04T12:43:53.437Z",
+      "masteredSource": "review-hard"
+    },
+    "word:aptitude": {
+      "itemId": "word:aptitude",
+      "term": "aptitude",
+      "type": "word",
+      "firstWrongAt": "2026-07-04T12:43:57.696Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S01E11-24"
+      ],
+      "questionIds": [
+        "S01E11-24:word:aptitude"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-04T12:43:57.696Z",
+      "lastBlockId": "S01E11-24",
+      "updatedAt": "2026-07-04T12:43:57.697Z",
+      "masteredAt": "2026-07-04T12:43:57.697Z",
+      "masteredSource": "review-hard"
+    },
+    "word:bicentennial": {
+      "itemId": "word:bicentennial",
+      "term": "bicentennial",
+      "type": "word",
+      "firstWrongAt": "2026-07-04T12:44:04.006Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S01E11-24"
+      ],
+      "questionIds": [
+        "S01E11-24:word:bicentennial"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-04T12:44:04.006Z",
+      "lastBlockId": "S01E11-24",
+      "updatedAt": "2026-07-04T12:44:04.006Z",
+      "masteredAt": "2026-07-04T12:44:04.006Z",
+      "masteredSource": "review-hard"
+    },
+    "word:biscotti": {
+      "itemId": "word:biscotti",
+      "term": "biscotti",
+      "type": "word",
+      "firstWrongAt": "2026-07-04T12:44:08.401Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S01E11-24"
+      ],
+      "questionIds": [
+        "S01E11-24:word:biscotti"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-04T12:44:08.401Z",
+      "lastBlockId": "S01E11-24",
+      "updatedAt": "2026-07-04T12:44:08.401Z",
+      "masteredAt": "2026-07-04T12:44:08.401Z",
+      "masteredSource": "review-hard"
+    },
+    "word:blower": {
+      "itemId": "word:blower",
+      "term": "blower",
+      "type": "word",
+      "firstWrongAt": "2026-07-04T12:44:14.894Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S01E11-24"
+      ],
+      "questionIds": [
+        "S01E11-24:word:blower"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-04T12:44:14.894Z",
+      "lastBlockId": "S01E11-24",
+      "updatedAt": "2026-07-04T12:44:14.894Z",
+      "masteredAt": "2026-07-04T12:44:14.894Z",
+      "masteredSource": "review-hard"
+    },
+    "word:bonfire": {
+      "itemId": "word:bonfire",
+      "term": "bonfire",
+      "type": "word",
+      "firstWrongAt": "2026-07-04T12:44:16.476Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S01E11-24"
+      ],
+      "questionIds": [
+        "S01E11-24:word:bonfire"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-04T12:44:16.476Z",
+      "lastBlockId": "S01E11-24",
+      "updatedAt": "2026-07-04T12:44:16.476Z",
+      "masteredAt": "2026-07-04T12:44:16.476Z",
+      "masteredSource": "review-hard"
+    },
+    "word:bouche": {
+      "itemId": "word:bouche",
+      "term": "bouche",
+      "type": "word",
+      "firstWrongAt": "2026-07-04T12:44:18.701Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S01E11-24"
+      ],
+      "questionIds": [
+        "S01E11-24:word:bouche"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-04T12:44:18.701Z",
+      "lastBlockId": "S01E11-24",
+      "updatedAt": "2026-07-04T12:44:18.701Z",
+      "masteredAt": "2026-07-04T12:44:18.701Z",
+      "masteredSource": "review-hard"
+    },
+    "word:branches": {
+      "itemId": "word:branches",
+      "term": "branches",
+      "type": "word",
+      "firstWrongAt": "2026-07-04T12:44:20.140Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S01E11-24"
+      ],
+      "questionIds": [
+        "S01E11-24:word:branches"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-04T12:44:20.140Z",
+      "lastBlockId": "S01E11-24",
+      "updatedAt": "2026-07-04T12:44:20.140Z",
+      "masteredAt": "2026-07-04T12:44:20.140Z",
+      "masteredSource": "review-hard"
+    },
+    "word:caution": {
+      "itemId": "word:caution",
+      "term": "caution",
+      "type": "word",
+      "firstWrongAt": "2026-07-04T12:44:21.839Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S01E11-24"
+      ],
+      "questionIds": [
+        "S01E11-24:word:caution"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-04T12:44:21.839Z",
+      "lastBlockId": "S01E11-24",
+      "updatedAt": "2026-07-04T12:44:21.840Z",
+      "masteredAt": "2026-07-04T12:44:21.840Z",
+      "masteredSource": "review-hard"
+    },
+    "word:chant": {
+      "itemId": "word:chant",
+      "term": "chant",
+      "type": "word",
+      "firstWrongAt": "2026-07-04T12:44:23.967Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S01E11-24"
+      ],
+      "questionIds": [
+        "S01E11-24:word:chant"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-04T12:44:23.967Z",
+      "lastBlockId": "S01E11-24",
+      "updatedAt": "2026-07-04T12:44:23.967Z",
+      "masteredAt": "2026-07-04T12:44:23.967Z",
+      "masteredSource": "review-hard"
+    },
+    "word:chief": {
+      "itemId": "word:chief",
+      "term": "chief",
+      "type": "word",
+      "firstWrongAt": "2026-07-04T12:44:28.980Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S01E11-24"
+      ],
+      "questionIds": [
+        "S01E11-24:word:chief"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-04T12:44:28.980Z",
+      "lastBlockId": "S01E11-24",
+      "updatedAt": "2026-07-04T12:44:28.980Z",
+      "masteredAt": "2026-07-04T12:44:28.980Z",
+      "masteredSource": "review-hard"
+    },
+    "word:chitchat": {
+      "itemId": "word:chitchat",
+      "term": "chitchat",
+      "type": "word",
+      "firstWrongAt": "2026-07-04T12:44:32.453Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S01E11-24"
+      ],
+      "questionIds": [
+        "S01E11-24:word:chitchat"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-04T12:44:32.453Z",
+      "lastBlockId": "S01E11-24",
+      "updatedAt": "2026-07-04T12:44:32.453Z",
+      "masteredAt": "2026-07-04T12:44:32.453Z",
+      "masteredSource": "review-hard"
+    },
+    "word:clarify": {
+      "itemId": "word:clarify",
+      "term": "clarify",
+      "type": "word",
+      "firstWrongAt": "2026-07-04T12:44:34.715Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S01E11-24"
+      ],
+      "questionIds": [
+        "S01E11-24:word:clarify"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-04T12:44:34.715Z",
+      "lastBlockId": "S01E11-24",
+      "updatedAt": "2026-07-04T12:44:34.715Z",
+      "masteredAt": "2026-07-04T12:44:34.715Z",
+      "masteredSource": "review-hard"
+    },
+    "word:codependent": {
+      "itemId": "word:codependent",
+      "term": "codependent",
+      "type": "word",
+      "firstWrongAt": "2026-07-04T12:44:38.913Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S01E11-24"
+      ],
+      "questionIds": [
+        "S01E11-24:word:codependent"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-04T12:44:38.913Z",
+      "lastBlockId": "S01E11-24",
+      "updatedAt": "2026-07-04T12:44:38.913Z",
+      "masteredAt": "2026-07-04T12:44:38.913Z",
+      "masteredSource": "review-hard"
+    },
+    "word:compass": {
+      "itemId": "word:compass",
+      "term": "compass",
+      "type": "word",
+      "firstWrongAt": "2026-07-04T12:44:40.495Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S01E11-24"
+      ],
+      "questionIds": [
+        "S01E11-24:word:compass"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-04T12:44:40.495Z",
+      "lastBlockId": "S01E11-24",
+      "updatedAt": "2026-07-04T12:44:40.495Z",
+      "masteredAt": "2026-07-04T12:44:40.495Z",
+      "masteredSource": "review-hard"
+    },
+    "word:congress": {
+      "itemId": "word:congress",
+      "term": "congress",
+      "type": "word",
+      "firstWrongAt": "2026-07-04T12:44:41.906Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S01E11-24"
+      ],
+      "questionIds": [
+        "S01E11-24:word:congress"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-04T12:44:41.906Z",
+      "lastBlockId": "S01E11-24",
+      "updatedAt": "2026-07-04T12:44:41.906Z",
+      "masteredAt": "2026-07-04T12:44:41.906Z",
+      "masteredSource": "review-hard"
+    },
+    "word:corn": {
+      "itemId": "word:corn",
+      "term": "corn",
+      "type": "word",
+      "firstWrongAt": "2026-07-04T12:44:46.445Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S01E11-24"
+      ],
+      "questionIds": [
+        "S01E11-24:word:corn"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-04T12:44:46.445Z",
+      "lastBlockId": "S01E11-24",
+      "updatedAt": "2026-07-04T12:44:46.445Z",
+      "masteredAt": "2026-07-04T12:44:46.445Z",
+      "masteredSource": "review-hard"
+    },
+    "word:curator": {
+      "itemId": "word:curator",
+      "term": "curator",
+      "type": "word",
+      "firstWrongAt": "2026-07-04T12:44:49.396Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S01E11-24"
+      ],
+      "questionIds": [
+        "S01E11-24:word:curator"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-04T12:44:49.396Z",
+      "lastBlockId": "S01E11-24",
+      "updatedAt": "2026-07-04T12:44:49.396Z",
+      "masteredAt": "2026-07-04T12:44:49.396Z",
+      "masteredSource": "review-hard"
+    },
+    "word:dangle": {
+      "itemId": "word:dangle",
+      "term": "dangle",
+      "type": "word",
+      "firstWrongAt": "2026-07-04T12:44:54.861Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S01E11-24"
+      ],
+      "questionIds": [
+        "S01E11-24:word:dangle"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-04T12:44:54.861Z",
+      "lastBlockId": "S01E11-24",
+      "updatedAt": "2026-07-04T12:44:54.861Z",
+      "masteredAt": "2026-07-04T12:44:54.861Z",
+      "masteredSource": "review-hard"
+    },
+    "word:dealt": {
+      "itemId": "word:dealt",
+      "term": "dealt",
+      "type": "word",
+      "firstWrongAt": "2026-07-04T12:44:57.409Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S01E11-24"
+      ],
+      "questionIds": [
+        "S01E11-24:word:dealt"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-04T12:44:57.409Z",
+      "lastBlockId": "S01E11-24",
+      "updatedAt": "2026-07-04T12:44:57.409Z",
+      "masteredAt": "2026-07-04T12:44:57.409Z",
+      "masteredSource": "review-hard"
+    },
+    "word:dee": {
+      "itemId": "word:dee",
+      "term": "dee",
+      "type": "word",
+      "firstWrongAt": "2026-07-04T12:44:58.651Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S01E11-24"
+      ],
+      "questionIds": [
+        "S01E11-24:word:dee"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-04T12:44:58.651Z",
+      "lastBlockId": "S01E11-24",
+      "updatedAt": "2026-07-04T12:44:58.651Z",
+      "masteredAt": "2026-07-04T12:44:58.651Z",
+      "masteredSource": "review-hard"
+    },
+    "word:defence": {
+      "itemId": "word:defence",
+      "term": "defence",
+      "type": "word",
+      "firstWrongAt": "2026-07-04T12:45:02.264Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S01E11-24"
+      ],
+      "questionIds": [
+        "S01E11-24:word:defence"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-04T12:45:02.264Z",
+      "lastBlockId": "S01E11-24",
+      "updatedAt": "2026-07-04T12:45:02.264Z",
+      "masteredAt": "2026-07-04T12:45:02.264Z",
+      "masteredSource": "review-hard"
+    },
+    "word:dental": {
+      "itemId": "word:dental",
+      "term": "dental",
+      "type": "word",
+      "firstWrongAt": "2026-07-04T12:45:03.910Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S01E11-24"
+      ],
+      "questionIds": [
+        "S01E11-24:word:dental"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-04T12:45:03.910Z",
+      "lastBlockId": "S01E11-24",
+      "updatedAt": "2026-07-04T12:45:03.910Z",
+      "masteredAt": "2026-07-04T12:45:03.910Z",
+      "masteredSource": "review-hard"
+    },
+    "word:differ": {
+      "itemId": "word:differ",
+      "term": "differ",
+      "type": "word",
+      "firstWrongAt": "2026-07-04T12:45:06.781Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S01E11-24"
+      ],
+      "questionIds": [
+        "S01E11-24:word:differ"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-04T12:45:06.781Z",
+      "lastBlockId": "S01E11-24",
+      "updatedAt": "2026-07-04T12:45:06.781Z",
+      "masteredAt": "2026-07-04T12:45:06.781Z",
+      "masteredSource": "review-hard"
+    },
+    "word:disappointment": {
+      "itemId": "word:disappointment",
+      "term": "disappointment",
+      "type": "word",
+      "firstWrongAt": "2026-07-04T12:45:19.180Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S01E11-24"
+      ],
+      "questionIds": [
+        "S01E11-24:word:disappointment"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-04T12:45:19.180Z",
+      "lastBlockId": "S01E11-24",
+      "updatedAt": "2026-07-04T12:45:19.180Z",
+      "masteredAt": "2026-07-04T12:45:19.180Z",
+      "masteredSource": "review-hard"
+    },
+    "word:ebony": {
+      "itemId": "word:ebony",
+      "term": "ebony",
+      "type": "word",
+      "firstWrongAt": "2026-07-04T12:45:22.735Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S01E11-24"
+      ],
+      "questionIds": [
+        "S01E11-24:word:ebony"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-04T12:45:22.735Z",
+      "lastBlockId": "S01E11-24",
+      "updatedAt": "2026-07-04T12:45:22.735Z",
+      "masteredAt": "2026-07-04T12:45:22.735Z",
+      "masteredSource": "review-hard"
+    },
+    "word:embassy": {
+      "itemId": "word:embassy",
+      "term": "embassy",
+      "type": "word",
+      "firstWrongAt": "2026-07-04T12:45:26.730Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S01E11-24"
+      ],
+      "questionIds": [
+        "S01E11-24:word:embassy"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-04T12:45:26.730Z",
+      "lastBlockId": "S01E11-24",
+      "updatedAt": "2026-07-04T12:45:26.730Z",
+      "masteredAt": "2026-07-04T12:45:26.730Z",
+      "masteredSource": "review-hard"
+    },
+    "word:embolism": {
+      "itemId": "word:embolism",
+      "term": "embolism",
+      "type": "word",
+      "firstWrongAt": "2026-07-04T12:45:28.306Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S01E11-24"
+      ],
+      "questionIds": [
+        "S01E11-24:word:embolism"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-04T12:45:28.306Z",
+      "lastBlockId": "S01E11-24",
+      "updatedAt": "2026-07-04T12:45:28.306Z",
+      "masteredAt": "2026-07-04T12:45:28.306Z",
+      "masteredSource": "review-hard"
+    },
+    "word:enormous": {
+      "itemId": "word:enormous",
+      "term": "enormous",
+      "type": "word",
+      "firstWrongAt": "2026-07-04T12:45:31.135Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S01E11-24"
+      ],
+      "questionIds": [
+        "S01E11-24:word:enormous"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-04T12:45:31.135Z",
+      "lastBlockId": "S01E11-24",
+      "updatedAt": "2026-07-04T12:45:31.135Z",
+      "masteredAt": "2026-07-04T12:45:31.135Z",
+      "masteredSource": "review-hard"
+    },
+    "word:ethnic": {
+      "itemId": "word:ethnic",
+      "term": "ethnic",
+      "type": "word",
+      "firstWrongAt": "2026-07-04T12:45:33.563Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S01E11-24"
+      ],
+      "questionIds": [
+        "S01E11-24:word:ethnic"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-04T12:45:33.563Z",
+      "lastBlockId": "S01E11-24",
+      "updatedAt": "2026-07-04T12:45:33.563Z",
+      "masteredAt": "2026-07-04T12:45:33.563Z",
+      "masteredSource": "review-hard"
+    },
+    "word:federal": {
+      "itemId": "word:federal",
+      "term": "federal",
+      "type": "word",
+      "firstWrongAt": "2026-07-04T12:45:41.190Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S01E11-24"
+      ],
+      "questionIds": [
+        "S01E11-24:word:federal"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-04T12:45:41.190Z",
+      "lastBlockId": "S01E11-24",
+      "updatedAt": "2026-07-04T12:45:41.190Z",
+      "masteredAt": "2026-07-04T12:45:41.190Z",
+      "masteredSource": "review-hard"
+    },
+    "word:feminist": {
+      "itemId": "word:feminist",
+      "term": "feminist",
+      "type": "word",
+      "firstWrongAt": "2026-07-04T12:45:43.932Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S01E11-24"
+      ],
+      "questionIds": [
+        "S01E11-24:word:feminist"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-04T12:45:43.932Z",
+      "lastBlockId": "S01E11-24",
+      "updatedAt": "2026-07-04T12:45:43.932Z",
+      "masteredAt": "2026-07-04T12:45:43.932Z",
+      "masteredSource": "review-hard"
+    },
+    "word:fiasco": {
+      "itemId": "word:fiasco",
+      "term": "fiasco",
+      "type": "word",
+      "firstWrongAt": "2026-07-04T12:45:46.400Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S01E11-24"
+      ],
+      "questionIds": [
+        "S01E11-24:word:fiasco"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-04T12:45:46.400Z",
+      "lastBlockId": "S01E11-24",
+      "updatedAt": "2026-07-04T12:45:46.400Z",
+      "masteredAt": "2026-07-04T12:45:46.400Z",
+      "masteredSource": "review-hard"
+    },
+    "word:filth": {
+      "itemId": "word:filth",
+      "term": "filth",
+      "type": "word",
+      "firstWrongAt": "2026-07-04T12:45:49.865Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S01E11-24"
+      ],
+      "questionIds": [
+        "S01E11-24:word:filth"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-04T12:45:49.865Z",
+      "lastBlockId": "S01E11-24",
+      "updatedAt": "2026-07-04T12:45:49.865Z",
+      "masteredAt": "2026-07-04T12:45:49.865Z",
+      "masteredSource": "review-hard"
+    },
+    "word:foghorn": {
+      "itemId": "word:foghorn",
+      "term": "foghorn",
+      "type": "word",
+      "firstWrongAt": "2026-07-04T12:45:52.106Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S01E11-24"
+      ],
+      "questionIds": [
+        "S01E11-24:word:foghorn"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-04T12:45:52.106Z",
+      "lastBlockId": "S01E11-24",
+      "updatedAt": "2026-07-04T12:45:52.106Z",
+      "masteredAt": "2026-07-04T12:45:52.106Z",
+      "masteredSource": "review-hard"
+    },
+    "word:giorno": {
+      "itemId": "word:giorno",
+      "term": "giorno",
+      "type": "word",
+      "firstWrongAt": "2026-07-04T12:45:55.518Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S01E11-24"
+      ],
+      "questionIds": [
+        "S01E11-24:word:giorno"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-04T12:45:55.518Z",
+      "lastBlockId": "S01E11-24",
+      "updatedAt": "2026-07-04T12:45:55.518Z",
+      "masteredAt": "2026-07-04T12:45:55.518Z",
+      "masteredSource": "review-hard"
+    },
+    "word:grazie": {
+      "itemId": "word:grazie",
+      "term": "grazie",
+      "type": "word",
+      "firstWrongAt": "2026-07-04T12:46:05.698Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S01E11-24"
+      ],
+      "questionIds": [
+        "S01E11-24:word:grazie"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-04T12:46:05.698Z",
+      "lastBlockId": "S01E11-24",
+      "updatedAt": "2026-07-04T12:46:05.698Z",
+      "masteredAt": "2026-07-04T12:46:05.698Z",
+      "masteredSource": "review-hard"
+    },
+    "word:groin": {
+      "itemId": "word:groin",
+      "term": "groin",
+      "type": "word",
+      "firstWrongAt": "2026-07-04T12:46:06.666Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S01E11-24"
+      ],
+      "questionIds": [
+        "S01E11-24:word:groin"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-04T12:46:06.666Z",
+      "lastBlockId": "S01E11-24",
+      "updatedAt": "2026-07-04T12:46:06.666Z",
+      "masteredAt": "2026-07-04T12:46:06.666Z",
+      "masteredSource": "review-hard"
     }
   },
   "reviewMemoryDeletedAt": {
@@ -36905,8 +37946,20 @@
     "word:palace": "2026-07-04T12:41:11.195Z",
     "word:rebuild": "2026-07-04T12:41:26.878Z",
     "word:sidney": "2026-07-04T12:41:54.520Z",
-    "word:stepfather": "2026-07-04T12:42:04.124Z"
+    "word:stepfather": "2026-07-04T12:42:04.124Z",
+    "word:temp": "2026-07-04T12:43:08.434Z",
+    "word:tourist": "2026-07-04T12:43:20.421Z",
+    "word:whoo": "2026-07-04T12:43:34.940Z",
+    "word:absolute": "2026-07-04T12:43:39.768Z",
+    "word:additional": "2026-07-04T12:43:44.884Z",
+    "word:arrangement": "2026-07-04T12:44:01.326Z",
+    "word:blackberry": "2026-07-04T12:44:11.196Z",
+    "word:container": "2026-07-04T12:44:45.298Z",
+    "word:daily": "2026-07-04T12:44:51.855Z",
+    "word:dillon": "2026-07-04T12:45:09.918Z",
+    "word:disk": "2026-07-04T12:45:21.521Z",
+    "word:giver": "2026-07-04T12:46:00.994Z"
   },
-  "savedAt": "2026-07-04T12:42:13.917Z",
-  "syncedAt": "2026-07-04T12:42:13.917Z"
+  "savedAt": "2026-07-04T12:46:06.815Z",
+  "syncedAt": "2026-07-04T12:46:06.815Z"
 }
