@@ -3862,7 +3862,80 @@
     "word:rabies": 5,
     "word:raid": 5,
     "word:ram": 5,
-    "word:reattach": 5
+    "word:reattach": 5,
+    "word:rebound": 5,
+    "word:recurring": 5,
+    "word:rejoin": 5,
+    "word:reluctant": 5,
+    "word:remake": 5,
+    "word:repeller": 5,
+    "word:revenge": 5,
+    "word:rod": 5,
+    "word:rogue": 5,
+    "word:ruffle": 5,
+    "word:runnin": 5,
+    "word:sabrina": 5,
+    "word:sadness": 5,
+    "word:saline": 5,
+    "word:savage": 5,
+    "word:scarier": 5,
+    "word:seagull": 5,
+    "word:sew": 5,
+    "word:sexiest": 5,
+    "word:shepherd": 5,
+    "word:sidewalk": 5,
+    "word:silverware": 5,
+    "word:slid": 5,
+    "word:slippers": 5,
+    "word:smeared": 5,
+    "word:smitten": 5,
+    "word:smoker": 5,
+    "word:smokin": 5,
+    "word:smudgy": 5,
+    "word:softly": 5,
+    "word:spandex": 5,
+    "word:sparkly": 5,
+    "word:spock": 5,
+    "word:squirmy": 5,
+    "word:stadium": 5,
+    "word:starters": 5,
+    "word:stretchy": 5,
+    "word:stumble": 5,
+    "word:substitute": 5,
+    "word:suburbs": 5,
+    "word:sucky": 5,
+    "word:suing": 5,
+    "word:sung": 5,
+    "word:sweetums": 5,
+    "word:swirl": 5,
+    "word:tablecloth": 5,
+    "word:teased": 5,
+    "word:tenderness": 5,
+    "word:thorn": 5,
+    "word:throne": 5,
+    "word:tounge": 5,
+    "word:trampoline": 5,
+    "word:transmit": 5,
+    "word:trek": 5,
+    "word:triangle": 5,
+    "word:trigger": 5,
+    "word:tune": 5,
+    "word:unclog": 5,
+    "word:unfinished": 5,
+    "word:unhook": 5,
+    "word:update": 5,
+    "word:varnish": 5,
+    "word:virtually": 5,
+    "word:volleyball": 5,
+    "word:wank": 5,
+    "word:watcha": 5,
+    "word:watchin": 5,
+    "word:weinberg": 5,
+    "word:whiny": 5,
+    "word:wiper": 5,
+    "word:wonderfully": 5,
+    "word:wong": 5,
+    "word:worship": 5
   },
   "scoreUpdatedAt": {
     "word:smelly": "2026-07-04T13:44:01.296Z",
@@ -7878,7 +7951,80 @@
     "word:rabies": "2026-07-07T15:01:31.021Z",
     "word:raid": "2026-07-07T15:01:32.350Z",
     "word:ram": "2026-07-07T15:01:33.759Z",
-    "word:reattach": "2026-07-07T15:01:37.059Z"
+    "word:reattach": "2026-07-07T15:01:37.059Z",
+    "word:rebound": "2026-07-07T15:02:03.805Z",
+    "word:recurring": "2026-07-07T15:02:05.744Z",
+    "word:rejoin": "2026-07-07T15:02:07.772Z",
+    "word:reluctant": "2026-07-07T15:02:11.889Z",
+    "word:remake": "2026-07-07T15:02:13.536Z",
+    "word:repeller": "2026-07-07T15:02:14.853Z",
+    "word:revenge": "2026-07-07T15:02:18.149Z",
+    "word:rod": "2026-07-07T15:02:20.146Z",
+    "word:rogue": "2026-07-07T15:02:22.438Z",
+    "word:ruffle": "2026-07-07T15:02:24.783Z",
+    "word:runnin": "2026-07-07T15:02:26.480Z",
+    "word:sabrina": "2026-07-07T15:02:30.127Z",
+    "word:sadness": "2026-07-07T15:02:31.810Z",
+    "word:saline": "2026-07-07T15:02:34.035Z",
+    "word:savage": "2026-07-07T15:02:36.519Z",
+    "word:scarier": "2026-07-07T15:02:38.300Z",
+    "word:seagull": "2026-07-07T15:02:48.209Z",
+    "word:sew": "2026-07-07T15:02:50.488Z",
+    "word:sexiest": "2026-07-07T15:02:55.035Z",
+    "word:shepherd": "2026-07-07T15:03:00.182Z",
+    "word:sidewalk": "2026-07-07T15:03:02.865Z",
+    "word:silverware": "2026-07-07T15:03:07.395Z",
+    "word:slid": "2026-07-07T15:03:08.579Z",
+    "word:slippers": "2026-07-07T15:03:10.009Z",
+    "word:smeared": "2026-07-07T15:03:11.471Z",
+    "word:smitten": "2026-07-07T15:03:12.884Z",
+    "word:smoker": "2026-07-07T15:03:14.918Z",
+    "word:smokin": "2026-07-07T15:03:16.698Z",
+    "word:smudgy": "2026-07-07T15:03:18.277Z",
+    "word:softly": "2026-07-07T15:03:21.385Z",
+    "word:spandex": "2026-07-07T15:03:22.615Z",
+    "word:sparkly": "2026-07-07T15:03:24.995Z",
+    "word:spock": "2026-07-07T15:03:26.274Z",
+    "word:squirmy": "2026-07-07T15:03:27.991Z",
+    "word:stadium": "2026-07-07T15:03:29.754Z",
+    "word:starters": "2026-07-07T15:03:35.568Z",
+    "word:stretchy": "2026-07-07T15:03:36.663Z",
+    "word:stumble": "2026-07-07T15:03:37.959Z",
+    "word:substitute": "2026-07-07T15:03:40.677Z",
+    "word:suburbs": "2026-07-07T15:03:42.439Z",
+    "word:sucky": "2026-07-07T15:03:47.770Z",
+    "word:suing": "2026-07-07T15:03:49.299Z",
+    "word:sung": "2026-07-07T15:03:50.878Z",
+    "word:sweetums": "2026-07-07T15:03:52.658Z",
+    "word:swirl": "2026-07-07T15:03:53.770Z",
+    "word:tablecloth": "2026-07-07T15:03:58.171Z",
+    "word:teased": "2026-07-07T15:04:00.017Z",
+    "word:tenderness": "2026-07-07T15:04:03.014Z",
+    "word:thorn": "2026-07-07T15:04:06.431Z",
+    "word:throne": "2026-07-07T15:04:08.578Z",
+    "word:tounge": "2026-07-07T15:04:09.890Z",
+    "word:trampoline": "2026-07-07T15:04:11.636Z",
+    "word:transmit": "2026-07-07T15:04:18.282Z",
+    "word:trek": "2026-07-07T15:04:19.577Z",
+    "word:triangle": "2026-07-07T15:04:22.221Z",
+    "word:trigger": "2026-07-07T15:04:25.930Z",
+    "word:tune": "2026-07-07T15:04:27.376Z",
+    "word:unclog": "2026-07-07T15:04:29.777Z",
+    "word:unfinished": "2026-07-07T15:04:46.064Z",
+    "word:unhook": "2026-07-07T15:04:48.043Z",
+    "word:update": "2026-07-07T15:04:53.073Z",
+    "word:varnish": "2026-07-07T15:04:55.102Z",
+    "word:virtually": "2026-07-07T15:04:58.761Z",
+    "word:volleyball": "2026-07-07T15:05:00.443Z",
+    "word:wank": "2026-07-07T15:05:02.858Z",
+    "word:watcha": "2026-07-07T15:05:10.563Z",
+    "word:watchin": "2026-07-07T15:05:13.547Z",
+    "word:weinberg": "2026-07-07T15:05:17.356Z",
+    "word:whiny": "2026-07-07T15:05:19.569Z",
+    "word:wiper": "2026-07-07T15:05:20.986Z",
+    "word:wonderfully": "2026-07-07T15:05:25.133Z",
+    "word:wong": "2026-07-07T15:05:26.628Z",
+    "word:worship": "2026-07-07T15:05:28.978Z"
   },
   "scoreDeletedAt": {
     "word:valentines": "2026-06-04T13:10:50Z",
@@ -8038,517 +8184,6 @@
   "resetAt": null,
   "notes": {},
   "history": [
-    {
-      "itemId": "word:conference",
-      "previous": null,
-      "score": 5,
-      "source": "review-hard",
-      "at": "2026-07-04T13:49:10.462Z"
-    },
-    {
-      "itemId": "word:lily",
-      "previous": 1,
-      "score": 5,
-      "source": "review-hard",
-      "at": "2026-07-04T13:49:17.245Z"
-    },
-    {
-      "itemId": "word:official",
-      "previous": null,
-      "score": 5,
-      "source": "review-skip",
-      "at": "2026-07-04T13:49:21.055Z"
-    },
-    {
-      "itemId": "word:perhaps",
-      "previous": null,
-      "score": 5,
-      "source": "review-skip",
-      "at": "2026-07-04T13:49:24.215Z"
-    },
-    {
-      "itemId": "word:quickly",
-      "previous": null,
-      "score": 5,
-      "source": "review-skip",
-      "at": "2026-07-04T13:49:25.357Z"
-    },
-    {
-      "itemId": "word:simple",
-      "previous": null,
-      "score": 5,
-      "source": "review-skip",
-      "at": "2026-07-04T13:49:26.341Z"
-    },
-    {
-      "itemId": "word:escape",
-      "previous": null,
-      "score": 5,
-      "source": "review-skip",
-      "at": "2026-07-04T13:49:29.667Z"
-    },
-    {
-      "itemId": "word:friendship",
-      "previous": null,
-      "score": 5,
-      "source": "review-skip",
-      "at": "2026-07-04T13:49:31.028Z"
-    },
-    {
-      "itemId": "word:medical",
-      "previous": null,
-      "score": 5,
-      "source": "review-skip",
-      "at": "2026-07-04T13:49:32.580Z"
-    },
-    {
-      "itemId": "word:option",
-      "previous": null,
-      "score": 5,
-      "source": "review-skip",
-      "at": "2026-07-04T13:49:34.713Z"
-    },
-    {
-      "itemId": "word:price",
-      "previous": null,
-      "score": 5,
-      "source": "review-skip",
-      "at": "2026-07-04T13:49:35.871Z"
-    },
-    {
-      "itemId": "word:print",
-      "previous": null,
-      "score": 5,
-      "source": "review-skip",
-      "at": "2026-07-04T13:49:37.268Z"
-    },
-    {
-      "itemId": "word:someday",
-      "previous": null,
-      "score": 5,
-      "source": "review-skip",
-      "at": "2026-07-04T13:49:38.480Z"
-    },
-    {
-      "itemId": "word:spin",
-      "previous": 1,
-      "score": 5,
-      "source": "review-hard",
-      "at": "2026-07-04T13:49:40.839Z"
-    },
-    {
-      "itemId": "word:stranger",
-      "previous": null,
-      "score": 5,
-      "source": "review-skip",
-      "at": "2026-07-04T14:07:10.049Z"
-    },
-    {
-      "itemId": "word:woah",
-      "previous": 1,
-      "score": 5,
-      "source": "review-skip",
-      "at": "2026-07-04T14:07:13.806Z"
-    },
-    {
-      "itemId": "word:aisle",
-      "previous": null,
-      "score": 5,
-      "source": "review-hard",
-      "at": "2026-07-04T14:07:16.802Z"
-    },
-    {
-      "itemId": "word:dig",
-      "previous": null,
-      "score": 5,
-      "source": "review-skip",
-      "at": "2026-07-04T14:07:23.678Z"
-    },
-    {
-      "itemId": "word:elevator",
-      "previous": null,
-      "score": 5,
-      "source": "review-skip",
-      "at": "2026-07-04T14:07:35.334Z"
-    },
-    {
-      "itemId": "word:fossil",
-      "previous": 1,
-      "score": 5,
-      "source": "review-hard",
-      "at": "2026-07-04T14:07:38.236Z"
-    },
-    {
-      "itemId": "word:humiliate",
-      "previous": 2,
-      "score": 5,
-      "source": "review-hard",
-      "at": "2026-07-04T14:07:42.186Z"
-    },
-    {
-      "itemId": "word:natural",
-      "previous": null,
-      "score": 5,
-      "source": "review-skip",
-      "at": "2026-07-04T14:07:46.504Z"
-    },
-    {
-      "itemId": "word:bat",
-      "previous": null,
-      "score": 5,
-      "source": "review-known",
-      "at": "2026-07-04T14:07:48.621Z"
-    },
-    {
-      "itemId": "word:plenty",
-      "previous": null,
-      "score": 5,
-      "source": "review-hard",
-      "at": "2026-07-04T14:07:54.700Z"
-    },
-    {
-      "itemId": "word:due",
-      "previous": 4,
-      "score": 5,
-      "source": "review-known",
-      "at": "2026-07-04T14:07:56.659Z"
-    },
-    {
-      "itemId": "word:recipe",
-      "previous": null,
-      "score": 5,
-      "source": "review-hard",
-      "at": "2026-07-04T14:07:59.138Z"
-    },
-    {
-      "itemId": "word:repeat",
-      "previous": null,
-      "score": 5,
-      "source": "review-skip",
-      "at": "2026-07-04T14:08:01.314Z"
-    },
-    {
-      "itemId": "phrase:run away",
-      "previous": null,
-      "score": 5,
-      "source": "review-skip",
-      "at": "2026-07-04T14:08:02.881Z"
-    },
-    {
-      "itemId": "word:tattoo",
-      "previous": 4,
-      "score": 5,
-      "source": "review-skip",
-      "at": "2026-07-04T14:08:06.233Z"
-    },
-    {
-      "itemId": "word:afford",
-      "previous": null,
-      "score": 5,
-      "source": "review-skip",
-      "at": "2026-07-04T14:08:11.951Z"
-    },
-    {
-      "itemId": "word:allergic",
-      "previous": null,
-      "score": 5,
-      "source": "review-hard",
-      "at": "2026-07-04T14:08:13.891Z"
-    },
-    {
-      "itemId": "word:bread",
-      "previous": null,
-      "score": 5,
-      "source": "review-skip",
-      "at": "2026-07-04T14:08:15.254Z"
-    },
-    {
-      "itemId": "word:counter",
-      "previous": 4,
-      "score": 5,
-      "source": "review-hard",
-      "at": "2026-07-04T14:08:18.221Z"
-    },
-    {
-      "itemId": "word:edge",
-      "previous": null,
-      "score": 5,
-      "source": "review-skip",
-      "at": "2026-07-04T14:08:21.518Z"
-    },
-    {
-      "itemId": "word:gold",
-      "previous": null,
-      "score": 5,
-      "source": "review-skip",
-      "at": "2026-07-04T14:08:23.652Z"
-    },
-    {
-      "itemId": "word:hallway",
-      "previous": null,
-      "score": 5,
-      "source": "review-hard",
-      "at": "2026-07-04T15:02:10.691Z"
-    },
-    {
-      "itemId": "word:lap",
-      "previous": 1,
-      "score": 5,
-      "source": "review-hard",
-      "at": "2026-07-04T15:02:13.766Z"
-    },
-    {
-      "itemId": "word:receive",
-      "previous": null,
-      "score": 5,
-      "source": "review-skip",
-      "at": "2026-07-04T15:02:17.091Z"
-    },
-    {
-      "itemId": "word:refrigerator",
-      "previous": 1,
-      "score": 5,
-      "source": "review-hard",
-      "at": "2026-07-04T15:02:19.899Z"
-    },
-    {
-      "itemId": "word:script",
-      "previous": null,
-      "score": 5,
-      "source": "review-hard",
-      "at": "2026-07-04T15:02:23.879Z"
-    },
-    {
-      "itemId": "word:section",
-      "previous": null,
-      "score": 5,
-      "source": "review-hard",
-      "at": "2026-07-04T15:02:31.419Z"
-    },
-    {
-      "itemId": "word:tray",
-      "previous": 1,
-      "score": 5,
-      "source": "review-hard",
-      "at": "2026-07-04T15:02:32.716Z"
-    },
-    {
-      "itemId": "word:affair",
-      "previous": null,
-      "score": 5,
-      "source": "review-skip",
-      "at": "2026-07-04T15:02:36.164Z"
-    },
-    {
-      "itemId": "word:brilliant",
-      "previous": null,
-      "score": 5,
-      "source": "review-skip",
-      "at": "2026-07-04T15:02:43.288Z"
-    },
-    {
-      "itemId": "word:cash",
-      "previous": null,
-      "score": 5,
-      "source": "review-skip",
-      "at": "2026-07-04T15:02:45.000Z"
-    },
-    {
-      "itemId": "word:cater",
-      "previous": 1,
-      "score": 5,
-      "source": "review-hard",
-      "at": "2026-07-04T15:02:46.605Z"
-    },
-    {
-      "itemId": "word:heavy",
-      "previous": null,
-      "score": 5,
-      "source": "review-skip",
-      "at": "2026-07-04T15:02:48.651Z"
-    },
-    {
-      "itemId": "word:lipstick",
-      "previous": 1,
-      "score": 5,
-      "source": "review-skip",
-      "at": "2026-07-04T15:02:52.009Z"
-    },
-    {
-      "itemId": "word:ovulating",
-      "previous": 1,
-      "score": 5,
-      "source": "review-hard",
-      "at": "2026-07-04T15:02:55.947Z"
-    },
-    {
-      "itemId": "word:sentence",
-      "previous": null,
-      "score": 5,
-      "source": "review-skip",
-      "at": "2026-07-04T15:02:57.459Z"
-    },
-    {
-      "itemId": "word:shine",
-      "previous": null,
-      "score": 5,
-      "source": "review-skip",
-      "at": "2026-07-04T15:03:00.772Z"
-    },
-    {
-      "itemId": "phrase:sit in",
-      "previous": null,
-      "score": 5,
-      "source": "review-skip",
-      "at": "2026-07-04T15:03:02.669Z"
-    },
-    {
-      "itemId": "word:sneak",
-      "previous": 1,
-      "score": 5,
-      "source": "review-skip",
-      "at": "2026-07-04T15:03:07.548Z"
-    },
-    {
-      "itemId": "word:sooner",
-      "previous": null,
-      "score": 5,
-      "source": "review-skip",
-      "at": "2026-07-04T15:03:16.954Z"
-    },
-    {
-      "itemId": "phrase:stand up",
-      "previous": null,
-      "score": 5,
-      "source": "review-skip",
-      "at": "2026-07-04T15:03:18.817Z"
-    },
-    {
-      "itemId": "word:amount",
-      "previous": null,
-      "score": 5,
-      "source": "review-hard",
-      "at": "2026-07-04T15:03:25.246Z"
-    },
-    {
-      "itemId": "word:basketball",
-      "previous": null,
-      "score": 5,
-      "source": "review-skip",
-      "at": "2026-07-04T15:03:26.990Z"
-    },
-    {
-      "itemId": "word:blanket",
-      "previous": 4,
-      "score": 5,
-      "source": "review-skip",
-      "at": "2026-07-04T15:03:29.481Z"
-    },
-    {
-      "itemId": "word:built",
-      "previous": null,
-      "score": 5,
-      "source": "review-skip",
-      "at": "2026-07-04T15:03:32.116Z"
-    },
-    {
-      "itemId": "word:childhood",
-      "previous": null,
-      "score": 5,
-      "source": "review-skip",
-      "at": "2026-07-04T15:03:36.862Z"
-    },
-    {
-      "itemId": "word:drew",
-      "previous": null,
-      "score": 5,
-      "source": "review-skip",
-      "at": "2026-07-04T15:03:39.154Z"
-    },
-    {
-      "itemId": "word:energy",
-      "previous": null,
-      "score": 5,
-      "source": "review-skip",
-      "at": "2026-07-04T15:03:40.937Z"
-    },
-    {
-      "itemId": "word:entertainment",
-      "previous": null,
-      "score": 5,
-      "source": "review-skip",
-      "at": "2026-07-04T15:03:42.700Z"
-    },
-    {
-      "itemId": "word:evolution",
-      "previous": null,
-      "score": 5,
-      "source": "review-hard",
-      "at": "2026-07-04T15:03:47.480Z"
-    },
-    {
-      "itemId": "word:eyebrow",
-      "previous": 4,
-      "score": 5,
-      "source": "review-skip",
-      "at": "2026-07-04T15:03:50.072Z"
-    },
-    {
-      "itemId": "word:fiance",
-      "previous": 2,
-      "score": 5,
-      "source": "review-skip",
-      "at": "2026-07-04T15:03:55.946Z"
-    },
-    {
-      "itemId": "word:foosball",
-      "previous": 1,
-      "score": 5,
-      "source": "review-hard",
-      "at": "2026-07-04T15:03:59.205Z"
-    },
-    {
-      "itemId": "word:gather",
-      "previous": null,
-      "score": 5,
-      "source": "review-skip",
-      "at": "2026-07-04T15:04:02.700Z"
-    },
-    {
-      "itemId": "word:hint",
-      "previous": null,
-      "score": 5,
-      "source": "review-hard",
-      "at": "2026-07-04T15:04:05.512Z"
-    },
-    {
-      "itemId": "word:hip",
-      "previous": null,
-      "score": 5,
-      "source": "review-hard",
-      "at": "2026-07-04T15:04:07.058Z"
-    },
-    {
-      "itemId": "word:island",
-      "previous": null,
-      "score": 5,
-      "source": "review-skip",
-      "at": "2026-07-04T15:04:08.867Z"
-    },
-    {
-      "itemId": "word:lean",
-      "previous": 1,
-      "score": 5,
-      "source": "review-hard",
-      "at": "2026-07-04T15:04:13.125Z"
-    },
-    {
-      "itemId": "word:roomie",
-      "previous": 1,
-      "score": 5,
-      "source": "review-hard",
-      "at": "2026-07-04T15:04:16.937Z"
-    },
     {
       "itemId": "word:rude",
       "previous": null,
@@ -13637,6 +13272,517 @@
       "score": 5,
       "source": "review-hard",
       "at": "2026-07-07T15:01:37.059Z"
+    },
+    {
+      "itemId": "word:rebound",
+      "previous": null,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-07T15:02:03.805Z"
+    },
+    {
+      "itemId": "word:recurring",
+      "previous": null,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-07T15:02:05.744Z"
+    },
+    {
+      "itemId": "word:rejoin",
+      "previous": null,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-07T15:02:07.772Z"
+    },
+    {
+      "itemId": "word:reluctant",
+      "previous": null,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-07T15:02:11.889Z"
+    },
+    {
+      "itemId": "word:remake",
+      "previous": null,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-07T15:02:13.536Z"
+    },
+    {
+      "itemId": "word:repeller",
+      "previous": null,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-07T15:02:14.853Z"
+    },
+    {
+      "itemId": "word:revenge",
+      "previous": null,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-07T15:02:18.149Z"
+    },
+    {
+      "itemId": "word:rod",
+      "previous": null,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-07T15:02:20.146Z"
+    },
+    {
+      "itemId": "word:rogue",
+      "previous": null,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-07T15:02:22.438Z"
+    },
+    {
+      "itemId": "word:ruffle",
+      "previous": null,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-07T15:02:24.783Z"
+    },
+    {
+      "itemId": "word:runnin",
+      "previous": null,
+      "score": 5,
+      "source": "review-skip",
+      "at": "2026-07-07T15:02:26.480Z"
+    },
+    {
+      "itemId": "word:sabrina",
+      "previous": null,
+      "score": 5,
+      "source": "review-skip",
+      "at": "2026-07-07T15:02:30.127Z"
+    },
+    {
+      "itemId": "word:sadness",
+      "previous": null,
+      "score": 5,
+      "source": "review-skip",
+      "at": "2026-07-07T15:02:31.810Z"
+    },
+    {
+      "itemId": "word:saline",
+      "previous": null,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-07T15:02:34.035Z"
+    },
+    {
+      "itemId": "word:savage",
+      "previous": null,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-07T15:02:36.519Z"
+    },
+    {
+      "itemId": "word:scarier",
+      "previous": null,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-07T15:02:38.300Z"
+    },
+    {
+      "itemId": "word:seagull",
+      "previous": null,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-07T15:02:48.209Z"
+    },
+    {
+      "itemId": "word:sew",
+      "previous": null,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-07T15:02:50.488Z"
+    },
+    {
+      "itemId": "word:sexiest",
+      "previous": null,
+      "score": 5,
+      "source": "review-skip",
+      "at": "2026-07-07T15:02:55.035Z"
+    },
+    {
+      "itemId": "word:shepherd",
+      "previous": null,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-07T15:03:00.182Z"
+    },
+    {
+      "itemId": "word:sidewalk",
+      "previous": null,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-07T15:03:02.865Z"
+    },
+    {
+      "itemId": "word:silverware",
+      "previous": null,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-07T15:03:07.395Z"
+    },
+    {
+      "itemId": "word:slid",
+      "previous": null,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-07T15:03:08.579Z"
+    },
+    {
+      "itemId": "word:slippers",
+      "previous": null,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-07T15:03:10.009Z"
+    },
+    {
+      "itemId": "word:smeared",
+      "previous": null,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-07T15:03:11.471Z"
+    },
+    {
+      "itemId": "word:smitten",
+      "previous": null,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-07T15:03:12.884Z"
+    },
+    {
+      "itemId": "word:smoker",
+      "previous": null,
+      "score": 5,
+      "source": "review-skip",
+      "at": "2026-07-07T15:03:14.918Z"
+    },
+    {
+      "itemId": "word:smokin",
+      "previous": null,
+      "score": 5,
+      "source": "review-skip",
+      "at": "2026-07-07T15:03:16.698Z"
+    },
+    {
+      "itemId": "word:smudgy",
+      "previous": null,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-07T15:03:18.277Z"
+    },
+    {
+      "itemId": "word:softly",
+      "previous": null,
+      "score": 5,
+      "source": "review-skip",
+      "at": "2026-07-07T15:03:21.385Z"
+    },
+    {
+      "itemId": "word:spandex",
+      "previous": null,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-07T15:03:22.615Z"
+    },
+    {
+      "itemId": "word:sparkly",
+      "previous": null,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-07T15:03:24.995Z"
+    },
+    {
+      "itemId": "word:spock",
+      "previous": null,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-07T15:03:26.274Z"
+    },
+    {
+      "itemId": "word:squirmy",
+      "previous": null,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-07T15:03:27.991Z"
+    },
+    {
+      "itemId": "word:stadium",
+      "previous": null,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-07T15:03:29.754Z"
+    },
+    {
+      "itemId": "word:starters",
+      "previous": null,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-07T15:03:35.568Z"
+    },
+    {
+      "itemId": "word:stretchy",
+      "previous": null,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-07T15:03:36.663Z"
+    },
+    {
+      "itemId": "word:stumble",
+      "previous": null,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-07T15:03:37.959Z"
+    },
+    {
+      "itemId": "word:substitute",
+      "previous": null,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-07T15:03:40.677Z"
+    },
+    {
+      "itemId": "word:suburbs",
+      "previous": null,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-07T15:03:42.439Z"
+    },
+    {
+      "itemId": "word:sucky",
+      "previous": null,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-07T15:03:47.770Z"
+    },
+    {
+      "itemId": "word:suing",
+      "previous": null,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-07T15:03:49.299Z"
+    },
+    {
+      "itemId": "word:sung",
+      "previous": null,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-07T15:03:50.878Z"
+    },
+    {
+      "itemId": "word:sweetums",
+      "previous": null,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-07T15:03:52.658Z"
+    },
+    {
+      "itemId": "word:swirl",
+      "previous": null,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-07T15:03:53.770Z"
+    },
+    {
+      "itemId": "word:tablecloth",
+      "previous": null,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-07T15:03:58.171Z"
+    },
+    {
+      "itemId": "word:teased",
+      "previous": null,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-07T15:04:00.017Z"
+    },
+    {
+      "itemId": "word:tenderness",
+      "previous": null,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-07T15:04:03.014Z"
+    },
+    {
+      "itemId": "word:thorn",
+      "previous": null,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-07T15:04:06.431Z"
+    },
+    {
+      "itemId": "word:throne",
+      "previous": null,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-07T15:04:08.578Z"
+    },
+    {
+      "itemId": "word:tounge",
+      "previous": null,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-07T15:04:09.890Z"
+    },
+    {
+      "itemId": "word:trampoline",
+      "previous": null,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-07T15:04:11.636Z"
+    },
+    {
+      "itemId": "word:transmit",
+      "previous": null,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-07T15:04:18.282Z"
+    },
+    {
+      "itemId": "word:trek",
+      "previous": null,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-07T15:04:19.577Z"
+    },
+    {
+      "itemId": "word:triangle",
+      "previous": null,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-07T15:04:22.221Z"
+    },
+    {
+      "itemId": "word:trigger",
+      "previous": null,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-07T15:04:25.930Z"
+    },
+    {
+      "itemId": "word:tune",
+      "previous": null,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-07T15:04:27.376Z"
+    },
+    {
+      "itemId": "word:unclog",
+      "previous": null,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-07T15:04:29.777Z"
+    },
+    {
+      "itemId": "word:unfinished",
+      "previous": null,
+      "score": 5,
+      "source": "review-skip",
+      "at": "2026-07-07T15:04:46.064Z"
+    },
+    {
+      "itemId": "word:unhook",
+      "previous": null,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-07T15:04:48.043Z"
+    },
+    {
+      "itemId": "word:update",
+      "previous": null,
+      "score": 5,
+      "source": "review-skip",
+      "at": "2026-07-07T15:04:53.073Z"
+    },
+    {
+      "itemId": "word:varnish",
+      "previous": null,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-07T15:04:55.102Z"
+    },
+    {
+      "itemId": "word:virtually",
+      "previous": null,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-07T15:04:58.761Z"
+    },
+    {
+      "itemId": "word:volleyball",
+      "previous": null,
+      "score": 5,
+      "source": "review-skip",
+      "at": "2026-07-07T15:05:00.443Z"
+    },
+    {
+      "itemId": "word:wank",
+      "previous": null,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-07T15:05:02.858Z"
+    },
+    {
+      "itemId": "word:watcha",
+      "previous": null,
+      "score": 5,
+      "source": "review-skip",
+      "at": "2026-07-07T15:05:10.563Z"
+    },
+    {
+      "itemId": "word:watchin",
+      "previous": null,
+      "score": 5,
+      "source": "review-skip",
+      "at": "2026-07-07T15:05:13.547Z"
+    },
+    {
+      "itemId": "word:weinberg",
+      "previous": null,
+      "score": 5,
+      "source": "review-skip",
+      "at": "2026-07-07T15:05:17.356Z"
+    },
+    {
+      "itemId": "word:whiny",
+      "previous": null,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-07T15:05:19.569Z"
+    },
+    {
+      "itemId": "word:wiper",
+      "previous": null,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-07T15:05:20.986Z"
+    },
+    {
+      "itemId": "word:wonderfully",
+      "previous": null,
+      "score": 5,
+      "source": "review-skip",
+      "at": "2026-07-07T15:05:25.133Z"
+    },
+    {
+      "itemId": "word:wong",
+      "previous": null,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-07T15:05:26.628Z"
+    },
+    {
+      "itemId": "word:worship",
+      "previous": null,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-07T15:05:28.978Z"
     }
   ],
   "reviewEngineVersion": 2,
@@ -18928,309 +19074,16 @@
       "version": 2,
       "blockId": "S02E01-24",
       "total": 964,
-      "queue": [
-        {
-          "id": "S02E01-24:word:rebound",
-          "kind": "new"
-        },
-        {
-          "id": "S02E01-24:word:recurring",
-          "kind": "new"
-        },
-        {
-          "id": "S02E01-24:word:rejoin",
-          "kind": "new"
-        },
-        {
-          "id": "S02E01-24:word:reluctant",
-          "kind": "new"
-        },
-        {
-          "id": "S02E01-24:word:remake",
-          "kind": "new"
-        },
-        {
-          "id": "S02E01-24:word:repeller",
-          "kind": "new"
-        },
-        {
-          "id": "S02E01-24:word:revenge",
-          "kind": "new"
-        },
-        {
-          "id": "S02E01-24:word:rod",
-          "kind": "new"
-        },
-        {
-          "id": "S02E01-24:word:rogue",
-          "kind": "new"
-        },
-        {
-          "id": "S02E01-24:word:ruffle",
-          "kind": "new"
-        },
-        {
-          "id": "S02E01-24:word:runnin",
-          "kind": "new"
-        },
-        {
-          "id": "S02E01-24:word:sabrina",
-          "kind": "new"
-        },
-        {
-          "id": "S02E01-24:word:sadness",
-          "kind": "new"
-        },
-        {
-          "id": "S02E01-24:word:saline",
-          "kind": "new"
-        },
-        {
-          "id": "S02E01-24:word:savage",
-          "kind": "new"
-        },
-        {
-          "id": "S02E01-24:word:scarier",
-          "kind": "new"
-        },
-        {
-          "id": "S02E01-24:word:seagull",
-          "kind": "new"
-        },
-        {
-          "id": "S02E01-24:word:sew",
-          "kind": "new"
-        },
-        {
-          "id": "S02E01-24:word:sexiest",
-          "kind": "new"
-        },
-        {
-          "id": "S02E01-24:word:shepherd",
-          "kind": "new"
-        },
-        {
-          "id": "S02E01-24:word:sidewalk",
-          "kind": "new"
-        },
-        {
-          "id": "S02E01-24:word:silverware",
-          "kind": "new"
-        },
-        {
-          "id": "S02E01-24:word:slid",
-          "kind": "new"
-        },
-        {
-          "id": "S02E01-24:word:slippers",
-          "kind": "new"
-        },
-        {
-          "id": "S02E01-24:word:smeared",
-          "kind": "new"
-        },
-        {
-          "id": "S02E01-24:word:smitten",
-          "kind": "new"
-        },
-        {
-          "id": "S02E01-24:word:smoker",
-          "kind": "new"
-        },
-        {
-          "id": "S02E01-24:word:smokin",
-          "kind": "new"
-        },
-        {
-          "id": "S02E01-24:word:smudgy",
-          "kind": "new"
-        },
-        {
-          "id": "S02E01-24:word:softly",
-          "kind": "new"
-        },
-        {
-          "id": "S02E01-24:word:spandex",
-          "kind": "new"
-        },
-        {
-          "id": "S02E01-24:word:sparkly",
-          "kind": "new"
-        },
-        {
-          "id": "S02E01-24:word:spock",
-          "kind": "new"
-        },
-        {
-          "id": "S02E01-24:word:squirmy",
-          "kind": "new"
-        },
-        {
-          "id": "S02E01-24:word:stadium",
-          "kind": "new"
-        },
-        {
-          "id": "S02E01-24:word:starters",
-          "kind": "new"
-        },
-        {
-          "id": "S02E01-24:word:stretchy",
-          "kind": "new"
-        },
-        {
-          "id": "S02E01-24:word:stumble",
-          "kind": "new"
-        },
-        {
-          "id": "S02E01-24:word:substitute",
-          "kind": "new"
-        },
-        {
-          "id": "S02E01-24:word:suburbs",
-          "kind": "new"
-        },
-        {
-          "id": "S02E01-24:word:sucky",
-          "kind": "new"
-        },
-        {
-          "id": "S02E01-24:word:suing",
-          "kind": "new"
-        },
-        {
-          "id": "S02E01-24:word:sung",
-          "kind": "new"
-        },
-        {
-          "id": "S02E01-24:word:sweetums",
-          "kind": "new"
-        },
-        {
-          "id": "S02E01-24:word:swirl",
-          "kind": "new"
-        },
-        {
-          "id": "S02E01-24:word:tablecloth",
-          "kind": "new"
-        },
-        {
-          "id": "S02E01-24:word:teased",
-          "kind": "new"
-        },
-        {
-          "id": "S02E01-24:word:tenderness",
-          "kind": "new"
-        },
-        {
-          "id": "S02E01-24:word:thorn",
-          "kind": "new"
-        },
-        {
-          "id": "S02E01-24:word:throne",
-          "kind": "new"
-        },
-        {
-          "id": "S02E01-24:word:tounge",
-          "kind": "new"
-        },
-        {
-          "id": "S02E01-24:word:trampoline",
-          "kind": "new"
-        },
-        {
-          "id": "S02E01-24:word:transmit",
-          "kind": "new"
-        },
-        {
-          "id": "S02E01-24:word:trek",
-          "kind": "new"
-        },
-        {
-          "id": "S02E01-24:word:triangle",
-          "kind": "new"
-        },
-        {
-          "id": "S02E01-24:word:trigger",
-          "kind": "new"
-        },
-        {
-          "id": "S02E01-24:word:tune",
-          "kind": "new"
-        },
-        {
-          "id": "S02E01-24:word:unclog",
-          "kind": "new"
-        },
-        {
-          "id": "S02E01-24:word:unfinished",
-          "kind": "new"
-        },
-        {
-          "id": "S02E01-24:word:unhook",
-          "kind": "new"
-        },
-        {
-          "id": "S02E01-24:word:update",
-          "kind": "new"
-        },
-        {
-          "id": "S02E01-24:word:varnish",
-          "kind": "new"
-        },
-        {
-          "id": "S02E01-24:word:virtually",
-          "kind": "new"
-        },
-        {
-          "id": "S02E01-24:word:volleyball",
-          "kind": "new"
-        },
-        {
-          "id": "S02E01-24:word:wank",
-          "kind": "new"
-        },
-        {
-          "id": "S02E01-24:word:watcha",
-          "kind": "new"
-        },
-        {
-          "id": "S02E01-24:word:watchin",
-          "kind": "new"
-        },
-        {
-          "id": "S02E01-24:word:weinberg",
-          "kind": "new"
-        },
-        {
-          "id": "S02E01-24:word:whiny",
-          "kind": "new"
-        },
-        {
-          "id": "S02E01-24:word:wiper",
-          "kind": "new"
-        },
-        {
-          "id": "S02E01-24:word:wonderfully",
-          "kind": "new"
-        },
-        {
-          "id": "S02E01-24:word:wong",
-          "kind": "new"
-        },
-        {
-          "id": "S02E01-24:word:worship",
-          "kind": "new"
-        }
-      ],
+      "queue": [],
       "currentWrongCount": 0,
       "currentAttemptFailed": false,
       "wrongChoice": null,
       "questionStats": {},
       "correctCount": 6,
-      "wrongCount": 492,
-      "skippedCount": 398,
-      "completedCount": 497,
-      "hardCount": 491
+      "wrongCount": 551,
+      "skippedCount": 412,
+      "completedCount": 556,
+      "hardCount": 550
     }
   },
   "reviewMemory": {
@@ -44788,6 +44641,1127 @@
       "updatedAt": "2026-07-07T15:01:37.059Z",
       "masteredAt": "2026-07-07T15:01:37.059Z",
       "masteredSource": "review-hard"
+    },
+    "word:rebound": {
+      "itemId": "word:rebound",
+      "term": "rebound",
+      "type": "word",
+      "firstWrongAt": "2026-07-07T15:02:03.805Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S02E01-24"
+      ],
+      "questionIds": [
+        "S02E01-24:word:rebound"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-07T15:02:03.805Z",
+      "lastBlockId": "S02E01-24",
+      "updatedAt": "2026-07-07T15:02:03.805Z",
+      "masteredAt": "2026-07-07T15:02:03.805Z",
+      "masteredSource": "review-hard"
+    },
+    "word:recurring": {
+      "itemId": "word:recurring",
+      "term": "recurring",
+      "type": "word",
+      "firstWrongAt": "2026-07-07T15:02:05.744Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S02E01-24"
+      ],
+      "questionIds": [
+        "S02E01-24:word:recurring"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-07T15:02:05.744Z",
+      "lastBlockId": "S02E01-24",
+      "updatedAt": "2026-07-07T15:02:05.744Z",
+      "masteredAt": "2026-07-07T15:02:05.744Z",
+      "masteredSource": "review-hard"
+    },
+    "word:rejoin": {
+      "itemId": "word:rejoin",
+      "term": "rejoin",
+      "type": "word",
+      "firstWrongAt": "2026-07-07T15:02:07.772Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S02E01-24"
+      ],
+      "questionIds": [
+        "S02E01-24:word:rejoin"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-07T15:02:07.772Z",
+      "lastBlockId": "S02E01-24",
+      "updatedAt": "2026-07-07T15:02:07.772Z",
+      "masteredAt": "2026-07-07T15:02:07.772Z",
+      "masteredSource": "review-hard"
+    },
+    "word:reluctant": {
+      "itemId": "word:reluctant",
+      "term": "reluctant",
+      "type": "word",
+      "firstWrongAt": "2026-07-07T15:02:11.889Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S02E01-24"
+      ],
+      "questionIds": [
+        "S02E01-24:word:reluctant"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-07T15:02:11.889Z",
+      "lastBlockId": "S02E01-24",
+      "updatedAt": "2026-07-07T15:02:11.889Z",
+      "masteredAt": "2026-07-07T15:02:11.889Z",
+      "masteredSource": "review-hard"
+    },
+    "word:remake": {
+      "itemId": "word:remake",
+      "term": "remake",
+      "type": "word",
+      "firstWrongAt": "2026-07-07T15:02:13.535Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S02E01-24"
+      ],
+      "questionIds": [
+        "S02E01-24:word:remake"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-07T15:02:13.535Z",
+      "lastBlockId": "S02E01-24",
+      "updatedAt": "2026-07-07T15:02:13.535Z",
+      "masteredAt": "2026-07-07T15:02:13.535Z",
+      "masteredSource": "review-hard"
+    },
+    "word:repeller": {
+      "itemId": "word:repeller",
+      "term": "repeller",
+      "type": "word",
+      "firstWrongAt": "2026-07-07T15:02:14.853Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S02E01-24"
+      ],
+      "questionIds": [
+        "S02E01-24:word:repeller"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-07T15:02:14.853Z",
+      "lastBlockId": "S02E01-24",
+      "updatedAt": "2026-07-07T15:02:14.853Z",
+      "masteredAt": "2026-07-07T15:02:14.853Z",
+      "masteredSource": "review-hard"
+    },
+    "word:revenge": {
+      "itemId": "word:revenge",
+      "term": "revenge",
+      "type": "word",
+      "firstWrongAt": "2026-07-07T15:02:18.149Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S02E01-24"
+      ],
+      "questionIds": [
+        "S02E01-24:word:revenge"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-07T15:02:18.149Z",
+      "lastBlockId": "S02E01-24",
+      "updatedAt": "2026-07-07T15:02:18.149Z",
+      "masteredAt": "2026-07-07T15:02:18.149Z",
+      "masteredSource": "review-hard"
+    },
+    "word:rod": {
+      "itemId": "word:rod",
+      "term": "rod",
+      "type": "word",
+      "firstWrongAt": "2026-07-07T15:02:20.145Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S02E01-24"
+      ],
+      "questionIds": [
+        "S02E01-24:word:rod"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-07T15:02:20.145Z",
+      "lastBlockId": "S02E01-24",
+      "updatedAt": "2026-07-07T15:02:20.145Z",
+      "masteredAt": "2026-07-07T15:02:20.145Z",
+      "masteredSource": "review-hard"
+    },
+    "word:rogue": {
+      "itemId": "word:rogue",
+      "term": "rogue",
+      "type": "word",
+      "firstWrongAt": "2026-07-07T15:02:22.438Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S02E01-24"
+      ],
+      "questionIds": [
+        "S02E01-24:word:rogue"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-07T15:02:22.438Z",
+      "lastBlockId": "S02E01-24",
+      "updatedAt": "2026-07-07T15:02:22.438Z",
+      "masteredAt": "2026-07-07T15:02:22.438Z",
+      "masteredSource": "review-hard"
+    },
+    "word:ruffle": {
+      "itemId": "word:ruffle",
+      "term": "ruffle",
+      "type": "word",
+      "firstWrongAt": "2026-07-07T15:02:24.783Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S02E01-24"
+      ],
+      "questionIds": [
+        "S02E01-24:word:ruffle"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-07T15:02:24.783Z",
+      "lastBlockId": "S02E01-24",
+      "updatedAt": "2026-07-07T15:02:24.783Z",
+      "masteredAt": "2026-07-07T15:02:24.783Z",
+      "masteredSource": "review-hard"
+    },
+    "word:saline": {
+      "itemId": "word:saline",
+      "term": "saline",
+      "type": "word",
+      "firstWrongAt": "2026-07-07T15:02:34.035Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S02E01-24"
+      ],
+      "questionIds": [
+        "S02E01-24:word:saline"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-07T15:02:34.035Z",
+      "lastBlockId": "S02E01-24",
+      "updatedAt": "2026-07-07T15:02:34.035Z",
+      "masteredAt": "2026-07-07T15:02:34.035Z",
+      "masteredSource": "review-hard"
+    },
+    "word:savage": {
+      "itemId": "word:savage",
+      "term": "savage",
+      "type": "word",
+      "firstWrongAt": "2026-07-07T15:02:36.519Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S02E01-24"
+      ],
+      "questionIds": [
+        "S02E01-24:word:savage"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-07T15:02:36.519Z",
+      "lastBlockId": "S02E01-24",
+      "updatedAt": "2026-07-07T15:02:36.519Z",
+      "masteredAt": "2026-07-07T15:02:36.519Z",
+      "masteredSource": "review-hard"
+    },
+    "word:scarier": {
+      "itemId": "word:scarier",
+      "term": "scarier",
+      "type": "word",
+      "firstWrongAt": "2026-07-07T15:02:38.300Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S02E01-24"
+      ],
+      "questionIds": [
+        "S02E01-24:word:scarier"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-07T15:02:38.300Z",
+      "lastBlockId": "S02E01-24",
+      "updatedAt": "2026-07-07T15:02:38.300Z",
+      "masteredAt": "2026-07-07T15:02:38.300Z",
+      "masteredSource": "review-hard"
+    },
+    "word:seagull": {
+      "itemId": "word:seagull",
+      "term": "seagull",
+      "type": "word",
+      "firstWrongAt": "2026-07-07T15:02:48.209Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S02E01-24"
+      ],
+      "questionIds": [
+        "S02E01-24:word:seagull"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-07T15:02:48.209Z",
+      "lastBlockId": "S02E01-24",
+      "updatedAt": "2026-07-07T15:02:48.209Z",
+      "masteredAt": "2026-07-07T15:02:48.209Z",
+      "masteredSource": "review-hard"
+    },
+    "word:sew": {
+      "itemId": "word:sew",
+      "term": "sew",
+      "type": "word",
+      "firstWrongAt": "2026-07-07T15:02:50.488Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S02E01-24"
+      ],
+      "questionIds": [
+        "S02E01-24:word:sew"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-07T15:02:50.488Z",
+      "lastBlockId": "S02E01-24",
+      "updatedAt": "2026-07-07T15:02:50.488Z",
+      "masteredAt": "2026-07-07T15:02:50.488Z",
+      "masteredSource": "review-hard"
+    },
+    "word:shepherd": {
+      "itemId": "word:shepherd",
+      "term": "shepherd",
+      "type": "word",
+      "firstWrongAt": "2026-07-07T15:03:00.182Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S02E01-24"
+      ],
+      "questionIds": [
+        "S02E01-24:word:shepherd"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-07T15:03:00.182Z",
+      "lastBlockId": "S02E01-24",
+      "updatedAt": "2026-07-07T15:03:00.182Z",
+      "masteredAt": "2026-07-07T15:03:00.182Z",
+      "masteredSource": "review-hard"
+    },
+    "word:sidewalk": {
+      "itemId": "word:sidewalk",
+      "term": "sidewalk",
+      "type": "word",
+      "firstWrongAt": "2026-07-07T15:03:02.865Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S02E01-24"
+      ],
+      "questionIds": [
+        "S02E01-24:word:sidewalk"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-07T15:03:02.865Z",
+      "lastBlockId": "S02E01-24",
+      "updatedAt": "2026-07-07T15:03:02.865Z",
+      "masteredAt": "2026-07-07T15:03:02.865Z",
+      "masteredSource": "review-hard"
+    },
+    "word:silverware": {
+      "itemId": "word:silverware",
+      "term": "silverware",
+      "type": "word",
+      "firstWrongAt": "2026-07-07T15:03:07.395Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S02E01-24"
+      ],
+      "questionIds": [
+        "S02E01-24:word:silverware"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-07T15:03:07.395Z",
+      "lastBlockId": "S02E01-24",
+      "updatedAt": "2026-07-07T15:03:07.395Z",
+      "masteredAt": "2026-07-07T15:03:07.395Z",
+      "masteredSource": "review-hard"
+    },
+    "word:slid": {
+      "itemId": "word:slid",
+      "term": "slid",
+      "type": "word",
+      "firstWrongAt": "2026-07-07T15:03:08.579Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S02E01-24"
+      ],
+      "questionIds": [
+        "S02E01-24:word:slid"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-07T15:03:08.579Z",
+      "lastBlockId": "S02E01-24",
+      "updatedAt": "2026-07-07T15:03:08.579Z",
+      "masteredAt": "2026-07-07T15:03:08.579Z",
+      "masteredSource": "review-hard"
+    },
+    "word:slippers": {
+      "itemId": "word:slippers",
+      "term": "slippers",
+      "type": "word",
+      "firstWrongAt": "2026-07-07T15:03:10.008Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S02E01-24"
+      ],
+      "questionIds": [
+        "S02E01-24:word:slippers"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-07T15:03:10.008Z",
+      "lastBlockId": "S02E01-24",
+      "updatedAt": "2026-07-07T15:03:10.009Z",
+      "masteredAt": "2026-07-07T15:03:10.009Z",
+      "masteredSource": "review-hard"
+    },
+    "word:smeared": {
+      "itemId": "word:smeared",
+      "term": "smeared",
+      "type": "word",
+      "firstWrongAt": "2026-07-07T15:03:11.471Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S02E01-24"
+      ],
+      "questionIds": [
+        "S02E01-24:word:smeared"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-07T15:03:11.471Z",
+      "lastBlockId": "S02E01-24",
+      "updatedAt": "2026-07-07T15:03:11.471Z",
+      "masteredAt": "2026-07-07T15:03:11.471Z",
+      "masteredSource": "review-hard"
+    },
+    "word:smitten": {
+      "itemId": "word:smitten",
+      "term": "smitten",
+      "type": "word",
+      "firstWrongAt": "2026-07-07T15:03:12.884Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S02E01-24"
+      ],
+      "questionIds": [
+        "S02E01-24:word:smitten"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-07T15:03:12.884Z",
+      "lastBlockId": "S02E01-24",
+      "updatedAt": "2026-07-07T15:03:12.884Z",
+      "masteredAt": "2026-07-07T15:03:12.884Z",
+      "masteredSource": "review-hard"
+    },
+    "word:smudgy": {
+      "itemId": "word:smudgy",
+      "term": "smudgy",
+      "type": "word",
+      "firstWrongAt": "2026-07-07T15:03:18.277Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S02E01-24"
+      ],
+      "questionIds": [
+        "S02E01-24:word:smudgy"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-07T15:03:18.277Z",
+      "lastBlockId": "S02E01-24",
+      "updatedAt": "2026-07-07T15:03:18.277Z",
+      "masteredAt": "2026-07-07T15:03:18.277Z",
+      "masteredSource": "review-hard"
+    },
+    "word:spandex": {
+      "itemId": "word:spandex",
+      "term": "spandex",
+      "type": "word",
+      "firstWrongAt": "2026-07-07T15:03:22.615Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S02E01-24"
+      ],
+      "questionIds": [
+        "S02E01-24:word:spandex"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-07T15:03:22.615Z",
+      "lastBlockId": "S02E01-24",
+      "updatedAt": "2026-07-07T15:03:22.615Z",
+      "masteredAt": "2026-07-07T15:03:22.615Z",
+      "masteredSource": "review-hard"
+    },
+    "word:sparkly": {
+      "itemId": "word:sparkly",
+      "term": "sparkly",
+      "type": "word",
+      "firstWrongAt": "2026-07-07T15:03:24.995Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S02E01-24"
+      ],
+      "questionIds": [
+        "S02E01-24:word:sparkly"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-07T15:03:24.995Z",
+      "lastBlockId": "S02E01-24",
+      "updatedAt": "2026-07-07T15:03:24.995Z",
+      "masteredAt": "2026-07-07T15:03:24.995Z",
+      "masteredSource": "review-hard"
+    },
+    "word:spock": {
+      "itemId": "word:spock",
+      "term": "spock",
+      "type": "word",
+      "firstWrongAt": "2026-07-07T15:03:26.274Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S02E01-24"
+      ],
+      "questionIds": [
+        "S02E01-24:word:spock"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-07T15:03:26.274Z",
+      "lastBlockId": "S02E01-24",
+      "updatedAt": "2026-07-07T15:03:26.274Z",
+      "masteredAt": "2026-07-07T15:03:26.274Z",
+      "masteredSource": "review-hard"
+    },
+    "word:squirmy": {
+      "itemId": "word:squirmy",
+      "term": "squirmy",
+      "type": "word",
+      "firstWrongAt": "2026-07-07T15:03:27.991Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S02E01-24"
+      ],
+      "questionIds": [
+        "S02E01-24:word:squirmy"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-07T15:03:27.991Z",
+      "lastBlockId": "S02E01-24",
+      "updatedAt": "2026-07-07T15:03:27.991Z",
+      "masteredAt": "2026-07-07T15:03:27.991Z",
+      "masteredSource": "review-hard"
+    },
+    "word:stadium": {
+      "itemId": "word:stadium",
+      "term": "stadium",
+      "type": "word",
+      "firstWrongAt": "2026-07-07T15:03:29.754Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S02E01-24"
+      ],
+      "questionIds": [
+        "S02E01-24:word:stadium"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-07T15:03:29.754Z",
+      "lastBlockId": "S02E01-24",
+      "updatedAt": "2026-07-07T15:03:29.754Z",
+      "masteredAt": "2026-07-07T15:03:29.754Z",
+      "masteredSource": "review-hard"
+    },
+    "word:starters": {
+      "itemId": "word:starters",
+      "term": "starters",
+      "type": "word",
+      "firstWrongAt": "2026-07-07T15:03:35.568Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S02E01-24"
+      ],
+      "questionIds": [
+        "S02E01-24:word:starters"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-07T15:03:35.568Z",
+      "lastBlockId": "S02E01-24",
+      "updatedAt": "2026-07-07T15:03:35.568Z",
+      "masteredAt": "2026-07-07T15:03:35.568Z",
+      "masteredSource": "review-hard"
+    },
+    "word:stretchy": {
+      "itemId": "word:stretchy",
+      "term": "stretchy",
+      "type": "word",
+      "firstWrongAt": "2026-07-07T15:03:36.663Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S02E01-24"
+      ],
+      "questionIds": [
+        "S02E01-24:word:stretchy"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-07T15:03:36.663Z",
+      "lastBlockId": "S02E01-24",
+      "updatedAt": "2026-07-07T15:03:36.663Z",
+      "masteredAt": "2026-07-07T15:03:36.663Z",
+      "masteredSource": "review-hard"
+    },
+    "word:stumble": {
+      "itemId": "word:stumble",
+      "term": "stumble",
+      "type": "word",
+      "firstWrongAt": "2026-07-07T15:03:37.959Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S02E01-24"
+      ],
+      "questionIds": [
+        "S02E01-24:word:stumble"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-07T15:03:37.959Z",
+      "lastBlockId": "S02E01-24",
+      "updatedAt": "2026-07-07T15:03:37.959Z",
+      "masteredAt": "2026-07-07T15:03:37.959Z",
+      "masteredSource": "review-hard"
+    },
+    "word:substitute": {
+      "itemId": "word:substitute",
+      "term": "substitute",
+      "type": "word",
+      "firstWrongAt": "2026-07-07T15:03:40.677Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S02E01-24"
+      ],
+      "questionIds": [
+        "S02E01-24:word:substitute"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-07T15:03:40.677Z",
+      "lastBlockId": "S02E01-24",
+      "updatedAt": "2026-07-07T15:03:40.677Z",
+      "masteredAt": "2026-07-07T15:03:40.677Z",
+      "masteredSource": "review-hard"
+    },
+    "word:suburbs": {
+      "itemId": "word:suburbs",
+      "term": "suburbs",
+      "type": "word",
+      "firstWrongAt": "2026-07-07T15:03:42.439Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S02E01-24"
+      ],
+      "questionIds": [
+        "S02E01-24:word:suburbs"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-07T15:03:42.439Z",
+      "lastBlockId": "S02E01-24",
+      "updatedAt": "2026-07-07T15:03:42.439Z",
+      "masteredAt": "2026-07-07T15:03:42.439Z",
+      "masteredSource": "review-hard"
+    },
+    "word:sucky": {
+      "itemId": "word:sucky",
+      "term": "sucky",
+      "type": "word",
+      "firstWrongAt": "2026-07-07T15:03:47.770Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S02E01-24"
+      ],
+      "questionIds": [
+        "S02E01-24:word:sucky"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-07T15:03:47.770Z",
+      "lastBlockId": "S02E01-24",
+      "updatedAt": "2026-07-07T15:03:47.770Z",
+      "masteredAt": "2026-07-07T15:03:47.770Z",
+      "masteredSource": "review-hard"
+    },
+    "word:suing": {
+      "itemId": "word:suing",
+      "term": "suing",
+      "type": "word",
+      "firstWrongAt": "2026-07-07T15:03:49.299Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S02E01-24"
+      ],
+      "questionIds": [
+        "S02E01-24:word:suing"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-07T15:03:49.299Z",
+      "lastBlockId": "S02E01-24",
+      "updatedAt": "2026-07-07T15:03:49.299Z",
+      "masteredAt": "2026-07-07T15:03:49.299Z",
+      "masteredSource": "review-hard"
+    },
+    "word:sung": {
+      "itemId": "word:sung",
+      "term": "sung",
+      "type": "word",
+      "firstWrongAt": "2026-07-07T15:03:50.878Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S02E01-24"
+      ],
+      "questionIds": [
+        "S02E01-24:word:sung"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-07T15:03:50.878Z",
+      "lastBlockId": "S02E01-24",
+      "updatedAt": "2026-07-07T15:03:50.878Z",
+      "masteredAt": "2026-07-07T15:03:50.878Z",
+      "masteredSource": "review-hard"
+    },
+    "word:sweetums": {
+      "itemId": "word:sweetums",
+      "term": "sweetums",
+      "type": "word",
+      "firstWrongAt": "2026-07-07T15:03:52.658Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S02E01-24"
+      ],
+      "questionIds": [
+        "S02E01-24:word:sweetums"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-07T15:03:52.658Z",
+      "lastBlockId": "S02E01-24",
+      "updatedAt": "2026-07-07T15:03:52.658Z",
+      "masteredAt": "2026-07-07T15:03:52.658Z",
+      "masteredSource": "review-hard"
+    },
+    "word:swirl": {
+      "itemId": "word:swirl",
+      "term": "swirl",
+      "type": "word",
+      "firstWrongAt": "2026-07-07T15:03:53.770Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S02E01-24"
+      ],
+      "questionIds": [
+        "S02E01-24:word:swirl"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-07T15:03:53.770Z",
+      "lastBlockId": "S02E01-24",
+      "updatedAt": "2026-07-07T15:03:53.770Z",
+      "masteredAt": "2026-07-07T15:03:53.770Z",
+      "masteredSource": "review-hard"
+    },
+    "word:tablecloth": {
+      "itemId": "word:tablecloth",
+      "term": "tablecloth",
+      "type": "word",
+      "firstWrongAt": "2026-07-07T15:03:58.171Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S02E01-24"
+      ],
+      "questionIds": [
+        "S02E01-24:word:tablecloth"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-07T15:03:58.171Z",
+      "lastBlockId": "S02E01-24",
+      "updatedAt": "2026-07-07T15:03:58.171Z",
+      "masteredAt": "2026-07-07T15:03:58.171Z",
+      "masteredSource": "review-hard"
+    },
+    "word:teased": {
+      "itemId": "word:teased",
+      "term": "teased",
+      "type": "word",
+      "firstWrongAt": "2026-07-07T15:04:00.017Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S02E01-24"
+      ],
+      "questionIds": [
+        "S02E01-24:word:teased"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-07T15:04:00.017Z",
+      "lastBlockId": "S02E01-24",
+      "updatedAt": "2026-07-07T15:04:00.017Z",
+      "masteredAt": "2026-07-07T15:04:00.017Z",
+      "masteredSource": "review-hard"
+    },
+    "word:tenderness": {
+      "itemId": "word:tenderness",
+      "term": "tenderness",
+      "type": "word",
+      "firstWrongAt": "2026-07-07T15:04:03.014Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S02E01-24"
+      ],
+      "questionIds": [
+        "S02E01-24:word:tenderness"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-07T15:04:03.014Z",
+      "lastBlockId": "S02E01-24",
+      "updatedAt": "2026-07-07T15:04:03.014Z",
+      "masteredAt": "2026-07-07T15:04:03.014Z",
+      "masteredSource": "review-hard"
+    },
+    "word:thorn": {
+      "itemId": "word:thorn",
+      "term": "thorn",
+      "type": "word",
+      "firstWrongAt": "2026-07-07T15:04:06.431Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S02E01-24"
+      ],
+      "questionIds": [
+        "S02E01-24:word:thorn"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-07T15:04:06.431Z",
+      "lastBlockId": "S02E01-24",
+      "updatedAt": "2026-07-07T15:04:06.431Z",
+      "masteredAt": "2026-07-07T15:04:06.431Z",
+      "masteredSource": "review-hard"
+    },
+    "word:throne": {
+      "itemId": "word:throne",
+      "term": "throne",
+      "type": "word",
+      "firstWrongAt": "2026-07-07T15:04:08.577Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S02E01-24"
+      ],
+      "questionIds": [
+        "S02E01-24:word:throne"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-07T15:04:08.577Z",
+      "lastBlockId": "S02E01-24",
+      "updatedAt": "2026-07-07T15:04:08.577Z",
+      "masteredAt": "2026-07-07T15:04:08.577Z",
+      "masteredSource": "review-hard"
+    },
+    "word:tounge": {
+      "itemId": "word:tounge",
+      "term": "tounge",
+      "type": "word",
+      "firstWrongAt": "2026-07-07T15:04:09.890Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S02E01-24"
+      ],
+      "questionIds": [
+        "S02E01-24:word:tounge"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-07T15:04:09.890Z",
+      "lastBlockId": "S02E01-24",
+      "updatedAt": "2026-07-07T15:04:09.890Z",
+      "masteredAt": "2026-07-07T15:04:09.890Z",
+      "masteredSource": "review-hard"
+    },
+    "word:trampoline": {
+      "itemId": "word:trampoline",
+      "term": "trampoline",
+      "type": "word",
+      "firstWrongAt": "2026-07-07T15:04:11.636Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S02E01-24"
+      ],
+      "questionIds": [
+        "S02E01-24:word:trampoline"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-07T15:04:11.636Z",
+      "lastBlockId": "S02E01-24",
+      "updatedAt": "2026-07-07T15:04:11.636Z",
+      "masteredAt": "2026-07-07T15:04:11.636Z",
+      "masteredSource": "review-hard"
+    },
+    "word:transmit": {
+      "itemId": "word:transmit",
+      "term": "transmit",
+      "type": "word",
+      "firstWrongAt": "2026-07-07T15:04:18.282Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S02E01-24"
+      ],
+      "questionIds": [
+        "S02E01-24:word:transmit"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-07T15:04:18.282Z",
+      "lastBlockId": "S02E01-24",
+      "updatedAt": "2026-07-07T15:04:18.282Z",
+      "masteredAt": "2026-07-07T15:04:18.282Z",
+      "masteredSource": "review-hard"
+    },
+    "word:trek": {
+      "itemId": "word:trek",
+      "term": "trek",
+      "type": "word",
+      "firstWrongAt": "2026-07-07T15:04:19.577Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S02E01-24"
+      ],
+      "questionIds": [
+        "S02E01-24:word:trek"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-07T15:04:19.577Z",
+      "lastBlockId": "S02E01-24",
+      "updatedAt": "2026-07-07T15:04:19.577Z",
+      "masteredAt": "2026-07-07T15:04:19.577Z",
+      "masteredSource": "review-hard"
+    },
+    "word:triangle": {
+      "itemId": "word:triangle",
+      "term": "triangle",
+      "type": "word",
+      "firstWrongAt": "2026-07-07T15:04:22.221Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S02E01-24"
+      ],
+      "questionIds": [
+        "S02E01-24:word:triangle"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-07T15:04:22.221Z",
+      "lastBlockId": "S02E01-24",
+      "updatedAt": "2026-07-07T15:04:22.221Z",
+      "masteredAt": "2026-07-07T15:04:22.221Z",
+      "masteredSource": "review-hard"
+    },
+    "word:trigger": {
+      "itemId": "word:trigger",
+      "term": "trigger",
+      "type": "word",
+      "firstWrongAt": "2026-07-07T15:04:25.930Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S02E01-24"
+      ],
+      "questionIds": [
+        "S02E01-24:word:trigger"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-07T15:04:25.930Z",
+      "lastBlockId": "S02E01-24",
+      "updatedAt": "2026-07-07T15:04:25.930Z",
+      "masteredAt": "2026-07-07T15:04:25.930Z",
+      "masteredSource": "review-hard"
+    },
+    "word:tune": {
+      "itemId": "word:tune",
+      "term": "tune",
+      "type": "word",
+      "firstWrongAt": "2026-07-07T15:04:27.376Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S02E01-24"
+      ],
+      "questionIds": [
+        "S02E01-24:word:tune"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-07T15:04:27.376Z",
+      "lastBlockId": "S02E01-24",
+      "updatedAt": "2026-07-07T15:04:27.376Z",
+      "masteredAt": "2026-07-07T15:04:27.376Z",
+      "masteredSource": "review-hard"
+    },
+    "word:unclog": {
+      "itemId": "word:unclog",
+      "term": "unclog",
+      "type": "word",
+      "firstWrongAt": "2026-07-07T15:04:29.777Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S02E01-24"
+      ],
+      "questionIds": [
+        "S02E01-24:word:unclog"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-07T15:04:29.777Z",
+      "lastBlockId": "S02E01-24",
+      "updatedAt": "2026-07-07T15:04:29.777Z",
+      "masteredAt": "2026-07-07T15:04:29.777Z",
+      "masteredSource": "review-hard"
+    },
+    "word:unhook": {
+      "itemId": "word:unhook",
+      "term": "unhook",
+      "type": "word",
+      "firstWrongAt": "2026-07-07T15:04:48.043Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S02E01-24"
+      ],
+      "questionIds": [
+        "S02E01-24:word:unhook"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-07T15:04:48.043Z",
+      "lastBlockId": "S02E01-24",
+      "updatedAt": "2026-07-07T15:04:48.043Z",
+      "masteredAt": "2026-07-07T15:04:48.043Z",
+      "masteredSource": "review-hard"
+    },
+    "word:varnish": {
+      "itemId": "word:varnish",
+      "term": "varnish",
+      "type": "word",
+      "firstWrongAt": "2026-07-07T15:04:55.102Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S02E01-24"
+      ],
+      "questionIds": [
+        "S02E01-24:word:varnish"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-07T15:04:55.102Z",
+      "lastBlockId": "S02E01-24",
+      "updatedAt": "2026-07-07T15:04:55.102Z",
+      "masteredAt": "2026-07-07T15:04:55.102Z",
+      "masteredSource": "review-hard"
+    },
+    "word:virtually": {
+      "itemId": "word:virtually",
+      "term": "virtually",
+      "type": "word",
+      "firstWrongAt": "2026-07-07T15:04:58.761Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S02E01-24"
+      ],
+      "questionIds": [
+        "S02E01-24:word:virtually"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-07T15:04:58.761Z",
+      "lastBlockId": "S02E01-24",
+      "updatedAt": "2026-07-07T15:04:58.761Z",
+      "masteredAt": "2026-07-07T15:04:58.761Z",
+      "masteredSource": "review-hard"
+    },
+    "word:wank": {
+      "itemId": "word:wank",
+      "term": "wank",
+      "type": "word",
+      "firstWrongAt": "2026-07-07T15:05:02.858Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S02E01-24"
+      ],
+      "questionIds": [
+        "S02E01-24:word:wank"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-07T15:05:02.858Z",
+      "lastBlockId": "S02E01-24",
+      "updatedAt": "2026-07-07T15:05:02.858Z",
+      "masteredAt": "2026-07-07T15:05:02.858Z",
+      "masteredSource": "review-hard"
+    },
+    "word:whiny": {
+      "itemId": "word:whiny",
+      "term": "whiny",
+      "type": "word",
+      "firstWrongAt": "2026-07-07T15:05:19.569Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S02E01-24"
+      ],
+      "questionIds": [
+        "S02E01-24:word:whiny"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-07T15:05:19.569Z",
+      "lastBlockId": "S02E01-24",
+      "updatedAt": "2026-07-07T15:05:19.569Z",
+      "masteredAt": "2026-07-07T15:05:19.569Z",
+      "masteredSource": "review-hard"
+    },
+    "word:wiper": {
+      "itemId": "word:wiper",
+      "term": "wiper",
+      "type": "word",
+      "firstWrongAt": "2026-07-07T15:05:20.986Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S02E01-24"
+      ],
+      "questionIds": [
+        "S02E01-24:word:wiper"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-07T15:05:20.986Z",
+      "lastBlockId": "S02E01-24",
+      "updatedAt": "2026-07-07T15:05:20.986Z",
+      "masteredAt": "2026-07-07T15:05:20.986Z",
+      "masteredSource": "review-hard"
+    },
+    "word:wong": {
+      "itemId": "word:wong",
+      "term": "wong",
+      "type": "word",
+      "firstWrongAt": "2026-07-07T15:05:26.628Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S02E01-24"
+      ],
+      "questionIds": [
+        "S02E01-24:word:wong"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-07T15:05:26.628Z",
+      "lastBlockId": "S02E01-24",
+      "updatedAt": "2026-07-07T15:05:26.628Z",
+      "masteredAt": "2026-07-07T15:05:26.628Z",
+      "masteredSource": "review-hard"
+    },
+    "word:worship": {
+      "itemId": "word:worship",
+      "term": "worship",
+      "type": "word",
+      "firstWrongAt": "2026-07-07T15:05:28.978Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S02E01-24"
+      ],
+      "questionIds": [
+        "S02E01-24:word:worship"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-07T15:05:28.978Z",
+      "lastBlockId": "S02E01-24",
+      "updatedAt": "2026-07-07T15:05:28.978Z",
+      "masteredAt": "2026-07-07T15:05:28.978Z",
+      "masteredSource": "review-hard"
     }
   },
   "reviewMemoryDeletedAt": {
@@ -45912,8 +46886,22 @@
     "word:minus": "2026-07-07T15:00:33.711Z",
     "word:naturally": "2026-07-07T15:00:42.953Z",
     "word:newton": "2026-07-07T15:00:46.176Z",
-    "word:occupied": "2026-07-07T15:00:50.937Z"
+    "word:occupied": "2026-07-07T15:00:50.937Z",
+    "word:runnin": "2026-07-07T15:02:26.480Z",
+    "word:sabrina": "2026-07-07T15:02:30.127Z",
+    "word:sadness": "2026-07-07T15:02:31.810Z",
+    "word:sexiest": "2026-07-07T15:02:55.035Z",
+    "word:smoker": "2026-07-07T15:03:14.918Z",
+    "word:smokin": "2026-07-07T15:03:16.698Z",
+    "word:softly": "2026-07-07T15:03:21.385Z",
+    "word:unfinished": "2026-07-07T15:04:46.064Z",
+    "word:update": "2026-07-07T15:04:53.073Z",
+    "word:volleyball": "2026-07-07T15:05:00.443Z",
+    "word:watcha": "2026-07-07T15:05:10.563Z",
+    "word:watchin": "2026-07-07T15:05:13.547Z",
+    "word:weinberg": "2026-07-07T15:05:17.356Z",
+    "word:wonderfully": "2026-07-07T15:05:25.133Z"
   },
-  "savedAt": "2026-07-07T15:01:44.846Z",
-  "syncedAt": "2026-07-07T15:01:44.846Z"
+  "savedAt": "2026-07-07T15:05:31.973Z",
+  "syncedAt": "2026-07-07T15:05:31.973Z"
 }
