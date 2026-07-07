@@ -6,7 +6,7 @@
     "word:coffeehouse": 5,
     "word:honeymoon": 5,
     "word:paleontology": 5,
-    "word:annulment": 1,
+    "word:annulment": 5,
     "word:tux": 5,
     "word:massage": 5,
     "word:roommate": 5,
@@ -23,7 +23,7 @@
     "word:toner": 1,
     "word:foosball": 5,
     "word:refrigerator": 5,
-    "word:stripper": 3,
+    "word:stripper": 5,
     "word:teeny": 5,
     "word:audition": 5,
     "word:bridesmaid": 5,
@@ -45,7 +45,7 @@
     "word:crotch": 5,
     "word:divorce": 5,
     "word:humiliate": 5,
-    "word:invitation": 4,
+    "word:invitation": 5,
     "word:masseuse": 1,
     "word:mug": 5,
     "word:napkin": 5,
@@ -342,7 +342,7 @@
     "word:dry": 5,
     "word:fish": 5,
     "word:assistant": 5,
-    "word:flirt": 2,
+    "word:flirt": 5,
     "word:copy": 5,
     "word:sweater": 5,
     "word:dump": 5,
@@ -356,7 +356,7 @@
     "word:ugly": 5,
     "word:mommy": 5,
     "word:anniversary": 5,
-    "word:swing": 3,
+    "word:swing": 5,
     "word:waitress": 5,
     "word:hook": 5,
     "word:nose": 5,
@@ -427,7 +427,7 @@
     "word:camp": 5,
     "word:bone": 5,
     "word:base": 5,
-    "word:bachelor": 1,
+    "word:bachelor": 5,
     "word:stage": 5,
     "word:convince": 5,
     "word:chase": 5,
@@ -449,7 +449,7 @@
     "word:nickname": 5,
     "word:adopt": 5,
     "word:spring": 5,
-    "word:nanny": 2,
+    "word:nanny": 5,
     "word:weight": 5,
     "word:cast": 5,
     "word:cop": 5,
@@ -483,7 +483,7 @@
     "word:clock": 5,
     "word:darling": 5,
     "word:delivery": 5,
-    "word:groom": 1,
+    "word:groom": 5,
     "word:slip": 5,
     "word:towel": 5,
     "word:clown": 5,
@@ -3935,14 +3935,32 @@
     "word:wiper": 5,
     "word:wonderfully": 5,
     "word:wong": 5,
-    "word:worship": 5
+    "word:worship": 5,
+    "phrase:move in": 5,
+    "phrase:give up": 5,
+    "word:porn": 5,
+    "word:professor": 5,
+    "word:rid": 5,
+    "word:student": 5,
+    "phrase:get rid of": 5,
+    "word:blah": 5,
+    "word:forward": 5,
+    "word:post": 5,
+    "word:robot": 5,
+    "word:available": 5,
+    "word:adoption": 5,
+    "phrase:run into": 5,
+    "word:health": 5,
+    "phrase:come up with": 5,
+    "word:pregnancy": 5,
+    "word:private": 5
   },
   "scoreUpdatedAt": {
     "word:smelly": "2026-07-04T13:44:01.296Z",
     "word:coffeehouse": "2026-06-03T13:53:23.880Z",
     "word:honeymoon": "2026-06-03T13:53:26.444Z",
     "word:paleontology": "2026-06-30T12:34:36.709Z",
-    "word:annulment": "2026-06-03T14:26:27.978Z",
+    "word:annulment": "2026-07-07T15:18:30.587Z",
     "word:tux": "2026-07-04T13:47:07.638Z",
     "word:massage": "2026-07-03T12:38:21.923Z",
     "word:roommate": "2026-06-03T14:26:35.449Z",
@@ -3959,7 +3977,7 @@
     "word:toner": "2026-06-03T14:27:21.086Z",
     "word:foosball": "2026-07-04T15:03:59.205Z",
     "word:refrigerator": "2026-07-04T15:02:19.899Z",
-    "word:stripper": "2026-06-03T14:27:44.173Z",
+    "word:stripper": "2026-07-07T15:17:51.735Z",
     "word:teeny": "2026-07-04T15:04:38.269Z",
     "word:audition": "2026-06-13T13:12:25.199Z",
     "word:bridesmaid": "2026-06-14T10:51:20.116Z",
@@ -3981,7 +3999,7 @@
     "word:crotch": "2026-07-04T15:07:19.091Z",
     "word:divorce": "2026-06-29T14:51:50.681Z",
     "word:humiliate": "2026-07-04T14:07:42.186Z",
-    "word:invitation": "2026-06-03T14:43:32.437Z",
+    "word:invitation": "2026-07-07T15:18:47.228Z",
     "word:masseuse": "2026-06-03T14:43:37.902Z",
     "word:mug": "2026-07-04T13:46:16.491Z",
     "word:napkin": "2026-06-03T14:43:44.154Z",
@@ -4278,7 +4296,7 @@
     "word:dry": "2026-06-04T14:24:30.394Z",
     "word:fish": "2026-06-04T14:24:31.542Z",
     "word:assistant": "2026-06-04T14:24:33.728Z",
-    "word:flirt": "2026-06-04T14:24:36.179Z",
+    "word:flirt": "2026-07-07T15:17:49.434Z",
     "word:copy": "2026-06-04T14:24:37.510Z",
     "word:sweater": "2026-06-30T12:27:01.942Z",
     "word:dump": "2026-06-13T13:40:37.333Z",
@@ -4292,7 +4310,7 @@
     "word:ugly": "2026-06-04T14:25:02.419Z",
     "word:mommy": "2026-06-04T14:25:04.986Z",
     "word:anniversary": "2026-07-03T13:48:13.223Z",
-    "word:swing": "2026-06-04T14:25:15.519Z",
+    "word:swing": "2026-07-07T15:17:55.320Z",
     "word:waitress": "2026-06-04T14:25:18.472Z",
     "word:hook": "2026-07-04T13:44:28.714Z",
     "word:nose": "2026-06-04T14:25:22.840Z",
@@ -4363,7 +4381,7 @@
     "word:camp": "2026-07-03T13:51:58.500Z",
     "word:bone": "2026-07-03T13:51:53.803Z",
     "word:base": "2026-06-13T16:23:15.144Z",
-    "word:bachelor": "2026-06-04T14:28:51.089Z",
+    "word:bachelor": "2026-07-07T15:18:22.055Z",
     "word:stage": "2026-07-03T13:52:22.069Z",
     "word:convince": "2026-07-04T13:46:50.521Z",
     "word:chase": "2026-06-13T16:23:24.843Z",
@@ -4385,7 +4403,7 @@
     "word:nickname": "2026-06-04T14:29:53.772Z",
     "word:adopt": "2026-07-04T13:47:12.079Z",
     "word:spring": "2026-06-04T14:29:57.924Z",
-    "word:nanny": "2026-06-04T14:30:00.133Z",
+    "word:nanny": "2026-07-07T15:18:35.424Z",
     "word:weight": "2026-07-03T14:44:24.068Z",
     "word:cast": "2026-07-04T13:47:14.025Z",
     "word:cop": "2026-07-03T14:44:11.172Z",
@@ -4419,7 +4437,7 @@
     "word:clock": "2026-06-04T14:31:32.739Z",
     "word:darling": "2026-07-04T13:48:16.451Z",
     "word:delivery": "2026-07-04T13:48:20.481Z",
-    "word:groom": "2026-06-04T14:31:40.442Z",
+    "word:groom": "2026-07-07T15:18:49.213Z",
     "word:slip": "2026-07-03T14:46:14.250Z",
     "word:towel": "2026-06-14T10:48:18.031Z",
     "word:clown": "2026-07-04T13:48:12.026Z",
@@ -8024,7 +8042,25 @@
     "word:wiper": "2026-07-07T15:05:20.986Z",
     "word:wonderfully": "2026-07-07T15:05:25.133Z",
     "word:wong": "2026-07-07T15:05:26.628Z",
-    "word:worship": "2026-07-07T15:05:28.978Z"
+    "word:worship": "2026-07-07T15:05:28.978Z",
+    "phrase:move in": "2026-07-07T15:17:31.792Z",
+    "phrase:give up": "2026-07-07T15:17:33.798Z",
+    "word:porn": "2026-07-07T15:17:35.784Z",
+    "word:professor": "2026-07-07T15:17:42.784Z",
+    "word:rid": "2026-07-07T15:17:57.121Z",
+    "word:student": "2026-07-07T15:17:58.565Z",
+    "phrase:get rid of": "2026-07-07T15:18:04.072Z",
+    "word:blah": "2026-07-07T15:18:08.171Z",
+    "word:forward": "2026-07-07T15:18:11.541Z",
+    "word:post": "2026-07-07T15:18:15.289Z",
+    "word:robot": "2026-07-07T15:18:18.423Z",
+    "word:available": "2026-07-07T15:18:24.121Z",
+    "word:adoption": "2026-07-07T15:18:28.025Z",
+    "phrase:run into": "2026-07-07T15:18:37.476Z",
+    "word:health": "2026-07-07T15:18:38.910Z",
+    "phrase:come up with": "2026-07-07T15:18:42.912Z",
+    "word:pregnancy": "2026-07-07T15:18:57.146Z",
+    "word:private": "2026-07-07T15:18:58.831Z"
   },
   "scoreDeletedAt": {
     "word:valentines": "2026-06-04T13:10:50Z",
@@ -8184,188 +8220,6 @@
   "resetAt": null,
   "notes": {},
   "history": [
-    {
-      "itemId": "word:rude",
-      "previous": null,
-      "score": 5,
-      "source": "review-skip",
-      "at": "2026-07-04T15:04:19.362Z"
-    },
-    {
-      "itemId": "word:sail",
-      "previous": null,
-      "score": 5,
-      "source": "review-skip",
-      "at": "2026-07-04T15:04:22.428Z"
-    },
-    {
-      "itemId": "word:slice",
-      "previous": 1,
-      "score": 5,
-      "source": "review-hard",
-      "at": "2026-07-04T15:04:24.306Z"
-    },
-    {
-      "itemId": "word:spider",
-      "previous": null,
-      "score": 5,
-      "source": "review-skip",
-      "at": "2026-07-04T15:04:26.670Z"
-    },
-    {
-      "itemId": "word:stone",
-      "previous": 1,
-      "score": 5,
-      "source": "review-hard",
-      "at": "2026-07-04T15:04:35.211Z"
-    },
-    {
-      "itemId": "word:teeny",
-      "previous": 1,
-      "score": 5,
-      "source": "review-skip",
-      "at": "2026-07-04T15:04:38.269Z"
-    },
-    {
-      "itemId": "word:badge",
-      "previous": 1,
-      "score": 5,
-      "source": "review-skip",
-      "at": "2026-07-04T15:04:44.347Z"
-    },
-    {
-      "itemId": "word:defense",
-      "previous": null,
-      "score": 5,
-      "source": "review-skip",
-      "at": "2026-07-04T15:04:46.706Z"
-    },
-    {
-      "itemId": "word:dull",
-      "previous": null,
-      "score": 5,
-      "source": "review-hard",
-      "at": "2026-07-04T15:05:07.180Z"
-    },
-    {
-      "itemId": "word:jewelry",
-      "previous": null,
-      "score": 5,
-      "source": "review-hard",
-      "at": "2026-07-04T15:05:11.272Z"
-    },
-    {
-      "itemId": "word:lifetime",
-      "previous": null,
-      "score": 5,
-      "source": "review-skip",
-      "at": "2026-07-04T15:05:13.876Z"
-    },
-    {
-      "itemId": "word:mustache",
-      "previous": 4,
-      "score": 5,
-      "source": "review-skip",
-      "at": "2026-07-04T15:05:17.622Z"
-    },
-    {
-      "itemId": "word:opposite",
-      "previous": null,
-      "score": 5,
-      "source": "review-hard",
-      "at": "2026-07-04T15:05:22.888Z"
-    },
-    {
-      "itemId": "word:piss",
-      "previous": 1,
-      "score": 5,
-      "source": "review-skip",
-      "at": "2026-07-04T15:05:25.661Z"
-    },
-    {
-      "itemId": "word:describe",
-      "previous": null,
-      "score": 5,
-      "source": "review-skip",
-      "at": "2026-07-04T15:05:28.208Z"
-    },
-    {
-      "itemId": "word:scotch",
-      "previous": 1,
-      "score": 5,
-      "source": "review-hard",
-      "at": "2026-07-04T15:05:29.988Z"
-    },
-    {
-      "itemId": "word:spread",
-      "previous": null,
-      "score": 5,
-      "source": "review-hard",
-      "at": "2026-07-04T15:05:34.472Z"
-    },
-    {
-      "itemId": "word:television",
-      "previous": null,
-      "score": 5,
-      "source": "review-skip",
-      "at": "2026-07-04T15:05:36.230Z"
-    },
-    {
-      "itemId": "word:thong",
-      "previous": 1,
-      "score": 5,
-      "source": "review-hard",
-      "at": "2026-07-04T15:05:38.180Z"
-    },
-    {
-      "itemId": "word:wreck",
-      "previous": 1,
-      "score": 5,
-      "source": "review-hard",
-      "at": "2026-07-04T15:05:39.543Z"
-    },
-    {
-      "itemId": "word:adorable",
-      "previous": null,
-      "score": 5,
-      "source": "review-skip",
-      "at": "2026-07-04T15:05:44.052Z"
-    },
-    {
-      "itemId": "word:behalf",
-      "previous": null,
-      "score": 5,
-      "source": "review-skip",
-      "at": "2026-07-04T15:05:46.716Z"
-    },
-    {
-      "itemId": "word:bracelet",
-      "previous": 1,
-      "score": 5,
-      "source": "review-hard",
-      "at": "2026-07-04T15:05:51.496Z"
-    },
-    {
-      "itemId": "word:carton",
-      "previous": 4,
-      "score": 5,
-      "source": "review-hard",
-      "at": "2026-07-04T15:05:54.336Z"
-    },
-    {
-      "itemId": "word:damage",
-      "previous": null,
-      "score": 5,
-      "source": "review-skip",
-      "at": "2026-07-04T15:05:57.183Z"
-    },
-    {
-      "itemId": "word:further",
-      "previous": null,
-      "score": 5,
-      "source": "review-skip",
-      "at": "2026-07-04T15:05:59.959Z"
-    },
     {
       "itemId": "word:ghost",
       "previous": null,
@@ -13783,6 +13637,188 @@
       "score": 5,
       "source": "review-hard",
       "at": "2026-07-07T15:05:28.978Z"
+    },
+    {
+      "itemId": "phrase:move in",
+      "previous": null,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-07T15:17:31.792Z"
+    },
+    {
+      "itemId": "phrase:give up",
+      "previous": null,
+      "score": 5,
+      "source": "review-skip",
+      "at": "2026-07-07T15:17:33.798Z"
+    },
+    {
+      "itemId": "word:porn",
+      "previous": null,
+      "score": 5,
+      "source": "review-skip",
+      "at": "2026-07-07T15:17:35.784Z"
+    },
+    {
+      "itemId": "word:professor",
+      "previous": null,
+      "score": 5,
+      "source": "review-skip",
+      "at": "2026-07-07T15:17:42.784Z"
+    },
+    {
+      "itemId": "word:flirt",
+      "previous": 2,
+      "score": 5,
+      "source": "review-skip",
+      "at": "2026-07-07T15:17:49.434Z"
+    },
+    {
+      "itemId": "word:stripper",
+      "previous": 3,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-07T15:17:51.735Z"
+    },
+    {
+      "itemId": "word:swing",
+      "previous": 3,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-07T15:17:55.320Z"
+    },
+    {
+      "itemId": "word:rid",
+      "previous": null,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-07T15:17:57.121Z"
+    },
+    {
+      "itemId": "word:student",
+      "previous": null,
+      "score": 5,
+      "source": "review-skip",
+      "at": "2026-07-07T15:17:58.565Z"
+    },
+    {
+      "itemId": "phrase:get rid of",
+      "previous": null,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-07T15:18:04.072Z"
+    },
+    {
+      "itemId": "word:blah",
+      "previous": null,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-07T15:18:08.171Z"
+    },
+    {
+      "itemId": "word:forward",
+      "previous": null,
+      "score": 5,
+      "source": "review-skip",
+      "at": "2026-07-07T15:18:11.541Z"
+    },
+    {
+      "itemId": "word:post",
+      "previous": null,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-07T15:18:15.289Z"
+    },
+    {
+      "itemId": "word:robot",
+      "previous": null,
+      "score": 5,
+      "source": "review-skip",
+      "at": "2026-07-07T15:18:18.423Z"
+    },
+    {
+      "itemId": "word:bachelor",
+      "previous": 1,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-07T15:18:22.055Z"
+    },
+    {
+      "itemId": "word:available",
+      "previous": null,
+      "score": 5,
+      "source": "review-skip",
+      "at": "2026-07-07T15:18:24.121Z"
+    },
+    {
+      "itemId": "word:adoption",
+      "previous": null,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-07T15:18:28.025Z"
+    },
+    {
+      "itemId": "word:annulment",
+      "previous": 1,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-07T15:18:30.587Z"
+    },
+    {
+      "itemId": "word:nanny",
+      "previous": 2,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-07T15:18:35.424Z"
+    },
+    {
+      "itemId": "phrase:run into",
+      "previous": null,
+      "score": 5,
+      "source": "review-skip",
+      "at": "2026-07-07T15:18:37.476Z"
+    },
+    {
+      "itemId": "word:health",
+      "previous": null,
+      "score": 5,
+      "source": "review-skip",
+      "at": "2026-07-07T15:18:38.910Z"
+    },
+    {
+      "itemId": "phrase:come up with",
+      "previous": null,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-07T15:18:42.912Z"
+    },
+    {
+      "itemId": "word:invitation",
+      "previous": 4,
+      "score": 5,
+      "source": "review-skip",
+      "at": "2026-07-07T15:18:47.228Z"
+    },
+    {
+      "itemId": "word:groom",
+      "previous": 1,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-07T15:18:49.213Z"
+    },
+    {
+      "itemId": "word:pregnancy",
+      "previous": null,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-07T15:18:57.146Z"
+    },
+    {
+      "itemId": "word:private",
+      "previous": null,
+      "score": 5,
+      "source": "review-skip",
+      "at": "2026-07-07T15:18:58.831Z"
     }
   ],
   "reviewEngineVersion": 2,
@@ -19084,6 +19120,7698 @@
       "skippedCount": 412,
       "completedCount": 556,
       "hardCount": 550
+    },
+    "S03-S10": {
+      "version": 2,
+      "blockId": "S03-S10",
+      "total": 1945,
+      "queue": [
+        {
+          "id": "S03-S10:word:license",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:drug",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:file",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:lecture",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:organize",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:phalange",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:ugh",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:meal",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:police",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:shock",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:war",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:category",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:identical",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:lottery",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:president",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:prize",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:slutty",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:triplets",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:vacation",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:apology",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:batch",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:cheesecake",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:comic",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:contract",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:crab",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:deliver",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:memorize",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:period",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:recognize",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:toner",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:confident",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:deed",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:era",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:genius",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:mature",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:original",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:related",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:search",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:sickness",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:armadillo",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:benefit",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:bummed",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:coin",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:customer",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:discovery",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:drum",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:event",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:fog",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:forgotten",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:hunt",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:insist",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:lotion",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:maintenance",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:reverend",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:solve",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:unit",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:vow",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:boo",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:bucket",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:catalog",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:compliment",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:danger",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:drapes",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:evaluation",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:goof",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:highest",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:host",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:phrase:look on",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:maternity",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:minister",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:necklace",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:react",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:relative",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:season",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:slut",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:stain",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:touchdown",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:phrase:wedding dress",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:whore",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:wiener",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:bee",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:breezy",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:celebrity",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:chain",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:competition",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:contestant",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:differently",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:exist",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:garage",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:guide",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:huddle",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:masseuse",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:oil",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:oyster",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:performance",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:piano",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:product",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:smooth",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:trifle",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:unagi",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:phrase:walk in",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:whisper",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:wire",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:bakery",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:bow",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:bum",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:celebration",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:concentrate",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:cough",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:distract",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:hairy",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:impressive",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:invented",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:itself",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:mattress",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:medicine",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:memorial",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:onboard",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:pat",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:pervert",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:psychic",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:rate",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:routine",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:speaker",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:starve",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:stevens",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:suggestion",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:thee",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:thunder",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:tunnel",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:vest",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:veto",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:witness",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:advertising",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:apothecary",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:bachelorette",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:backfire",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:basement",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:bid",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:phrase:call in",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:cheater",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:chester",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:connection",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:deposit",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:donation",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:doodie",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:duty",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:exam",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:frown",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:josh",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:lake",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:liar",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:phrase:make fun of",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:maple",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:passport",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:pitch",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:platform",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:pulp",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:pushover",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:qualify",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:race",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:rap",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:rehearsal",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:resolution",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:rugby",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:selfless",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:specific",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:sticky",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:stretch",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:sue",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:toward",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:phrase:turn on",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:phrase:turn out",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:unreasonable",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:wayne",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:bend",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:bicep",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:blazer",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:cabinet",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:classy",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:clint",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:conceive",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:coupon",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:degree",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:designer",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:dictionary",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:directly",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:disagree",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:division",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:dollhouse",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:doughnut",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:ella",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:erectus",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:everyday",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:flow",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:fluid",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:gain",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:gala",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:phrase:go by",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:gossip",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:grand",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:groomsman",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:handcuff",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:headshots",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:hid",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:innocent",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:jeans",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:karate",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:keynote",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:loan",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:map",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:meddle",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:millionaire",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:panic",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:partly",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:phlegm",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:pledge",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:practical",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:principle",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:reader",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:remain",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:signal",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:phrase:sit on",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:slim",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:snore",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:solid",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:south",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:strength",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:tub",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:tuxedo",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:volunteer",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:wink",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:ace",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:addict",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:allergy",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:appropriate",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:attic",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:audience",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:barrel",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:below",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:beth",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:blink",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:bloody",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:bothered",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:cable",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:casual",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:certificate",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:chemistry",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:church",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:chute",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:clams",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:colleague",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:comet",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:compromise",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:countdown",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:crib",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:depressing",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:dilated",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:disaster",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:drunken",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:essence",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:extremely",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:factory",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:feminine",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:phrase:fill out",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:fried",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:frozen",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:garlic",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:golden",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:handy",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:harm",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:haunt",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:helicopter",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:hidden",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:hum",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:international",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:intimidating",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:jellyfish",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:jingle",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:killer",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:lawn",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:legal",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:litter",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:loner",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:loosen",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:luggage",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:maker",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:manage",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:phrase:mess up",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:miller",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:mini",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:morgan",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:narrow",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:necessary",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:ought",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:owen",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:pearl",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:permission",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:phil",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:phillips",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:pierce",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:poetry",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:postpone",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:premiere",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:repel",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:reset",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:resources",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:ribbon",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:river",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:ron",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:rooster",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:salon",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:sapien",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:scarf",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:seed",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:semi",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:several",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:sid",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:silent",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:soak",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:stack",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:steady",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:straightener",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:sublet",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:tick",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:torture",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:trail",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:transfer",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:transplant",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:urgent",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:veal",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:vice",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:wide",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:wisdom",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:wizard",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:admire",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:alert",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:arrange",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:assure",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:autograph",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:average",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:bladder",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:booth",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:bouncy",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:bravo",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:bro",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:cage",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:carbon",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:casserole",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:chapel",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:checkbook",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:cheesy",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:chipper",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:collar",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:comment",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:compete",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:connelly",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:courtside",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:curiosity",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:phrase:cut off",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:delta",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:desert",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:design",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:direct",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:divert",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:donor",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:doorknob",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:drama",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:dreamt",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:dropper",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:effective",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:effort",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:entertain",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:escrow",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:fairly",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:fajitas",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:fever",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:finest",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:foundation",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:freedom",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:goalie",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:gorilla",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:guarantee",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:gumball",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:happily",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:highlight",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:hilarious",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:hollow",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:honesty",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:hostess",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:hottie",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:ingredient",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:insanely",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:inspector",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:instinct",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:intern",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:investment",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:jackass",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:jaw",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:journey",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:ketchup",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:landlord",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:leak",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:licorice",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:log",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:phrase:make a big deal",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:phrase:make sense",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:matthew",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:meanwhile",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:mento",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:moni",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:monster",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:moron",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:movement",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:nominated",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:non",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:nor",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:obsessed",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:olivia",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:originally",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:paradise",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:pasta",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:patience",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:pediatrician",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:perfume",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:peter",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:petty",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:photographer",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:pointer",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:pong",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:porch",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:powder",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:prime",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:random",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:rare",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:raspberry",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:recommendation",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:relief",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:salami",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:scent",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:phrase:screw up",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:sculpture",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:series",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:shift",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:silk",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:skinny",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:soldier",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:southern",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:spank",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:squish",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:standard",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:stew",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:strain",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:subtle",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:success",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:tampon",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:tasty",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:telethon",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:temporary",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:tenure",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:thread",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:thrilled",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:tow",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:unacceptable",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:undo",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:vicar",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:vision",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:wahoo",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:phrase:walk into",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:witch",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:yeti",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:aaron",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:abbey",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:accomplish",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:aged",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:aloof",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:amelia",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:ancient",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:annulled",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:anxiety",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:atlas",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:auction",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:awww",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:ballroom",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:bark",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:bathtub",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:battery",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:beloved",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:benjamin",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:bicycle",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:biology",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:bologna",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:boundary",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:brace",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:phrase:bring up",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:bummer",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:burp",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:canadian",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:canoe",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:celery",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:centerpieces",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:checkout",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:chelsea",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:chess",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:chiropractor",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:chopsticks",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:chump",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:chunk",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:civil",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:closeness",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:cloth",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:combine",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:commando",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:concentric",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:convention",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:corsage",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:cowgirl",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:critic",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:crowd",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:deeper",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:deprive",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:destiny",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:detective",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:discomfort",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:dismiss",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:dokey",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:dramatic",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:dwarf",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:electricity",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:elves",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:embryo",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:entice",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:entirely",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:excitement",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:faded",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:fairy",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:falafel",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:false",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:fed",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:fence",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:filthy",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:phrase:find in",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:flaky",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:flattered",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:flood",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:flyers",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:folder",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:forgiven",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:fort",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:fought",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:freakishly",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:fricken",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:frizzy",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:gauze",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:geology",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:gladiator",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:phrase:go after",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:government",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:gown",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:grease",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:gynecologist",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:habit",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:halfway",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:headset",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:healing",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:helmet",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:homework",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:hopeless",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:hoshi",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:humidity",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:identify",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:immature",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:impulsive",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:indiana",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:individual",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:inspire",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:integrity",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:intuitive",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:jelly",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:jen",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:jeopardize",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:phrase:keep up",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:kennedy",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:kenneth",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:keycard",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:kit",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:knives",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:ladyfingers",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:lapse",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:lar",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:lawfully",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:lease",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:legitimate",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:limb",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:loins",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:lovable",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:lurker",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:lynch",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:mahi",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:maitre",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:maria",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:meaningful",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:mellow",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:motion",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:mud",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:mustard",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:national",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:newman",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:nik",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:novels",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:opponent",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:ordinarily",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:outgoing",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:overreacting",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:pantyhose",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:pashmina",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:passionate",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:pattern",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:pedicure",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:peephole",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:pepperoni",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:pesto",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:pilgrims",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:pillowcase",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:ping",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:pivot",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:platoon",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:policeman",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:polish",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:poppy",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:pretentious",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:protection",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:provide",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:pub",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:punk",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:purifier",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:phrase:put up",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:quiche",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:raccoon",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:racquet",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:rage",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:razor",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:realtor",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:rearrange",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:recent",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:regatta",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:rita",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:roam",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:rodeo",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:rookie",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:rug",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:phrase:run in",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:ryder",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:sam",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:sangria",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:saver",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:scan",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:semester",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:sentiment",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:sesame",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:session",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:shelf",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:shortly",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:silliness",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:sissy",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:sleeper",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:smokey",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:snooze",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:souvenir",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:spackle",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:stalk",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:phrase:stand by",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:phrase:stand on",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:storage",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:stung",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:suede",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:sup",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:surrounded",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:sympathy",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:phrase:take away",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:tale",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:taller",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:tarantula",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:teddy",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:thesaurus",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:thick",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:thirsty",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:tragic",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:tummy",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:unstable",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:vodka",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:wah",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:phrase:walk away",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:phrase:walk out",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:walker",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:wally",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:weirdo",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:wishbone",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:yank",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:yore",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:abandonment",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:aboard",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:abysmal",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:accuse",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:acquainted",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:acrimonious",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:advised",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:afterward",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:aha",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:alike",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:alumni",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:analysis",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:anchovies",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:anna",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:announcement",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:anonymous",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:antenna",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:applause",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:applicants",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:arcade",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:atlanta",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:atmosphere",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:awareness",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:backhand",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:bandages",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:banner",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:barley",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:bartender",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:basis",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:baste",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:beets",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:beginners",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:berry",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:betrayal",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:betrothed",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:bitty",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:blender",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:bolt",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:botanist",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:botched",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:bounce",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:bound",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:brady",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:bridal",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:brochures",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:bugger",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:bulb",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:butler",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:cabdriver",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:caesar",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:calamari",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:calvin",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:cancellation",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:canoodling",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:capture",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:carat",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:carnivore",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:categorize",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:cerebral",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:chandelier",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:cheapest",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:cheryl",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:chicas",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:chippy",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:chuckles",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:cliff",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:clogs",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:commission",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:compartment",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:confession",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:confidence",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:conquer",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:console",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:courtesy",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:couscous",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:crank",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:cremate",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:cuddly",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:custody",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:custom",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:daniel",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:dash",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:daytime",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:dealership",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:dearly",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:deck",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:delaware",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:deli",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:den",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:determine",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:devastated",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:dialect",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:diana",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:dirk",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:discipline",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:disposable",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:disrupt",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:doctoral",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:document",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:dodge",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:dove",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:downtown",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:draft",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:dreidel",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:dug",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:easiest",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:easygoing",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:eavesdrop",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:effectively",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:efficient",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:eighteen",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:elegant",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:eloping",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:embarrassment",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:endless",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:errand",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:ethical",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:evict",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:evidently",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:exclusive",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:exhibit",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:exit",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:expert",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:expired",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:exposure",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:phrase:fall into",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:fame",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:fascinated",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:february",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:fetch",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:fighter",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:phrase:fill in",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:finalist",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:fishnet",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:foam",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:fond",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:forehead",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:formula",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:fox",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:freshly",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:frigging",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:frog",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:frustrating",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:fuel",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:fund",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:fungus",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:galaxy",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:gear",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:genie",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:geography",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:gin",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:girth",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:phrase:give in",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:phrase:give out",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:glamorous",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:phrase:go around",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:goody",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:google",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:graham",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:grandchild",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:grass",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:grief",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:groomsmen",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:phrase:grow into",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:guru",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:halftime",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:handful",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:hazelnut",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:headhunter",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:healed",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:heroin",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:hicks",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:hoot",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:housekeeper",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:housewarming",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:howie",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:hugo",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:hunk",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:hypnosis",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:iceberg",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:immediately",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:incompetent",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:infomercial",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:inhospitable",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:initiate",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:intellectual",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:intermission",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:intrigued",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:irrational",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:irresistible",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:isolation",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:journal",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:phrase:keep in",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:kindergarten",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:ladder",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:lager",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:laminated",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:laura",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:linen",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:ling",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:lisa",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:literature",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:lodged",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:lollipop",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:loyal",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:lung",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:lure",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:lurk",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:lust",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:macho",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:madame",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:madre",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:magician",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:mansion",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:martini",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:mascara",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:masculine",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:mass",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:matey",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:matt",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:maurice",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:medallion",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:medieval",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:megan",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:mel",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:messer",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:mia",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:mild",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:mink",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:mischievous",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:missus",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:mistaken",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:mitts",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:mitzvah",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:mobile",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:monologue",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:monty",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:morse",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:motorcycle",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:phrase:move over",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:mozzarella",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:mumble",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:naptime",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:newsstand",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:nighttime",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:nonsense",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:nonsmoker",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:noon",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:notch",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:oath",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:oboe",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:occasional",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:omaha",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:orchard",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:ordained",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:pac",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:pam",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:papier",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:pas",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:paste",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:pastrami",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:payment",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:pecs",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:pilot",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:pine",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:plain",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:planetarium",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:planner",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:playground",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:popcorn",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:portside",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:possum",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:potpourri",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:poultry",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:pray",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:prisoner",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:protective",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:prototype",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:phrase:pull off",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:phrase:pull on",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:quack",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:quartet",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:questionable",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:racist",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:rash",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:reasonable",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:receiver",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:reconfiguration",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:reflex",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:regard",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:release",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:residence",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:respectfully",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:respond",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:retract",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:rise",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:risky",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:rollerblade",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:russians",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:rust",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:sabbatical",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:sadly",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:saliva",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:saltwater",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:scalp",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:scrappy",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:secure",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:sediment",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:seduction",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:selection",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:seminar",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:phrase:set on",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:sewage",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:sewer",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:sexuality",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:shaken",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:shaker",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:sheer",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:sherman",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:shook",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:shotgun",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:shrew",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:shrill",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:significant",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:simpler",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:slower",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:snowy",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:soundproof",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:soundtrack",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:spark",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:speakerphone",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:specimen",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:spectacular",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:phrase:sperm donor",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:spice",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:spicy",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:spiderman",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:spitter",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:sponge",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:sprouts",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:squeaky",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:stable",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:statistical",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:stern",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:stockings",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:stove",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:strawberries",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:sum",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:sunny",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:surrogacy",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:surrogate",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:swan",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:sweatpants",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:swore",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:tad",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:phrase:take over",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:phrase:take up",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:talky",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:tarragon",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:task",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:tennille",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:terminal",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:testicles",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:theoretically",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:thompson",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:topless",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:toppings",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:tortilla",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:tragedy",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:tramp",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:translator",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:treasure",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:triumph",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:phrase:turn down",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:ugliest",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:unattended",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:union",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:unlikely",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:unlock",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:unpaid",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:val",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:velvet",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:venture",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:versus",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:visitor",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:visual",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:volcano",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:weirder",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:wesley",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:westminster",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:wheat",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:whew",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:wholesome",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:wig",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:wiggle",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:wildness",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:willy",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:workout",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:youngest",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:zelda",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:zip",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:abs",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:absorb",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:academic",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:adjusting",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:alien",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:alimony",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:alphabetically",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:alternative",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:altmann",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:amen",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:ammonia",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:amphibian",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:anderson",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:ant",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:anthropologist",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:anxious",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:aortic",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:apostrophe",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:appearance",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:applaud",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:appliance",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:approach",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:armageddon",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:aroused",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:ascot",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:associate",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:astronaut",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:audio",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:aunts",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:author",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:authorization",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:aversion",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:awhile",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:babbling",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:backyard",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:baddy",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:bagpipes",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:bakersfield",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:ballplayer",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:balm",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:bamn",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:barbershop",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:barium",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:bathrobe",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:beanbag",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:bearnaise",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:beatles",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:bedspread",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:bedtime",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:beefsteak",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:bellybutton",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:bendy",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:bidder",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:bile",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:billie",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:binding",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:birdcage",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:bitchen",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:bizarre",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:blacken",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:blaster",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:blimp",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:blown",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:blushing",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:bodes",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:bogota",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:bonjour",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:booger",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:bookend",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:bouillabaisse",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:bouquet",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:braid",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:breadstick",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:breakthrough",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:breed",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:breeze",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:brenda",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:brighten",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:brighter",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:britney",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:bruce",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:bruiser",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:burden",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:bureau",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:burial",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:burlesque",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:burly",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:burners",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:burrito",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:burt",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:butch",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:butcher",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:buttocks",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:campbell",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:campus",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:candidate",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:candlelight",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:cannon",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:capri",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:careless",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:carriage",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:casino",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:castor",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:caterpillar",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:cattle",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:chameleon",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:championship",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:chantal",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:charles",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:chauncey",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:childbirth",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:childless",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:chili",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:chopper",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:christie",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:cindy",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:claire",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:classmates",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:claudia",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:clifford",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:clingy",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:closely",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:closest",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:cocky",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:colin",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:colonel",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:com",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:combat",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:comebacks",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:command",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:commencing",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:communicate",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:commute",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:complimentary",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:compulsive",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:concealed",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:conclusion",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:concrete",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:conditioner",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:confront",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:confusion",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:congratulate",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:consequences",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:consolation",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:consumer",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:contain",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:controlled",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:controlling",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:coordinator",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:copywriter",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:core",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:corey",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:cornea",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:cornell",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:cornrows",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:corny",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:costars",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:coulis",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:courthouse",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:crabby",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:cradle",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:crazed",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:crematorium",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:cretaceous",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:crew",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:crier",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:criticism",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:crotchless",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:cruller",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:cue",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:culinary",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:cult",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:cupboard",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:curler",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:cyborg",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:daredevil",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:darker",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:dayton",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:deathbed",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:declare",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:decorations",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:decorator",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:definition",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:delay",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:delight",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:demon",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:dense",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:derek",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:destined",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:development",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:devon",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:diagnostician",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:dilating",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:dimple",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:dingus",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:dingy",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:diplomat",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:dislike",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:dissertation",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:distillation",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:distinctly",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:distraction",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:divisional",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:documentary",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:doodle",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:doofy",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:dorf",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:dorm",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:download",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:drooling",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:dukakis",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:dyed",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:eagle",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:earplugs",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:eater",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:ebay",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:edit",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:edition",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:educated",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:eighth",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:elderly",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:electromagnetic",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:elephant",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:eliminated",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:embrace",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:employee",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:emus",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:enchilada",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:encyclopedias",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:enema",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:enemy",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:enthusiastic",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:entitled",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:enunciate",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:epic",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:equipment",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:equity",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:erection",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:ergo",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:erogenous",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:erotic",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:erotica",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:essential",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:evel",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:evidence",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:excess",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:execute",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:expires",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:explore",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:explosion",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:exquisite",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:extent",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:exterior",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:extract",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:eyeballs",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:facial",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:facility",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:fanny",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:fauna",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:felicity",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:feminism",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:fertile",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:filet",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:fingernail",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:fixable",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:flanging",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:flaunt",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:flexible",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:florist",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:flown",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:foolish",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:footage",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:foothills",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:foreign",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:foreigner",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:forfeit",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:forgave",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:foul",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:fountain",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:foxhole",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:frat",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:freelance",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:fringe",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:frontal",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:froze",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:frustrated",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:fudge",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:functions",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:fuss",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:gadget",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:garter",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:generations",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:geniuses",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:gently",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:genuinely",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:geographically",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:girly",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:glare",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:glaucoma",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:godspeed",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:goldman",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:gonorrhea",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:goodbody",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:goodie",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:goop",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:gracious",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:grammar",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:grammy",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:grandchildren",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:grave",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:graze",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:greasy",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:greed",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:greedy",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:grope",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:groupie",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:guilt",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:haggle",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:hamper",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:handkerchief",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:handyman",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:harboring",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:hardy",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:harpist",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:hasty",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:hawaiian",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:headache",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:headboard",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:headline",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:headrest",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:heather",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:heck",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:heidi",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:height",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:heirloom",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:hence",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:herbivores",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:hiccups",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:highway",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:hola",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:holocaust",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:homeless",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:homesick",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:homey",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:homicide",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:horizontal",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:hostages",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:houston",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:humdinger",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:humour",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:hymn",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:hypnotize",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:hypothetical",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:icing",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:iffy",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:igneous",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:illegally",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:illness",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:impact",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:impaired",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:impartial",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:impersonating",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:imply",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:impromptu",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:improv",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:increase",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:indoor",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:industry",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:inexcusable",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:infinite",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:inflict",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:injury",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:inn",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:insemination",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:insensitive",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:inseparable",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:instructor",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:intend",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:intently",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:inter",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:internal",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:intravenous",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:invisibility",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:invoice",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:irritate",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:itty",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:jackpot",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:jarvis",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:jinx",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:jock",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:jogging",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:johnson",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:judgement",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:junk",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:jury",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:kindling",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:knack",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:knickers",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:knockers",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:knot",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:krista",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:kurt",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:lana",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:landscape",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:lane",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:lassie",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:leader",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:leafy",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:leap",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:leaver",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:legacy",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:legend",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:lid",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:lifeguards",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:lightly",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:lima",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:limo",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:linguistics",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:litigious",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:lobby",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:local",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:locations",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:lone",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:phrase:look after",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:phrase:look forward to",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:luau",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:lugging",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:lunges",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:macaroon",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:madeleines",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:magnetism",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:mahogany",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:mainsail",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:makeover",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:mammoth",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:mannequin",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:manny",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:mar",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:marked",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:marking",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:marvel",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:masculinity",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:massacre",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:meantime",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:meddler",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:mega",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:memorable",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:mentor",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:mercy",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:merge",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:merlot",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:merrill",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:messy",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:michelin",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:microphone",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:mignon",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:milkshake",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:mill",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:millennium",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:millionth",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:mindset",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:minnelli",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:minx",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:misleading",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:mission",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:momentary",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:monet",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:montgomery",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:moors",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:motility",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:mourn",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:mugger",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:musings",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:musket",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:muskogee",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:nacho",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:nakedness",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:namaste",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:nametags",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:nation",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:nerds",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:nevada",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:newcastle",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:newfound",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:nicole",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:ninja",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:nominees",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:nonchalant",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:nonetheless",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:northern",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:notebook",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:noticeable",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:novelty",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:november",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:nun",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:nutmeg",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:oak",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:objectively",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:obsolete",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:ohhhh",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:operator",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:opium",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:orbit",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:orchids",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:organic",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:orgy",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:overdressed",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:overdue",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:overnight",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:overreacted",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:overseas",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:oversized",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:overview",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:overweight",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:owww",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:paddle",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:pageant",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:pager",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:painter",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:palm",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:pamphlets",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:pancho",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:panicking",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:pansy",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:papa",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:parasites",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:parlor",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:passengers",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:pawn",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:peck",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:pep",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:permanent",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:perp",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:pesos",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:pharmaceutical",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:phebe",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:phobe",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:phonetically",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:photograph",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:piccata",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:pier",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:pillar",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:pimple",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:plague",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:platter",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:platting",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:playpen",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:plucking",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:plural",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:pogo",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:politics",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:polo",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:pompous",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:poorly",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:potluck",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:prague",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:prayer",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:preference",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:presence",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:previously",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:pricey",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:primary",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:proceed",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:produced",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:productive",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:profession",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:profit",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:projector",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:promotion",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:protest",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:puddle",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:puke",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:punishment",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:purina",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:purr",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:pushy",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:puss",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:putty",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:qualifications",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:quicker",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:quote",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:rabid",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:radioactive",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:rainy",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:rambled",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:rang",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:rapist",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:rarely",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:receptionist",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:recognition",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:reconsider",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:reflection",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:refresh",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:region",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:reinforcements",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:relinquish",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:relish",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:reliving",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:relocated",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:renew",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:repercussions",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:replica",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:reputation",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:reserve",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:resident",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:retail",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:retiring",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:revealing",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:revolution",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:revolutionary",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:rewind",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:rex",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:richie",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:robbins",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:rocket",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:roller",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:romance",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:roseanne",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:roughly",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:rubella",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:rue",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:rulers",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:rusty",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:sadder",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:sagittarius",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:salesman",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:salsa",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:sambuca",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:sanctity",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:sane",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:sanitation",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:saran",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:scarves",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:sciatic",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:scoreboard",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:scrum",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:seafood",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:seahorse",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:seawater",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:secluded",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:seesaw",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:seller",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:semifinals",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:separately",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:sequoia",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:setback",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:shabby",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:shade",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:shallow",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:shelly",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:shelter",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:showers",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:shredder",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:shrieking",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:sidecar",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:sidekick",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:sincerely",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:skater",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:skates",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:skidmark",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:skylight",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:slang",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:slave",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:sleazy",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:sleigh",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:slick",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:sliver",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:slots",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:smiley",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:smoothest",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:snippy",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:snooty",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:softest",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:software",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:sole",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:solo",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:somewhat",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:sonic",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:sowing",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:soy",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:sparkle",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:spat",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:specially",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:spine",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:spiteful",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:spleen",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:sponsor",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:sprinkle",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:spritzer",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:squash",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:squat",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:squint",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:stabbed",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:stall",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:stemmed",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:sterile",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:stifle",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:stomachache",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:stoop",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:strategy",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:straw",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:stream",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:stroll",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:stub",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:stud",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:studio",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:subatomic",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:subcategories",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:subcategorized",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:sulk",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:sunburned",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:sunset",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:superhero",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:supermodels",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:supervision",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:surfer",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:swamped",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:sweatshirt",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:sycophant",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:symbolism",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:synchronized",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:syrup",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:tack",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:tainted",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:takeout",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:tar",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:teapot",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:teasing",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:technicality",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:technique",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:temper",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:tenants",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:tepid",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:terror",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:terrorists",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:testify",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:testy",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:therefore",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:thief",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:thorough",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:threatening",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:threefold",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:tibidabo",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:tiramisu",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:toasties",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:toiletries",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:toll",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:tollbooth",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:tombstone",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:toothpick",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:topic",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:topnotch",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:torch",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:torte",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:toughie",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:transition",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:transmission",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:transportation",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:traumatic",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:treatment",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:triple",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:trivia",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:tron",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:troop",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:trots",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:turtleneck",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:tuscan",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:tweeze",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:unable",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:uncanny",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:unconscious",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:undercover",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:underprivileged",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:understudy",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:uneven",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:unexpected",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:universal",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:unlike",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:unnatural",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:unsettling",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:unsuccessful",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:untangle",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:untied",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:untrue",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:upper",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:urethra",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:utility",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:uvula",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:value",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:vamp",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:variegation",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:vault",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:verbal",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:veronica",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:vertical",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:vis",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:vitamins",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:vogue",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:volcanoes",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:waistband",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:walter",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:wardrobe",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:wedged",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:weepy",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:whiney",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:whining",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:widower",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:wildly",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:willpower",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:wily",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:witty",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:woken",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:wondrous",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:woolly",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:workers",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:wrinkle",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:yield",
+          "kind": "new"
+        },
+        {
+          "id": "S03-S10:word:youth",
+          "kind": "new"
+        }
+      ],
+      "currentWrongCount": 0,
+      "currentAttemptFailed": false,
+      "wrongChoice": null,
+      "questionStats": {},
+      "correctCount": 0,
+      "wrongCount": 14,
+      "skippedCount": 12,
+      "completedCount": 14,
+      "hardCount": 14
     }
   },
   "reviewMemory": {
@@ -45762,6 +53490,272 @@
       "updatedAt": "2026-07-07T15:05:28.978Z",
       "masteredAt": "2026-07-07T15:05:28.978Z",
       "masteredSource": "review-hard"
+    },
+    "phrase:move in": {
+      "itemId": "phrase:move in",
+      "term": "move in",
+      "type": "phrase",
+      "firstWrongAt": "2026-07-07T15:17:31.792Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S03-S10"
+      ],
+      "questionIds": [
+        "S03-S10:phrase:move in"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-07T15:17:31.792Z",
+      "lastBlockId": "S03-S10",
+      "updatedAt": "2026-07-07T15:17:31.792Z",
+      "masteredAt": "2026-07-07T15:17:31.792Z",
+      "masteredSource": "review-hard"
+    },
+    "word:stripper": {
+      "itemId": "word:stripper",
+      "term": "stripper",
+      "type": "word",
+      "firstWrongAt": "2026-07-07T15:17:51.735Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S03-S10"
+      ],
+      "questionIds": [
+        "S03-S10:word:stripper"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-07T15:17:51.735Z",
+      "lastBlockId": "S03-S10",
+      "updatedAt": "2026-07-07T15:17:51.735Z",
+      "masteredAt": "2026-07-07T15:17:51.735Z",
+      "masteredSource": "review-hard"
+    },
+    "word:swing": {
+      "itemId": "word:swing",
+      "term": "swing",
+      "type": "word",
+      "firstWrongAt": "2026-07-07T15:17:55.320Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S03-S10"
+      ],
+      "questionIds": [
+        "S03-S10:word:swing"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-07T15:17:55.320Z",
+      "lastBlockId": "S03-S10",
+      "updatedAt": "2026-07-07T15:17:55.320Z",
+      "masteredAt": "2026-07-07T15:17:55.320Z",
+      "masteredSource": "review-hard"
+    },
+    "word:rid": {
+      "itemId": "word:rid",
+      "term": "rid",
+      "type": "word",
+      "firstWrongAt": "2026-07-07T15:17:57.121Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S03-S10"
+      ],
+      "questionIds": [
+        "S03-S10:word:rid"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-07T15:17:57.121Z",
+      "lastBlockId": "S03-S10",
+      "updatedAt": "2026-07-07T15:17:57.121Z",
+      "masteredAt": "2026-07-07T15:17:57.121Z",
+      "masteredSource": "review-hard"
+    },
+    "phrase:get rid of": {
+      "itemId": "phrase:get rid of",
+      "term": "get rid of",
+      "type": "phrase",
+      "firstWrongAt": "2026-07-07T15:18:04.072Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S03-S10"
+      ],
+      "questionIds": [
+        "S03-S10:phrase:get rid of"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-07T15:18:04.072Z",
+      "lastBlockId": "S03-S10",
+      "updatedAt": "2026-07-07T15:18:04.072Z",
+      "masteredAt": "2026-07-07T15:18:04.072Z",
+      "masteredSource": "review-hard"
+    },
+    "word:blah": {
+      "itemId": "word:blah",
+      "term": "blah",
+      "type": "word",
+      "firstWrongAt": "2026-07-07T15:18:08.171Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S03-S10"
+      ],
+      "questionIds": [
+        "S03-S10:word:blah"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-07T15:18:08.171Z",
+      "lastBlockId": "S03-S10",
+      "updatedAt": "2026-07-07T15:18:08.171Z",
+      "masteredAt": "2026-07-07T15:18:08.171Z",
+      "masteredSource": "review-hard"
+    },
+    "word:post": {
+      "itemId": "word:post",
+      "term": "post",
+      "type": "word",
+      "firstWrongAt": "2026-07-07T15:18:15.289Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S03-S10"
+      ],
+      "questionIds": [
+        "S03-S10:word:post"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-07T15:18:15.289Z",
+      "lastBlockId": "S03-S10",
+      "updatedAt": "2026-07-07T15:18:15.289Z",
+      "masteredAt": "2026-07-07T15:18:15.289Z",
+      "masteredSource": "review-hard"
+    },
+    "word:bachelor": {
+      "itemId": "word:bachelor",
+      "term": "bachelor",
+      "type": "word",
+      "firstWrongAt": "2026-07-07T15:18:22.055Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S03-S10"
+      ],
+      "questionIds": [
+        "S03-S10:word:bachelor"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-07T15:18:22.055Z",
+      "lastBlockId": "S03-S10",
+      "updatedAt": "2026-07-07T15:18:22.055Z",
+      "masteredAt": "2026-07-07T15:18:22.055Z",
+      "masteredSource": "review-hard"
+    },
+    "word:adoption": {
+      "itemId": "word:adoption",
+      "term": "adoption",
+      "type": "word",
+      "firstWrongAt": "2026-07-07T15:18:28.025Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S03-S10"
+      ],
+      "questionIds": [
+        "S03-S10:word:adoption"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-07T15:18:28.025Z",
+      "lastBlockId": "S03-S10",
+      "updatedAt": "2026-07-07T15:18:28.025Z",
+      "masteredAt": "2026-07-07T15:18:28.025Z",
+      "masteredSource": "review-hard"
+    },
+    "word:annulment": {
+      "itemId": "word:annulment",
+      "term": "annulment",
+      "type": "word",
+      "firstWrongAt": "2026-07-07T15:18:30.587Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S03-S10"
+      ],
+      "questionIds": [
+        "S03-S10:word:annulment"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-07T15:18:30.587Z",
+      "lastBlockId": "S03-S10",
+      "updatedAt": "2026-07-07T15:18:30.587Z",
+      "masteredAt": "2026-07-07T15:18:30.587Z",
+      "masteredSource": "review-hard"
+    },
+    "word:nanny": {
+      "itemId": "word:nanny",
+      "term": "nanny",
+      "type": "word",
+      "firstWrongAt": "2026-07-07T15:18:35.424Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S03-S10"
+      ],
+      "questionIds": [
+        "S03-S10:word:nanny"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-07T15:18:35.424Z",
+      "lastBlockId": "S03-S10",
+      "updatedAt": "2026-07-07T15:18:35.424Z",
+      "masteredAt": "2026-07-07T15:18:35.424Z",
+      "masteredSource": "review-hard"
+    },
+    "phrase:come up with": {
+      "itemId": "phrase:come up with",
+      "term": "come up with",
+      "type": "phrase",
+      "firstWrongAt": "2026-07-07T15:18:42.911Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S03-S10"
+      ],
+      "questionIds": [
+        "S03-S10:phrase:come up with"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-07T15:18:42.911Z",
+      "lastBlockId": "S03-S10",
+      "updatedAt": "2026-07-07T15:18:42.912Z",
+      "masteredAt": "2026-07-07T15:18:42.912Z",
+      "masteredSource": "review-hard"
+    },
+    "word:groom": {
+      "itemId": "word:groom",
+      "term": "groom",
+      "type": "word",
+      "firstWrongAt": "2026-07-07T15:18:49.213Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S03-S10"
+      ],
+      "questionIds": [
+        "S03-S10:word:groom"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-07T15:18:49.213Z",
+      "lastBlockId": "S03-S10",
+      "updatedAt": "2026-07-07T15:18:49.213Z",
+      "masteredAt": "2026-07-07T15:18:49.213Z",
+      "masteredSource": "review-hard"
+    },
+    "word:pregnancy": {
+      "itemId": "word:pregnancy",
+      "term": "pregnancy",
+      "type": "word",
+      "firstWrongAt": "2026-07-07T15:18:57.146Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S03-S10"
+      ],
+      "questionIds": [
+        "S03-S10:word:pregnancy"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-07T15:18:57.146Z",
+      "lastBlockId": "S03-S10",
+      "updatedAt": "2026-07-07T15:18:57.146Z",
+      "masteredAt": "2026-07-07T15:18:57.146Z",
+      "masteredSource": "review-hard"
     }
   },
   "reviewMemoryDeletedAt": {
@@ -46900,8 +54894,20 @@
     "word:watcha": "2026-07-07T15:05:10.563Z",
     "word:watchin": "2026-07-07T15:05:13.547Z",
     "word:weinberg": "2026-07-07T15:05:17.356Z",
-    "word:wonderfully": "2026-07-07T15:05:25.133Z"
+    "word:wonderfully": "2026-07-07T15:05:25.133Z",
+    "phrase:give up": "2026-07-07T15:17:33.798Z",
+    "word:porn": "2026-07-07T15:17:35.784Z",
+    "word:professor": "2026-07-07T15:17:42.784Z",
+    "word:flirt": "2026-07-07T15:17:49.434Z",
+    "word:student": "2026-07-07T15:17:58.565Z",
+    "word:forward": "2026-07-07T15:18:11.541Z",
+    "word:robot": "2026-07-07T15:18:18.423Z",
+    "word:available": "2026-07-07T15:18:24.121Z",
+    "phrase:run into": "2026-07-07T15:18:37.476Z",
+    "word:health": "2026-07-07T15:18:38.910Z",
+    "word:invitation": "2026-07-07T15:18:47.228Z",
+    "word:private": "2026-07-07T15:18:58.831Z"
   },
-  "savedAt": "2026-07-07T15:05:31.973Z",
-  "syncedAt": "2026-07-07T15:05:31.973Z"
+  "savedAt": "2026-07-07T15:19:04.419Z",
+  "syncedAt": "2026-07-07T15:19:04.419Z"
 }
