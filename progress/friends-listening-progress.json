@@ -595,7 +595,7 @@
     "word:compliment": 5,
     "word:slut": 1,
     "word:steam": 5,
-    "word:necklace": 1,
+    "word:necklace": 5,
     "word:pumpkin": 5,
     "word:swallow": 5,
     "word:erase": 5,
@@ -609,7 +609,7 @@
     "word:bust": 5,
     "word:cleaner": 5,
     "word:float": 5,
-    "word:react": 4,
+    "word:react": 5,
     "word:spill": 5,
     "word:pepper": 5,
     "word:pile": 5,
@@ -4000,7 +4000,10 @@
     "word:danger": 5,
     "word:highest": 5,
     "word:host": 5,
-    "phrase:look on": 5
+    "phrase:look on": 5,
+    "word:minister": 5,
+    "word:relative": 5,
+    "word:season": 5
   },
   "scoreUpdatedAt": {
     "word:smelly": "2026-07-04T13:44:01.296Z",
@@ -4596,7 +4599,7 @@
     "word:compliment": "2026-07-08T13:14:09.446Z",
     "word:slut": "2026-06-04T14:37:01.366Z",
     "word:steam": "2026-06-24T12:14:12.688Z",
-    "word:necklace": "2026-06-04T14:37:04.932Z",
+    "word:necklace": "2026-07-08T13:15:05.588Z",
     "word:pumpkin": "2026-06-04T14:37:06.488Z",
     "word:swallow": "2026-06-24T12:14:18.021Z",
     "word:erase": "2026-06-04T14:37:11.022Z",
@@ -4610,7 +4613,7 @@
     "word:bust": "2026-07-01T12:42:00.162Z",
     "word:cleaner": "2026-06-04T14:37:33.559Z",
     "word:float": "2026-06-04T14:37:36.038Z",
-    "word:react": "2026-06-04T14:37:39.661Z",
+    "word:react": "2026-07-08T13:15:08.332Z",
     "word:spill": "2026-07-01T12:42:10.007Z",
     "word:pepper": "2026-06-24T11:45:46.205Z",
     "word:pile": "2026-07-03T15:11:33.468Z",
@@ -8154,7 +8157,10 @@
     "word:danger": "2026-07-08T13:14:13.821Z",
     "word:highest": "2026-07-08T13:14:22.584Z",
     "word:host": "2026-07-08T13:14:27.009Z",
-    "phrase:look on": "2026-07-08T13:14:29.006Z"
+    "phrase:look on": "2026-07-08T13:14:29.006Z",
+    "word:minister": "2026-07-08T13:14:55.955Z",
+    "word:relative": "2026-07-08T13:15:11.954Z",
+    "word:season": "2026-07-08T13:15:16.555Z"
   },
   "scoreDeletedAt": {
     "word:valentines": "2026-06-04T13:10:50Z",
@@ -8314,41 +8320,6 @@
   "resetAt": null,
   "notes": {},
   "history": [
-    {
-      "itemId": "word:tushy",
-      "previous": 1,
-      "score": 5,
-      "source": "review-hard",
-      "at": "2026-07-05T13:14:36.821Z"
-    },
-    {
-      "itemId": "word:backward",
-      "previous": null,
-      "score": 5,
-      "source": "review-hard",
-      "at": "2026-07-05T13:14:41.991Z"
-    },
-    {
-      "itemId": "word:bleed",
-      "previous": null,
-      "score": 5,
-      "source": "review-skip",
-      "at": "2026-07-05T13:14:44.338Z"
-    },
-    {
-      "itemId": "word:briefcase",
-      "previous": 4,
-      "score": 5,
-      "source": "review-skip",
-      "at": "2026-07-05T13:14:51.215Z"
-    },
-    {
-      "itemId": "word:brownie",
-      "previous": 1,
-      "score": 5,
-      "source": "review-hard",
-      "at": "2026-07-05T13:14:55.126Z"
-    },
     {
       "itemId": "word:capable",
       "previous": null,
@@ -13913,6 +13884,41 @@
       "score": 5,
       "source": "review-hard",
       "at": "2026-07-08T13:14:31.790Z"
+    },
+    {
+      "itemId": "word:minister",
+      "previous": null,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-08T13:14:55.955Z"
+    },
+    {
+      "itemId": "word:necklace",
+      "previous": 1,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-08T13:15:05.588Z"
+    },
+    {
+      "itemId": "word:react",
+      "previous": 4,
+      "score": 5,
+      "source": "review-skip",
+      "at": "2026-07-08T13:15:08.332Z"
+    },
+    {
+      "itemId": "word:relative",
+      "previous": null,
+      "score": 5,
+      "source": "review-skip",
+      "at": "2026-07-08T13:15:11.954Z"
+    },
+    {
+      "itemId": "word:season",
+      "previous": null,
+      "score": 5,
+      "source": "review-skip",
+      "at": "2026-07-08T13:15:16.555Z"
     }
   ],
   "reviewEngineVersion": 2,
@@ -19220,26 +19226,6 @@
       "blockId": "S03-S10",
       "total": 1945,
       "queue": [
-        {
-          "id": "S03-S10:word:minister",
-          "kind": "new"
-        },
-        {
-          "id": "S03-S10:word:necklace",
-          "kind": "new"
-        },
-        {
-          "id": "S03-S10:word:react",
-          "kind": "new"
-        },
-        {
-          "id": "S03-S10:word:relative",
-          "kind": "new"
-        },
-        {
-          "id": "S03-S10:word:season",
-          "kind": "new"
-        },
         {
           "id": "S03-S10:word:slut",
           "kind": "new"
@@ -26626,10 +26612,10 @@
       "wrongChoice": null,
       "questionStats": {},
       "correctCount": 0,
-      "wrongCount": 42,
-      "skippedCount": 53,
-      "completedCount": 42,
-      "hardCount": 42
+      "wrongCount": 44,
+      "skippedCount": 56,
+      "completedCount": 44,
+      "hardCount": 44
     }
   },
   "reviewMemory": {
@@ -54106,6 +54092,44 @@
       "updatedAt": "2026-07-08T13:14:31.790Z",
       "masteredAt": "2026-07-08T13:14:31.790Z",
       "masteredSource": "review-hard"
+    },
+    "word:minister": {
+      "itemId": "word:minister",
+      "term": "minister",
+      "type": "word",
+      "firstWrongAt": "2026-07-08T13:14:55.955Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S03-S10"
+      ],
+      "questionIds": [
+        "S03-S10:word:minister"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-08T13:14:55.955Z",
+      "lastBlockId": "S03-S10",
+      "updatedAt": "2026-07-08T13:14:55.955Z",
+      "masteredAt": "2026-07-08T13:14:55.955Z",
+      "masteredSource": "review-hard"
+    },
+    "word:necklace": {
+      "itemId": "word:necklace",
+      "term": "necklace",
+      "type": "word",
+      "firstWrongAt": "2026-07-08T13:15:05.588Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S03-S10"
+      ],
+      "questionIds": [
+        "S03-S10:word:necklace"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-08T13:15:05.588Z",
+      "lastBlockId": "S03-S10",
+      "updatedAt": "2026-07-08T13:15:05.588Z",
+      "masteredAt": "2026-07-08T13:15:05.588Z",
+      "masteredSource": "review-hard"
     }
   },
   "reviewMemoryDeletedAt": {
@@ -55297,8 +55321,11 @@
     "word:danger": "2026-07-08T13:14:13.821Z",
     "word:highest": "2026-07-08T13:14:22.584Z",
     "word:host": "2026-07-08T13:14:27.009Z",
-    "phrase:look on": "2026-07-08T13:14:29.006Z"
+    "phrase:look on": "2026-07-08T13:14:29.006Z",
+    "word:react": "2026-07-08T13:15:08.332Z",
+    "word:relative": "2026-07-08T13:15:11.954Z",
+    "word:season": "2026-07-08T13:15:16.555Z"
   },
-  "savedAt": "2026-07-08T13:14:36.052Z",
-  "syncedAt": "2026-07-08T13:14:36.052Z"
+  "savedAt": "2026-07-08T13:15:21.817Z",
+  "syncedAt": "2026-07-08T13:15:21.817Z"
 }
