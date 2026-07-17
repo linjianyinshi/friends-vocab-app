@@ -199,43 +199,43 @@
     "word:brownie": 5,
     "word:cafeteria": 5,
     "word:casserole": 5,
-    "word:checkbook": 4,
-    "word:chipper": 1,
+    "word:checkbook": 5,
+    "word:chipper": 5,
     "word:chocolate": 5,
     "word:coffee": 5,
-    "word:connelly": 1,
-    "word:courtside": 1,
+    "word:connelly": 5,
+    "word:courtside": 5,
     "word:cramp": 5,
     "word:cranky": 5,
     "word:cushion": 5,
     "word:decorate": 5,
     "word:didn": 5,
-    "word:dreamt": 1,
-    "word:dropper": 1,
-    "word:escrow": 1,
+    "word:dreamt": 5,
+    "word:dropper": 5,
+    "word:escrow": 5,
     "word:eww": 5,
-    "word:fajitas": 1,
+    "word:fajitas": 5,
     "word:freaky": 5,
     "word:granddaughter": 5,
-    "word:gumball": 1,
+    "word:gumball": 5,
     "word:hamburger": 5,
     "word:hamster": 5,
     "word:handcuff": 5,
-    "word:hostess": 1,
-    "word:insanely": 1,
+    "word:hostess": 5,
+    "word:insanely": 5,
     "word:intimidated": 5,
-    "word:jackass": 1,
+    "word:jackass": 5,
     "word:jerk": 5,
     "word:ladle": 5,
     "word:lce": 5,
-    "word:licorice": 1,
+    "word:licorice": 5,
     "word:luckiest": 5,
     "word:marinara": 5,
     "word:marsha": 5,
-    "word:mento": 1,
+    "word:mento": 5,
     "word:misunderstand": 5,
     "word:misunderstood": 5,
-    "word:moni": 1,
+    "word:moni": 5,
     "word:nauseous": 5,
     "word:neurosurgeon": 5,
     "word:okey": 5,
@@ -907,7 +907,7 @@
     "word:disappear": 5,
     "word:elbow": 5,
     "word:hanger": 5,
-    "word:instinct": 1,
+    "word:instinct": 5,
     "word:olive": 5,
     "word:orthodontist": 5,
     "word:peep": 5,
@@ -932,13 +932,13 @@
     "word:craving": 5,
     "word:cuff": 5,
     "word:delicate": 5,
-    "word:doorknob": 1,
+    "word:doorknob": 5,
     "word:ease": 5,
     "word:fart": 5,
     "word:goose": 5,
     "word:hog": 5,
-    "word:hottie": 1,
-    "word:inspector": 1,
+    "word:hottie": 5,
+    "word:inspector": 5,
     "word:melon": 5,
     "word:mitchell": 5,
     "word:pasta": 1,
@@ -955,8 +955,8 @@
     "word:usher": 5,
     "word:autograph": 5,
     "word:bearer": 5,
-    "word:divert": 1,
-    "word:intern": 1,
+    "word:divert": 5,
+    "word:intern": 5,
     "word:salami": 1,
     "word:spade": 5,
     "word:squish": 1,
@@ -967,7 +967,7 @@
     "word:toothbrush": 5,
     "word:widow": 5,
     "word:dana": 5,
-    "word:delta": 1,
+    "word:delta": 5,
     "word:pediatrician": 1,
     "word:sous": 5,
     "word:stilts": 5,
@@ -983,7 +983,7 @@
     "word:cruise": 5,
     "word:fabric": 5,
     "word:flavor": 5,
-    "word:jaw": 1,
+    "word:jaw": 5,
     "word:juicy": 5,
     "word:kitten": 5,
     "word:sack": 5,
@@ -1001,7 +1001,7 @@
     "word:forbid": 5,
     "word:gimme": 5,
     "word:horribly": 5,
-    "word:ketchup": 1,
+    "word:ketchup": 5,
     "word:moist": 5,
     "word:pointer": 1,
     "word:rope": 5,
@@ -1009,11 +1009,11 @@
     "word:barge": 5,
     "word:bong": 5,
     "word:brunch": 5,
-    "word:cheesy": 1,
-    "word:goalie": 1,
-    "word:gorilla": 1,
+    "word:cheesy": 5,
+    "word:goalie": 5,
+    "word:gorilla": 5,
     "word:heh": 5,
-    "word:leak": 1,
+    "word:leak": 5,
     "word:pong": 1,
     "word:slash": 5,
     "word:strain": 1,
@@ -4166,7 +4166,47 @@
     "word:bravo": 5,
     "word:bro": 5,
     "word:cage": 5,
-    "word:carbon": 5
+    "word:carbon": 5,
+    "word:chapel": 5,
+    "word:collar": 5,
+    "word:comment": 5,
+    "word:compete": 5,
+    "word:curiosity": 5,
+    "phrase:cut off": 5,
+    "word:desert": 5,
+    "word:design": 5,
+    "word:direct": 5,
+    "word:donor": 5,
+    "word:drama": 5,
+    "word:effective": 5,
+    "word:effort": 5,
+    "word:entertain": 5,
+    "word:fairly": 5,
+    "word:fever": 5,
+    "word:finest": 5,
+    "word:foundation": 5,
+    "word:freedom": 5,
+    "word:guarantee": 5,
+    "word:happily": 5,
+    "word:highlight": 5,
+    "word:hilarious": 5,
+    "word:hollow": 5,
+    "word:honesty": 5,
+    "word:ingredient": 5,
+    "word:investment": 5,
+    "word:journey": 5,
+    "word:landlord": 5,
+    "word:log": 5,
+    "phrase:make a big deal": 5,
+    "phrase:make sense": 5,
+    "word:matthew": 5,
+    "word:meanwhile": 5,
+    "word:monster": 5,
+    "word:moron": 5,
+    "word:movement": 5,
+    "word:nominated": 5,
+    "word:non": 5,
+    "word:nor": 5
   },
   "scoreUpdatedAt": {
     "word:smelly": "2026-07-04T13:44:01.296Z",
@@ -4366,43 +4406,43 @@
     "word:brownie": "2026-07-05T13:14:55.126Z",
     "word:cafeteria": "2026-06-26T14:30:48.953Z",
     "word:casserole": "2026-07-15T14:29:20.978Z",
-    "word:checkbook": "2026-06-04T12:19:37.679Z",
-    "word:chipper": "2026-06-04T12:19:39.097Z",
+    "word:checkbook": "2026-07-17T13:26:30.850Z",
+    "word:chipper": "2026-07-17T13:26:33.318Z",
     "word:chocolate": "2026-06-04T12:19:41.013Z",
     "word:coffee": "2026-06-04T12:19:42.546Z",
-    "word:connelly": "2026-06-04T12:19:44.880Z",
-    "word:courtside": "2026-06-04T12:19:56.165Z",
+    "word:connelly": "2026-07-17T13:26:41.372Z",
+    "word:courtside": "2026-07-17T13:26:44.356Z",
     "word:cramp": "2026-07-03T15:19:50.118Z",
     "word:cranky": "2026-07-07T14:35:26.501Z",
     "word:cushion": "2026-06-24T16:13:34.355Z",
     "word:decorate": "2026-07-04T15:07:28.162Z",
     "word:didn": "2026-06-26T14:31:36.509Z",
-    "word:dreamt": "2026-06-04T12:20:23.053Z",
-    "word:dropper": "2026-06-04T12:20:24.954Z",
-    "word:escrow": "2026-06-04T12:20:36.846Z",
+    "word:dreamt": "2026-07-17T13:27:18.087Z",
+    "word:dropper": "2026-07-17T13:27:19.968Z",
+    "word:escrow": "2026-07-17T13:27:30.506Z",
     "word:eww": "2026-06-26T14:31:50.770Z",
-    "word:fajitas": "2026-06-04T12:20:56.027Z",
+    "word:fajitas": "2026-07-17T13:27:36.967Z",
     "word:freaky": "2026-06-26T15:28:17.768Z",
     "word:granddaughter": "2026-06-04T12:21:02.361Z",
-    "word:gumball": "2026-06-04T12:21:06.478Z",
+    "word:gumball": "2026-07-17T13:28:03.094Z",
     "word:hamburger": "2026-06-04T12:21:08.678Z",
     "word:hamster": "2026-06-04T12:21:14.246Z",
     "word:handcuff": "2026-07-15T14:20:37.641Z",
-    "word:hostess": "2026-06-04T12:21:29.949Z",
-    "word:insanely": "2026-06-04T12:21:32.632Z",
+    "word:hostess": "2026-07-17T13:28:25.418Z",
+    "word:insanely": "2026-07-17T13:28:36.015Z",
     "word:intimidated": "2026-07-03T15:33:29.889Z",
-    "word:jackass": "2026-06-04T12:21:39.818Z",
+    "word:jackass": "2026-07-17T13:28:47.910Z",
     "word:jerk": "2026-06-30T12:30:21.223Z",
     "word:ladle": "2026-07-07T14:37:26.598Z",
     "word:lce": "2026-06-04T12:21:52.901Z",
-    "word:licorice": "2026-06-04T12:22:00.671Z",
+    "word:licorice": "2026-07-17T13:29:05.637Z",
     "word:luckiest": "2026-06-04T12:22:20.078Z",
     "word:marinara": "2026-07-07T14:37:45.243Z",
     "word:marsha": "2026-06-26T15:29:07.847Z",
-    "word:mento": "2026-06-04T12:22:30.547Z",
+    "word:mento": "2026-07-17T13:29:25.700Z",
     "word:misunderstand": "2026-06-26T14:27:35.354Z",
     "word:misunderstood": "2026-07-02T12:19:46.356Z",
-    "word:moni": "2026-06-04T12:22:49.692Z",
+    "word:moni": "2026-07-17T13:29:28.277Z",
     "word:nauseous": "2026-07-03T15:33:47.950Z",
     "word:neurosurgeon": "2026-07-07T14:38:00.866Z",
     "word:okey": "2026-06-04T12:23:06.427Z",
@@ -5074,7 +5114,7 @@
     "word:disappear": "2026-06-05T13:39:40.096Z",
     "word:elbow": "2026-06-26T14:32:23.903Z",
     "word:hanger": "2026-06-26T15:28:27.739Z",
-    "word:instinct": "2026-06-05T13:39:48.990Z",
+    "word:instinct": "2026-07-17T13:28:39.646Z",
     "word:olive": "2026-07-07T14:38:06.124Z",
     "word:orthodontist": "2026-06-26T15:30:20.794Z",
     "word:peep": "2026-06-26T15:30:23.060Z",
@@ -5099,13 +5139,13 @@
     "word:craving": "2026-07-03T15:32:30.533Z",
     "word:cuff": "2026-07-07T14:35:28.254Z",
     "word:delicate": "2026-06-26T14:31:59.148Z",
-    "word:doorknob": "2026-06-05T13:42:00.056Z",
+    "word:doorknob": "2026-07-17T13:27:09.703Z",
     "word:ease": "2026-07-07T14:35:55.193Z",
     "word:fart": "2026-07-07T14:36:04.019Z",
     "word:goose": "2026-06-26T15:28:23.687Z",
     "word:hog": "2026-07-03T15:33:19.822Z",
-    "word:hottie": "2026-06-05T13:42:06.668Z",
-    "word:inspector": "2026-06-05T13:42:09.071Z",
+    "word:hottie": "2026-07-17T13:28:27.759Z",
+    "word:inspector": "2026-07-17T13:28:37.909Z",
     "word:melon": "2026-07-02T12:20:08.848Z",
     "word:mitchell": "2026-07-03T15:33:34.496Z",
     "word:pasta": "2026-06-05T13:42:12.857Z",
@@ -5122,8 +5162,8 @@
     "word:usher": "2026-07-02T12:20:24.241Z",
     "word:autograph": "2026-07-15T14:28:55.230Z",
     "word:bearer": "2026-07-07T14:33:32.690Z",
-    "word:divert": "2026-06-05T13:42:55.887Z",
-    "word:intern": "2026-06-05T13:42:57.121Z",
+    "word:divert": "2026-07-17T13:27:05.060Z",
+    "word:intern": "2026-07-17T13:28:40.904Z",
     "word:salami": "2026-06-05T13:43:07.543Z",
     "word:spade": "2026-07-03T15:34:31.822Z",
     "word:squish": "2026-06-05T13:43:10.102Z",
@@ -5134,7 +5174,7 @@
     "word:toothbrush": "2026-06-05T13:43:20.387Z",
     "word:widow": "2026-07-02T12:20:54.851Z",
     "word:dana": "2026-07-07T14:35:41.415Z",
-    "word:delta": "2026-06-05T13:43:35.737Z",
+    "word:delta": "2026-07-17T13:26:52.044Z",
     "word:pediatrician": "2026-06-05T13:43:49.250Z",
     "word:sous": "2026-07-07T14:39:05.764Z",
     "word:stilts": "2026-07-07T14:39:14.778Z",
@@ -5150,7 +5190,7 @@
     "word:cruise": "2026-07-03T15:32:36.128Z",
     "word:fabric": "2026-06-26T15:28:15.626Z",
     "word:flavor": "2026-06-26T14:32:50.905Z",
-    "word:jaw": "2026-06-05T13:44:47.784Z",
+    "word:jaw": "2026-07-17T13:28:49.187Z",
     "word:juicy": "2026-07-02T12:19:36.734Z",
     "word:kitten": "2026-06-05T13:44:53.251Z",
     "word:sack": "2026-07-03T15:34:18.574Z",
@@ -5168,7 +5208,7 @@
     "word:forbid": "2026-07-07T14:36:12.056Z",
     "word:gimme": "2026-06-26T15:28:20.851Z",
     "word:horribly": "2026-06-26T15:29:09.568Z",
-    "word:ketchup": "2026-06-07T13:34:17.895Z",
+    "word:ketchup": "2026-07-17T13:28:58.420Z",
     "word:moist": "2026-07-03T15:33:39.851Z",
     "word:pointer": "2026-06-07T13:34:22.912Z",
     "word:rope": "2026-07-07T14:38:39.018Z",
@@ -5176,11 +5216,11 @@
     "word:barge": "2026-07-03T15:31:15.677Z",
     "word:bong": "2026-07-07T14:33:44.471Z",
     "word:brunch": "2026-07-07T14:33:55.122Z",
-    "word:cheesy": "2026-06-07T13:34:39.065Z",
-    "word:goalie": "2026-06-07T13:34:39.998Z",
-    "word:gorilla": "2026-06-07T13:34:43.732Z",
+    "word:cheesy": "2026-07-17T13:26:32.355Z",
+    "word:goalie": "2026-07-17T13:27:52.827Z",
+    "word:gorilla": "2026-07-17T13:27:56.294Z",
     "word:heh": "2026-07-02T12:20:00.573Z",
-    "word:leak": "2026-06-07T13:34:46.350Z",
+    "word:leak": "2026-07-17T13:29:04.129Z",
     "word:pong": "2026-06-07T13:34:47.366Z",
     "word:slash": "2026-07-02T12:19:58.745Z",
     "word:strain": "2026-06-07T13:34:50.081Z",
@@ -8486,7 +8526,47 @@
     "word:bravo": "2026-07-15T14:29:10.636Z",
     "word:bro": "2026-07-15T14:29:12.815Z",
     "word:cage": "2026-07-15T14:29:15.699Z",
-    "word:carbon": "2026-07-15T14:29:19.685Z"
+    "word:carbon": "2026-07-15T14:29:19.685Z",
+    "word:chapel": "2026-07-17T13:26:27.917Z",
+    "word:collar": "2026-07-17T13:26:34.912Z",
+    "word:comment": "2026-07-17T13:26:38.661Z",
+    "word:compete": "2026-07-17T13:26:39.970Z",
+    "word:curiosity": "2026-07-17T13:26:46.941Z",
+    "phrase:cut off": "2026-07-17T13:26:49.605Z",
+    "word:desert": "2026-07-17T13:26:58.120Z",
+    "word:design": "2026-07-17T13:27:00.206Z",
+    "word:direct": "2026-07-17T13:27:03.369Z",
+    "word:donor": "2026-07-17T13:27:07.157Z",
+    "word:drama": "2026-07-17T13:27:14.653Z",
+    "word:effective": "2026-07-17T13:27:22.597Z",
+    "word:effort": "2026-07-17T13:27:24.926Z",
+    "word:entertain": "2026-07-17T13:27:28.941Z",
+    "word:fairly": "2026-07-17T13:27:32.725Z",
+    "word:fever": "2026-07-17T13:27:42.277Z",
+    "word:finest": "2026-07-17T13:27:44.500Z",
+    "word:foundation": "2026-07-17T13:27:47.626Z",
+    "word:freedom": "2026-07-17T13:27:49.109Z",
+    "word:guarantee": "2026-07-17T13:28:00.880Z",
+    "word:happily": "2026-07-17T13:28:05.168Z",
+    "word:highlight": "2026-07-17T13:28:11.715Z",
+    "word:hilarious": "2026-07-17T13:28:16.823Z",
+    "word:hollow": "2026-07-17T13:28:18.971Z",
+    "word:honesty": "2026-07-17T13:28:22.023Z",
+    "word:ingredient": "2026-07-17T13:28:32.757Z",
+    "word:investment": "2026-07-17T13:28:42.761Z",
+    "word:journey": "2026-07-17T13:28:57.040Z",
+    "word:landlord": "2026-07-17T13:29:00.383Z",
+    "word:log": "2026-07-17T13:29:07.717Z",
+    "phrase:make a big deal": "2026-07-17T13:29:12.093Z",
+    "phrase:make sense": "2026-07-17T13:29:16.329Z",
+    "word:matthew": "2026-07-17T13:29:20.068Z",
+    "word:meanwhile": "2026-07-17T13:29:23.486Z",
+    "word:monster": "2026-07-17T13:29:31.426Z",
+    "word:moron": "2026-07-17T13:29:33.337Z",
+    "word:movement": "2026-07-17T13:29:36.548Z",
+    "word:nominated": "2026-07-17T13:29:40.411Z",
+    "word:non": "2026-07-17T13:29:42.805Z",
+    "word:nor": "2026-07-17T13:29:44.599Z"
   },
   "scoreDeletedAt": {
     "word:valentines": "2026-06-04T13:10:50Z",
@@ -8646,482 +8726,6 @@
   "resetAt": null,
   "notes": {},
   "history": [
-    {
-      "itemId": "word:diner",
-      "previous": 1,
-      "score": 5,
-      "source": "review-hard",
-      "at": "2026-07-07T14:41:43.211Z"
-    },
-    {
-      "itemId": "word:doggy",
-      "previous": 1,
-      "score": 5,
-      "source": "review-skip",
-      "at": "2026-07-07T14:41:44.936Z"
-    },
-    {
-      "itemId": "word:doody",
-      "previous": 1,
-      "score": 5,
-      "source": "review-skip",
-      "at": "2026-07-07T14:41:49.062Z"
-    },
-    {
-      "itemId": "word:dumpster",
-      "previous": 1,
-      "score": 5,
-      "source": "review-hard",
-      "at": "2026-07-07T14:41:51.004Z"
-    },
-    {
-      "itemId": "word:duncan",
-      "previous": null,
-      "score": 5,
-      "source": "review-skip",
-      "at": "2026-07-07T14:41:54.116Z"
-    },
-    {
-      "itemId": "word:easter",
-      "previous": null,
-      "score": 5,
-      "source": "review-hard",
-      "at": "2026-07-07T14:41:57.830Z"
-    },
-    {
-      "itemId": "word:emotion",
-      "previous": null,
-      "score": 5,
-      "source": "review-skip",
-      "at": "2026-07-07T14:41:59.456Z"
-    },
-    {
-      "itemId": "word:expand",
-      "previous": null,
-      "score": 5,
-      "source": "review-skip",
-      "at": "2026-07-07T14:42:04.952Z"
-    },
-    {
-      "itemId": "phrase:fall off",
-      "previous": null,
-      "score": 5,
-      "source": "review-hard",
-      "at": "2026-07-07T14:42:07.144Z"
-    },
-    {
-      "itemId": "word:fewer",
-      "previous": null,
-      "score": 5,
-      "source": "review-skip",
-      "at": "2026-07-07T14:42:09.772Z"
-    },
-    {
-      "itemId": "word:flat",
-      "previous": null,
-      "score": 5,
-      "source": "review-hard",
-      "at": "2026-07-07T14:42:11.234Z"
-    },
-    {
-      "itemId": "word:goo",
-      "previous": 1,
-      "score": 5,
-      "source": "review-skip",
-      "at": "2026-07-07T14:42:14.500Z"
-    },
-    {
-      "itemId": "word:harsh",
-      "previous": null,
-      "score": 5,
-      "source": "review-hard",
-      "at": "2026-07-07T14:42:16.362Z"
-    },
-    {
-      "itemId": "word:hay",
-      "previous": null,
-      "score": 5,
-      "source": "review-hard",
-      "at": "2026-07-07T14:42:18.354Z"
-    },
-    {
-      "itemId": "word:hickey",
-      "previous": 1,
-      "score": 5,
-      "source": "review-hard",
-      "at": "2026-07-07T14:42:20.330Z"
-    },
-    {
-      "itemId": "word:howdy",
-      "previous": 1,
-      "score": 5,
-      "source": "review-hard",
-      "at": "2026-07-07T14:42:21.972Z"
-    },
-    {
-      "itemId": "word:irresponsible",
-      "previous": 1,
-      "score": 5,
-      "source": "review-hard",
-      "at": "2026-07-07T14:42:25.614Z"
-    },
-    {
-      "itemId": "word:jerry",
-      "previous": null,
-      "score": 5,
-      "source": "review-hard",
-      "at": "2026-07-07T14:42:30.489Z"
-    },
-    {
-      "itemId": "word:joyous",
-      "previous": 1,
-      "score": 5,
-      "source": "review-hard",
-      "at": "2026-07-07T14:42:33.499Z"
-    },
-    {
-      "itemId": "word:judgmental",
-      "previous": 1,
-      "score": 5,
-      "source": "review-skip",
-      "at": "2026-07-07T14:42:37.195Z"
-    },
-    {
-      "itemId": "word:lazy",
-      "previous": null,
-      "score": 5,
-      "source": "review-skip",
-      "at": "2026-07-07T14:42:39.438Z"
-    },
-    {
-      "itemId": "word:leftover",
-      "previous": 1,
-      "score": 5,
-      "source": "review-hard",
-      "at": "2026-07-07T14:42:42.245Z"
-    },
-    {
-      "itemId": "word:lion",
-      "previous": null,
-      "score": 5,
-      "source": "review-hard",
-      "at": "2026-07-07T14:42:44.154Z"
-    },
-    {
-      "itemId": "word:loaf",
-      "previous": 1,
-      "score": 5,
-      "source": "review-hard",
-      "at": "2026-07-07T14:42:51.710Z"
-    },
-    {
-      "itemId": "phrase:look into",
-      "previous": null,
-      "score": 5,
-      "source": "review-hard",
-      "at": "2026-07-07T14:42:54.169Z"
-    },
-    {
-      "itemId": "phrase:look over",
-      "previous": null,
-      "score": 5,
-      "source": "review-hard",
-      "at": "2026-07-07T14:42:57.530Z"
-    },
-    {
-      "itemId": "word:lounge",
-      "previous": null,
-      "score": 5,
-      "source": "review-hard",
-      "at": "2026-07-07T14:43:03.312Z"
-    },
-    {
-      "itemId": "word:main",
-      "previous": null,
-      "score": 5,
-      "source": "review-skip",
-      "at": "2026-07-07T14:43:05.430Z"
-    },
-    {
-      "itemId": "word:maniac",
-      "previous": 1,
-      "score": 5,
-      "source": "review-hard",
-      "at": "2026-07-07T14:43:07.871Z"
-    },
-    {
-      "itemId": "word:mayonnaise",
-      "previous": 1,
-      "score": 5,
-      "source": "review-hard",
-      "at": "2026-07-07T14:43:11.184Z"
-    },
-    {
-      "itemId": "word:menus",
-      "previous": 1,
-      "score": 5,
-      "source": "review-hard",
-      "at": "2026-07-07T14:43:14.716Z"
-    },
-    {
-      "itemId": "word:mighty",
-      "previous": null,
-      "score": 5,
-      "source": "review-hard",
-      "at": "2026-07-07T14:43:19.882Z"
-    },
-    {
-      "itemId": "word:minor",
-      "previous": null,
-      "score": 5,
-      "source": "review-hard",
-      "at": "2026-07-07T14:43:23.345Z"
-    },
-    {
-      "itemId": "word:modern",
-      "previous": null,
-      "score": 5,
-      "source": "review-skip",
-      "at": "2026-07-07T14:43:26.521Z"
-    },
-    {
-      "itemId": "word:mornin",
-      "previous": 1,
-      "score": 5,
-      "source": "review-skip",
-      "at": "2026-07-07T14:43:33.146Z"
-    },
-    {
-      "itemId": "word:munch",
-      "previous": 1,
-      "score": 5,
-      "source": "review-hard",
-      "at": "2026-07-07T14:43:36.880Z"
-    },
-    {
-      "itemId": "word:musician",
-      "previous": null,
-      "score": 5,
-      "source": "review-skip",
-      "at": "2026-07-07T14:43:40.556Z"
-    },
-    {
-      "itemId": "word:nuclear",
-      "previous": null,
-      "score": 5,
-      "source": "review-skip",
-      "at": "2026-07-07T14:43:43.885Z"
-    },
-    {
-      "itemId": "word:opposed",
-      "previous": null,
-      "score": 5,
-      "source": "review-skip",
-      "at": "2026-07-07T14:43:50.978Z"
-    },
-    {
-      "itemId": "word:ordinary",
-      "previous": null,
-      "score": 5,
-      "source": "review-hard",
-      "at": "2026-07-07T14:43:55.821Z"
-    },
-    {
-      "itemId": "word:pause",
-      "previous": null,
-      "score": 5,
-      "source": "review-skip",
-      "at": "2026-07-07T14:43:58.846Z"
-    },
-    {
-      "itemId": "word:paycheck",
-      "previous": 1,
-      "score": 5,
-      "source": "review-hard",
-      "at": "2026-07-07T14:44:01.442Z"
-    },
-    {
-      "itemId": "word:policy",
-      "previous": null,
-      "score": 5,
-      "source": "review-skip",
-      "at": "2026-07-07T14:44:05.251Z"
-    },
-    {
-      "itemId": "word:property",
-      "previous": null,
-      "score": 5,
-      "source": "review-hard",
-      "at": "2026-07-07T14:44:08.935Z"
-    },
-    {
-      "itemId": "word:pursue",
-      "previous": null,
-      "score": 5,
-      "source": "review-hard",
-      "at": "2026-07-07T14:44:11.194Z"
-    },
-    {
-      "itemId": "word:reaction",
-      "previous": null,
-      "score": 5,
-      "source": "review-skip",
-      "at": "2026-07-07T14:44:14.740Z"
-    },
-    {
-      "itemId": "word:recover",
-      "previous": null,
-      "score": 5,
-      "source": "review-hard",
-      "at": "2026-07-07T14:44:17.599Z"
-    },
-    {
-      "itemId": "word:refill",
-      "previous": 1,
-      "score": 5,
-      "source": "review-skip",
-      "at": "2026-07-07T14:44:21.112Z"
-    },
-    {
-      "itemId": "word:refuse",
-      "previous": null,
-      "score": 5,
-      "source": "review-skip",
-      "at": "2026-07-07T14:44:23.058Z"
-    },
-    {
-      "itemId": "word:represent",
-      "previous": null,
-      "score": 5,
-      "source": "review-hard",
-      "at": "2026-07-07T14:44:25.251Z"
-    },
-    {
-      "itemId": "word:reschedule",
-      "previous": 2,
-      "score": 5,
-      "source": "review-skip",
-      "at": "2026-07-07T14:44:28.797Z"
-    },
-    {
-      "itemId": "word:satin",
-      "previous": 1,
-      "score": 5,
-      "source": "review-hard",
-      "at": "2026-07-07T14:44:32.173Z"
-    },
-    {
-      "itemId": "word:saute",
-      "previous": 1,
-      "score": 5,
-      "source": "review-hard",
-      "at": "2026-07-07T14:44:34.081Z"
-    },
-    {
-      "itemId": "word:singer",
-      "previous": null,
-      "score": 5,
-      "source": "review-skip",
-      "at": "2026-07-07T14:44:35.494Z"
-    },
-    {
-      "itemId": "word:soo",
-      "previous": null,
-      "score": 5,
-      "source": "review-skip",
-      "at": "2026-07-07T14:44:37.094Z"
-    },
-    {
-      "itemId": "word:spite",
-      "previous": null,
-      "score": 5,
-      "source": "review-hard",
-      "at": "2026-07-07T14:44:38.791Z"
-    },
-    {
-      "itemId": "word:steep",
-      "previous": 1,
-      "score": 5,
-      "source": "review-hard",
-      "at": "2026-07-07T14:44:40.755Z"
-    },
-    {
-      "itemId": "word:stitches",
-      "previous": 1,
-      "score": 5,
-      "source": "review-hard",
-      "at": "2026-07-07T14:44:42.888Z"
-    },
-    {
-      "itemId": "word:strap",
-      "previous": 1,
-      "score": 5,
-      "source": "review-hard",
-      "at": "2026-07-07T14:44:44.333Z"
-    },
-    {
-      "itemId": "word:suspicious",
-      "previous": null,
-      "score": 5,
-      "source": "review-hard",
-      "at": "2026-07-07T14:44:45.879Z"
-    },
-    {
-      "itemId": "word:swell",
-      "previous": 1,
-      "score": 5,
-      "source": "review-hard",
-      "at": "2026-07-07T14:44:53.960Z"
-    },
-    {
-      "itemId": "word:tab",
-      "previous": 1,
-      "score": 5,
-      "source": "review-skip",
-      "at": "2026-07-07T14:45:00.523Z"
-    },
-    {
-      "itemId": "word:tacky",
-      "previous": 1,
-      "score": 5,
-      "source": "review-hard",
-      "at": "2026-07-07T14:45:01.986Z"
-    },
-    {
-      "itemId": "word:terrified",
-      "previous": null,
-      "score": 5,
-      "source": "review-hard",
-      "at": "2026-07-07T14:45:05.132Z"
-    },
-    {
-      "itemId": "word:territory",
-      "previous": null,
-      "score": 5,
-      "source": "review-hard",
-      "at": "2026-07-07T14:45:07.096Z"
-    },
-    {
-      "itemId": "word:threshold",
-      "previous": 1,
-      "score": 5,
-      "source": "review-hard",
-      "at": "2026-07-07T14:45:13.242Z"
-    },
-    {
-      "itemId": "word:tiara",
-      "previous": 1,
-      "score": 5,
-      "source": "review-hard",
-      "at": "2026-07-07T14:45:16.426Z"
-    },
-    {
-      "itemId": "word:tucked",
-      "previous": 1,
-      "score": 5,
-      "source": "review-hard",
-      "at": "2026-07-07T14:45:19.551Z"
-    },
     {
       "itemId": "word:unhappy",
       "previous": null,
@@ -14245,6 +13849,482 @@
       "score": 5,
       "source": "review-hard",
       "at": "2026-07-15T14:29:20.978Z"
+    },
+    {
+      "itemId": "word:chapel",
+      "previous": null,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-17T13:26:27.917Z"
+    },
+    {
+      "itemId": "word:checkbook",
+      "previous": 4,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-17T13:26:30.850Z"
+    },
+    {
+      "itemId": "word:cheesy",
+      "previous": 1,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-17T13:26:32.355Z"
+    },
+    {
+      "itemId": "word:chipper",
+      "previous": 1,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-17T13:26:33.318Z"
+    },
+    {
+      "itemId": "word:collar",
+      "previous": null,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-17T13:26:34.912Z"
+    },
+    {
+      "itemId": "word:comment",
+      "previous": null,
+      "score": 5,
+      "source": "review-skip",
+      "at": "2026-07-17T13:26:38.661Z"
+    },
+    {
+      "itemId": "word:compete",
+      "previous": null,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-17T13:26:39.970Z"
+    },
+    {
+      "itemId": "word:connelly",
+      "previous": 1,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-17T13:26:41.372Z"
+    },
+    {
+      "itemId": "word:courtside",
+      "previous": 1,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-17T13:26:44.356Z"
+    },
+    {
+      "itemId": "word:curiosity",
+      "previous": null,
+      "score": 5,
+      "source": "review-skip",
+      "at": "2026-07-17T13:26:46.941Z"
+    },
+    {
+      "itemId": "phrase:cut off",
+      "previous": null,
+      "score": 5,
+      "source": "review-skip",
+      "at": "2026-07-17T13:26:49.605Z"
+    },
+    {
+      "itemId": "word:delta",
+      "previous": 1,
+      "score": 5,
+      "source": "review-skip",
+      "at": "2026-07-17T13:26:52.044Z"
+    },
+    {
+      "itemId": "word:desert",
+      "previous": null,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-17T13:26:58.120Z"
+    },
+    {
+      "itemId": "word:design",
+      "previous": null,
+      "score": 5,
+      "source": "review-skip",
+      "at": "2026-07-17T13:27:00.206Z"
+    },
+    {
+      "itemId": "word:direct",
+      "previous": null,
+      "score": 5,
+      "source": "review-skip",
+      "at": "2026-07-17T13:27:03.369Z"
+    },
+    {
+      "itemId": "word:divert",
+      "previous": 1,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-17T13:27:05.060Z"
+    },
+    {
+      "itemId": "word:donor",
+      "previous": null,
+      "score": 5,
+      "source": "review-skip",
+      "at": "2026-07-17T13:27:07.157Z"
+    },
+    {
+      "itemId": "word:doorknob",
+      "previous": 1,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-17T13:27:09.703Z"
+    },
+    {
+      "itemId": "word:drama",
+      "previous": null,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-17T13:27:14.653Z"
+    },
+    {
+      "itemId": "word:dreamt",
+      "previous": 1,
+      "score": 5,
+      "source": "review-skip",
+      "at": "2026-07-17T13:27:18.087Z"
+    },
+    {
+      "itemId": "word:dropper",
+      "previous": 1,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-17T13:27:19.968Z"
+    },
+    {
+      "itemId": "word:effective",
+      "previous": null,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-17T13:27:22.597Z"
+    },
+    {
+      "itemId": "word:effort",
+      "previous": null,
+      "score": 5,
+      "source": "review-skip",
+      "at": "2026-07-17T13:27:24.926Z"
+    },
+    {
+      "itemId": "word:entertain",
+      "previous": null,
+      "score": 5,
+      "source": "review-skip",
+      "at": "2026-07-17T13:27:28.941Z"
+    },
+    {
+      "itemId": "word:escrow",
+      "previous": 1,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-17T13:27:30.506Z"
+    },
+    {
+      "itemId": "word:fairly",
+      "previous": null,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-17T13:27:32.725Z"
+    },
+    {
+      "itemId": "word:fajitas",
+      "previous": 1,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-17T13:27:36.967Z"
+    },
+    {
+      "itemId": "word:fever",
+      "previous": null,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-17T13:27:42.277Z"
+    },
+    {
+      "itemId": "word:finest",
+      "previous": null,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-17T13:27:44.500Z"
+    },
+    {
+      "itemId": "word:foundation",
+      "previous": null,
+      "score": 5,
+      "source": "review-skip",
+      "at": "2026-07-17T13:27:47.626Z"
+    },
+    {
+      "itemId": "word:freedom",
+      "previous": null,
+      "score": 5,
+      "source": "review-skip",
+      "at": "2026-07-17T13:27:49.109Z"
+    },
+    {
+      "itemId": "word:goalie",
+      "previous": 1,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-17T13:27:52.827Z"
+    },
+    {
+      "itemId": "word:gorilla",
+      "previous": 1,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-17T13:27:56.294Z"
+    },
+    {
+      "itemId": "word:guarantee",
+      "previous": null,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-17T13:28:00.880Z"
+    },
+    {
+      "itemId": "word:gumball",
+      "previous": 1,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-17T13:28:03.094Z"
+    },
+    {
+      "itemId": "word:happily",
+      "previous": null,
+      "score": 5,
+      "source": "review-skip",
+      "at": "2026-07-17T13:28:05.168Z"
+    },
+    {
+      "itemId": "word:highlight",
+      "previous": null,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-17T13:28:11.715Z"
+    },
+    {
+      "itemId": "word:hilarious",
+      "previous": null,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-17T13:28:16.823Z"
+    },
+    {
+      "itemId": "word:hollow",
+      "previous": null,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-17T13:28:18.971Z"
+    },
+    {
+      "itemId": "word:honesty",
+      "previous": null,
+      "score": 5,
+      "source": "review-skip",
+      "at": "2026-07-17T13:28:22.023Z"
+    },
+    {
+      "itemId": "word:hostess",
+      "previous": 1,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-17T13:28:25.418Z"
+    },
+    {
+      "itemId": "word:hottie",
+      "previous": 1,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-17T13:28:27.759Z"
+    },
+    {
+      "itemId": "word:ingredient",
+      "previous": null,
+      "score": 5,
+      "source": "review-skip",
+      "at": "2026-07-17T13:28:32.757Z"
+    },
+    {
+      "itemId": "word:insanely",
+      "previous": 1,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-17T13:28:36.015Z"
+    },
+    {
+      "itemId": "word:inspector",
+      "previous": 1,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-17T13:28:37.909Z"
+    },
+    {
+      "itemId": "word:instinct",
+      "previous": 1,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-17T13:28:39.646Z"
+    },
+    {
+      "itemId": "word:intern",
+      "previous": 1,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-17T13:28:40.904Z"
+    },
+    {
+      "itemId": "word:investment",
+      "previous": null,
+      "score": 5,
+      "source": "review-skip",
+      "at": "2026-07-17T13:28:42.761Z"
+    },
+    {
+      "itemId": "word:jackass",
+      "previous": 1,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-17T13:28:47.910Z"
+    },
+    {
+      "itemId": "word:jaw",
+      "previous": 1,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-17T13:28:49.187Z"
+    },
+    {
+      "itemId": "word:journey",
+      "previous": null,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-17T13:28:57.040Z"
+    },
+    {
+      "itemId": "word:ketchup",
+      "previous": 1,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-17T13:28:58.420Z"
+    },
+    {
+      "itemId": "word:landlord",
+      "previous": null,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-17T13:29:00.383Z"
+    },
+    {
+      "itemId": "word:leak",
+      "previous": 1,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-17T13:29:04.129Z"
+    },
+    {
+      "itemId": "word:licorice",
+      "previous": 1,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-17T13:29:05.637Z"
+    },
+    {
+      "itemId": "word:log",
+      "previous": null,
+      "score": 5,
+      "source": "review-skip",
+      "at": "2026-07-17T13:29:07.717Z"
+    },
+    {
+      "itemId": "phrase:make a big deal",
+      "previous": null,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-17T13:29:12.093Z"
+    },
+    {
+      "itemId": "phrase:make sense",
+      "previous": null,
+      "score": 5,
+      "source": "review-skip",
+      "at": "2026-07-17T13:29:16.329Z"
+    },
+    {
+      "itemId": "word:matthew",
+      "previous": null,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-17T13:29:20.068Z"
+    },
+    {
+      "itemId": "word:meanwhile",
+      "previous": null,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-17T13:29:23.486Z"
+    },
+    {
+      "itemId": "word:mento",
+      "previous": 1,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-17T13:29:25.700Z"
+    },
+    {
+      "itemId": "word:moni",
+      "previous": 1,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-17T13:29:28.277Z"
+    },
+    {
+      "itemId": "word:monster",
+      "previous": null,
+      "score": 5,
+      "source": "review-skip",
+      "at": "2026-07-17T13:29:31.426Z"
+    },
+    {
+      "itemId": "word:moron",
+      "previous": null,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-17T13:29:33.337Z"
+    },
+    {
+      "itemId": "word:movement",
+      "previous": null,
+      "score": 5,
+      "source": "review-skip",
+      "at": "2026-07-17T13:29:36.548Z"
+    },
+    {
+      "itemId": "word:nominated",
+      "previous": null,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-17T13:29:40.411Z"
+    },
+    {
+      "itemId": "word:non",
+      "previous": null,
+      "score": 5,
+      "source": "review-skip",
+      "at": "2026-07-17T13:29:42.805Z"
+    },
+    {
+      "itemId": "word:nor",
+      "previous": null,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-07-17T13:29:44.599Z"
     }
   ],
   "reviewEngineVersion": 2,
@@ -19552,278 +19632,6 @@
       "blockId": "S03-S10",
       "total": 1945,
       "queue": [
-        {
-          "id": "S03-S10:word:chapel",
-          "kind": "new"
-        },
-        {
-          "id": "S03-S10:word:checkbook",
-          "kind": "new"
-        },
-        {
-          "id": "S03-S10:word:cheesy",
-          "kind": "new"
-        },
-        {
-          "id": "S03-S10:word:chipper",
-          "kind": "new"
-        },
-        {
-          "id": "S03-S10:word:collar",
-          "kind": "new"
-        },
-        {
-          "id": "S03-S10:word:comment",
-          "kind": "new"
-        },
-        {
-          "id": "S03-S10:word:compete",
-          "kind": "new"
-        },
-        {
-          "id": "S03-S10:word:connelly",
-          "kind": "new"
-        },
-        {
-          "id": "S03-S10:word:courtside",
-          "kind": "new"
-        },
-        {
-          "id": "S03-S10:word:curiosity",
-          "kind": "new"
-        },
-        {
-          "id": "S03-S10:phrase:cut off",
-          "kind": "new"
-        },
-        {
-          "id": "S03-S10:word:delta",
-          "kind": "new"
-        },
-        {
-          "id": "S03-S10:word:desert",
-          "kind": "new"
-        },
-        {
-          "id": "S03-S10:word:design",
-          "kind": "new"
-        },
-        {
-          "id": "S03-S10:word:direct",
-          "kind": "new"
-        },
-        {
-          "id": "S03-S10:word:divert",
-          "kind": "new"
-        },
-        {
-          "id": "S03-S10:word:donor",
-          "kind": "new"
-        },
-        {
-          "id": "S03-S10:word:doorknob",
-          "kind": "new"
-        },
-        {
-          "id": "S03-S10:word:drama",
-          "kind": "new"
-        },
-        {
-          "id": "S03-S10:word:dreamt",
-          "kind": "new"
-        },
-        {
-          "id": "S03-S10:word:dropper",
-          "kind": "new"
-        },
-        {
-          "id": "S03-S10:word:effective",
-          "kind": "new"
-        },
-        {
-          "id": "S03-S10:word:effort",
-          "kind": "new"
-        },
-        {
-          "id": "S03-S10:word:entertain",
-          "kind": "new"
-        },
-        {
-          "id": "S03-S10:word:escrow",
-          "kind": "new"
-        },
-        {
-          "id": "S03-S10:word:fairly",
-          "kind": "new"
-        },
-        {
-          "id": "S03-S10:word:fajitas",
-          "kind": "new"
-        },
-        {
-          "id": "S03-S10:word:fever",
-          "kind": "new"
-        },
-        {
-          "id": "S03-S10:word:finest",
-          "kind": "new"
-        },
-        {
-          "id": "S03-S10:word:foundation",
-          "kind": "new"
-        },
-        {
-          "id": "S03-S10:word:freedom",
-          "kind": "new"
-        },
-        {
-          "id": "S03-S10:word:goalie",
-          "kind": "new"
-        },
-        {
-          "id": "S03-S10:word:gorilla",
-          "kind": "new"
-        },
-        {
-          "id": "S03-S10:word:guarantee",
-          "kind": "new"
-        },
-        {
-          "id": "S03-S10:word:gumball",
-          "kind": "new"
-        },
-        {
-          "id": "S03-S10:word:happily",
-          "kind": "new"
-        },
-        {
-          "id": "S03-S10:word:highlight",
-          "kind": "new"
-        },
-        {
-          "id": "S03-S10:word:hilarious",
-          "kind": "new"
-        },
-        {
-          "id": "S03-S10:word:hollow",
-          "kind": "new"
-        },
-        {
-          "id": "S03-S10:word:honesty",
-          "kind": "new"
-        },
-        {
-          "id": "S03-S10:word:hostess",
-          "kind": "new"
-        },
-        {
-          "id": "S03-S10:word:hottie",
-          "kind": "new"
-        },
-        {
-          "id": "S03-S10:word:ingredient",
-          "kind": "new"
-        },
-        {
-          "id": "S03-S10:word:insanely",
-          "kind": "new"
-        },
-        {
-          "id": "S03-S10:word:inspector",
-          "kind": "new"
-        },
-        {
-          "id": "S03-S10:word:instinct",
-          "kind": "new"
-        },
-        {
-          "id": "S03-S10:word:intern",
-          "kind": "new"
-        },
-        {
-          "id": "S03-S10:word:investment",
-          "kind": "new"
-        },
-        {
-          "id": "S03-S10:word:jackass",
-          "kind": "new"
-        },
-        {
-          "id": "S03-S10:word:jaw",
-          "kind": "new"
-        },
-        {
-          "id": "S03-S10:word:journey",
-          "kind": "new"
-        },
-        {
-          "id": "S03-S10:word:ketchup",
-          "kind": "new"
-        },
-        {
-          "id": "S03-S10:word:landlord",
-          "kind": "new"
-        },
-        {
-          "id": "S03-S10:word:leak",
-          "kind": "new"
-        },
-        {
-          "id": "S03-S10:word:licorice",
-          "kind": "new"
-        },
-        {
-          "id": "S03-S10:word:log",
-          "kind": "new"
-        },
-        {
-          "id": "S03-S10:phrase:make a big deal",
-          "kind": "new"
-        },
-        {
-          "id": "S03-S10:phrase:make sense",
-          "kind": "new"
-        },
-        {
-          "id": "S03-S10:word:matthew",
-          "kind": "new"
-        },
-        {
-          "id": "S03-S10:word:meanwhile",
-          "kind": "new"
-        },
-        {
-          "id": "S03-S10:word:mento",
-          "kind": "new"
-        },
-        {
-          "id": "S03-S10:word:moni",
-          "kind": "new"
-        },
-        {
-          "id": "S03-S10:word:monster",
-          "kind": "new"
-        },
-        {
-          "id": "S03-S10:word:moron",
-          "kind": "new"
-        },
-        {
-          "id": "S03-S10:word:movement",
-          "kind": "new"
-        },
-        {
-          "id": "S03-S10:word:nominated",
-          "kind": "new"
-        },
-        {
-          "id": "S03-S10:word:non",
-          "kind": "new"
-        },
-        {
-          "id": "S03-S10:word:nor",
-          "kind": "new"
-        },
         {
           "id": "S03-S10:word:obsessed",
           "kind": "new"
@@ -25838,10 +25646,10 @@
       "wrongChoice": null,
       "questionStats": {},
       "correctCount": 0,
-      "wrongCount": 199,
-      "skippedCount": 176,
-      "completedCount": 199,
-      "hardCount": 199
+      "wrongCount": 246,
+      "skippedCount": 197,
+      "completedCount": 246,
+      "hardCount": 246
     }
   },
   "reviewMemory": {
@@ -56301,6 +56109,899 @@
       "updatedAt": "2026-07-15T14:29:20.978Z",
       "masteredAt": "2026-07-15T14:29:20.978Z",
       "masteredSource": "review-hard"
+    },
+    "word:chapel": {
+      "itemId": "word:chapel",
+      "term": "chapel",
+      "type": "word",
+      "firstWrongAt": "2026-07-17T13:26:27.917Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S03-S10"
+      ],
+      "questionIds": [
+        "S03-S10:word:chapel"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-17T13:26:27.917Z",
+      "lastBlockId": "S03-S10",
+      "updatedAt": "2026-07-17T13:26:27.917Z",
+      "masteredAt": "2026-07-17T13:26:27.917Z",
+      "masteredSource": "review-hard"
+    },
+    "word:checkbook": {
+      "itemId": "word:checkbook",
+      "term": "checkbook",
+      "type": "word",
+      "firstWrongAt": "2026-07-17T13:26:30.850Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S03-S10"
+      ],
+      "questionIds": [
+        "S03-S10:word:checkbook"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-17T13:26:30.850Z",
+      "lastBlockId": "S03-S10",
+      "updatedAt": "2026-07-17T13:26:30.850Z",
+      "masteredAt": "2026-07-17T13:26:30.850Z",
+      "masteredSource": "review-hard"
+    },
+    "word:cheesy": {
+      "itemId": "word:cheesy",
+      "term": "cheesy",
+      "type": "word",
+      "firstWrongAt": "2026-07-17T13:26:32.355Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S03-S10"
+      ],
+      "questionIds": [
+        "S03-S10:word:cheesy"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-17T13:26:32.355Z",
+      "lastBlockId": "S03-S10",
+      "updatedAt": "2026-07-17T13:26:32.355Z",
+      "masteredAt": "2026-07-17T13:26:32.355Z",
+      "masteredSource": "review-hard"
+    },
+    "word:chipper": {
+      "itemId": "word:chipper",
+      "term": "chipper",
+      "type": "word",
+      "firstWrongAt": "2026-07-17T13:26:33.318Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S03-S10"
+      ],
+      "questionIds": [
+        "S03-S10:word:chipper"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-17T13:26:33.318Z",
+      "lastBlockId": "S03-S10",
+      "updatedAt": "2026-07-17T13:26:33.318Z",
+      "masteredAt": "2026-07-17T13:26:33.318Z",
+      "masteredSource": "review-hard"
+    },
+    "word:collar": {
+      "itemId": "word:collar",
+      "term": "collar",
+      "type": "word",
+      "firstWrongAt": "2026-07-17T13:26:34.912Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S03-S10"
+      ],
+      "questionIds": [
+        "S03-S10:word:collar"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-17T13:26:34.912Z",
+      "lastBlockId": "S03-S10",
+      "updatedAt": "2026-07-17T13:26:34.912Z",
+      "masteredAt": "2026-07-17T13:26:34.912Z",
+      "masteredSource": "review-hard"
+    },
+    "word:compete": {
+      "itemId": "word:compete",
+      "term": "compete",
+      "type": "word",
+      "firstWrongAt": "2026-07-17T13:26:39.970Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S03-S10"
+      ],
+      "questionIds": [
+        "S03-S10:word:compete"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-17T13:26:39.970Z",
+      "lastBlockId": "S03-S10",
+      "updatedAt": "2026-07-17T13:26:39.970Z",
+      "masteredAt": "2026-07-17T13:26:39.970Z",
+      "masteredSource": "review-hard"
+    },
+    "word:connelly": {
+      "itemId": "word:connelly",
+      "term": "connelly",
+      "type": "word",
+      "firstWrongAt": "2026-07-17T13:26:41.372Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S03-S10"
+      ],
+      "questionIds": [
+        "S03-S10:word:connelly"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-17T13:26:41.372Z",
+      "lastBlockId": "S03-S10",
+      "updatedAt": "2026-07-17T13:26:41.372Z",
+      "masteredAt": "2026-07-17T13:26:41.372Z",
+      "masteredSource": "review-hard"
+    },
+    "word:courtside": {
+      "itemId": "word:courtside",
+      "term": "courtside",
+      "type": "word",
+      "firstWrongAt": "2026-07-17T13:26:44.355Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S03-S10"
+      ],
+      "questionIds": [
+        "S03-S10:word:courtside"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-17T13:26:44.355Z",
+      "lastBlockId": "S03-S10",
+      "updatedAt": "2026-07-17T13:26:44.356Z",
+      "masteredAt": "2026-07-17T13:26:44.356Z",
+      "masteredSource": "review-hard"
+    },
+    "word:desert": {
+      "itemId": "word:desert",
+      "term": "desert",
+      "type": "word",
+      "firstWrongAt": "2026-07-17T13:26:58.120Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S03-S10"
+      ],
+      "questionIds": [
+        "S03-S10:word:desert"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-17T13:26:58.120Z",
+      "lastBlockId": "S03-S10",
+      "updatedAt": "2026-07-17T13:26:58.120Z",
+      "masteredAt": "2026-07-17T13:26:58.120Z",
+      "masteredSource": "review-hard"
+    },
+    "word:divert": {
+      "itemId": "word:divert",
+      "term": "divert",
+      "type": "word",
+      "firstWrongAt": "2026-07-17T13:27:05.060Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S03-S10"
+      ],
+      "questionIds": [
+        "S03-S10:word:divert"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-17T13:27:05.060Z",
+      "lastBlockId": "S03-S10",
+      "updatedAt": "2026-07-17T13:27:05.060Z",
+      "masteredAt": "2026-07-17T13:27:05.060Z",
+      "masteredSource": "review-hard"
+    },
+    "word:doorknob": {
+      "itemId": "word:doorknob",
+      "term": "doorknob",
+      "type": "word",
+      "firstWrongAt": "2026-07-17T13:27:09.703Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S03-S10"
+      ],
+      "questionIds": [
+        "S03-S10:word:doorknob"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-17T13:27:09.703Z",
+      "lastBlockId": "S03-S10",
+      "updatedAt": "2026-07-17T13:27:09.703Z",
+      "masteredAt": "2026-07-17T13:27:09.703Z",
+      "masteredSource": "review-hard"
+    },
+    "word:drama": {
+      "itemId": "word:drama",
+      "term": "drama",
+      "type": "word",
+      "firstWrongAt": "2026-07-17T13:27:14.653Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S03-S10"
+      ],
+      "questionIds": [
+        "S03-S10:word:drama"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-17T13:27:14.653Z",
+      "lastBlockId": "S03-S10",
+      "updatedAt": "2026-07-17T13:27:14.653Z",
+      "masteredAt": "2026-07-17T13:27:14.653Z",
+      "masteredSource": "review-hard"
+    },
+    "word:dropper": {
+      "itemId": "word:dropper",
+      "term": "dropper",
+      "type": "word",
+      "firstWrongAt": "2026-07-17T13:27:19.968Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S03-S10"
+      ],
+      "questionIds": [
+        "S03-S10:word:dropper"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-17T13:27:19.968Z",
+      "lastBlockId": "S03-S10",
+      "updatedAt": "2026-07-17T13:27:19.968Z",
+      "masteredAt": "2026-07-17T13:27:19.968Z",
+      "masteredSource": "review-hard"
+    },
+    "word:effective": {
+      "itemId": "word:effective",
+      "term": "effective",
+      "type": "word",
+      "firstWrongAt": "2026-07-17T13:27:22.597Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S03-S10"
+      ],
+      "questionIds": [
+        "S03-S10:word:effective"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-17T13:27:22.597Z",
+      "lastBlockId": "S03-S10",
+      "updatedAt": "2026-07-17T13:27:22.597Z",
+      "masteredAt": "2026-07-17T13:27:22.597Z",
+      "masteredSource": "review-hard"
+    },
+    "word:escrow": {
+      "itemId": "word:escrow",
+      "term": "escrow",
+      "type": "word",
+      "firstWrongAt": "2026-07-17T13:27:30.506Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S03-S10"
+      ],
+      "questionIds": [
+        "S03-S10:word:escrow"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-17T13:27:30.506Z",
+      "lastBlockId": "S03-S10",
+      "updatedAt": "2026-07-17T13:27:30.506Z",
+      "masteredAt": "2026-07-17T13:27:30.506Z",
+      "masteredSource": "review-hard"
+    },
+    "word:fairly": {
+      "itemId": "word:fairly",
+      "term": "fairly",
+      "type": "word",
+      "firstWrongAt": "2026-07-17T13:27:32.724Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S03-S10"
+      ],
+      "questionIds": [
+        "S03-S10:word:fairly"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-17T13:27:32.724Z",
+      "lastBlockId": "S03-S10",
+      "updatedAt": "2026-07-17T13:27:32.725Z",
+      "masteredAt": "2026-07-17T13:27:32.725Z",
+      "masteredSource": "review-hard"
+    },
+    "word:fajitas": {
+      "itemId": "word:fajitas",
+      "term": "fajitas",
+      "type": "word",
+      "firstWrongAt": "2026-07-17T13:27:36.967Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S03-S10"
+      ],
+      "questionIds": [
+        "S03-S10:word:fajitas"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-17T13:27:36.967Z",
+      "lastBlockId": "S03-S10",
+      "updatedAt": "2026-07-17T13:27:36.967Z",
+      "masteredAt": "2026-07-17T13:27:36.967Z",
+      "masteredSource": "review-hard"
+    },
+    "word:fever": {
+      "itemId": "word:fever",
+      "term": "fever",
+      "type": "word",
+      "firstWrongAt": "2026-07-17T13:27:42.277Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S03-S10"
+      ],
+      "questionIds": [
+        "S03-S10:word:fever"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-17T13:27:42.277Z",
+      "lastBlockId": "S03-S10",
+      "updatedAt": "2026-07-17T13:27:42.277Z",
+      "masteredAt": "2026-07-17T13:27:42.277Z",
+      "masteredSource": "review-hard"
+    },
+    "word:finest": {
+      "itemId": "word:finest",
+      "term": "finest",
+      "type": "word",
+      "firstWrongAt": "2026-07-17T13:27:44.500Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S03-S10"
+      ],
+      "questionIds": [
+        "S03-S10:word:finest"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-17T13:27:44.500Z",
+      "lastBlockId": "S03-S10",
+      "updatedAt": "2026-07-17T13:27:44.500Z",
+      "masteredAt": "2026-07-17T13:27:44.500Z",
+      "masteredSource": "review-hard"
+    },
+    "word:goalie": {
+      "itemId": "word:goalie",
+      "term": "goalie",
+      "type": "word",
+      "firstWrongAt": "2026-07-17T13:27:52.827Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S03-S10"
+      ],
+      "questionIds": [
+        "S03-S10:word:goalie"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-17T13:27:52.827Z",
+      "lastBlockId": "S03-S10",
+      "updatedAt": "2026-07-17T13:27:52.827Z",
+      "masteredAt": "2026-07-17T13:27:52.827Z",
+      "masteredSource": "review-hard"
+    },
+    "word:gorilla": {
+      "itemId": "word:gorilla",
+      "term": "gorilla",
+      "type": "word",
+      "firstWrongAt": "2026-07-17T13:27:56.294Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S03-S10"
+      ],
+      "questionIds": [
+        "S03-S10:word:gorilla"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-17T13:27:56.294Z",
+      "lastBlockId": "S03-S10",
+      "updatedAt": "2026-07-17T13:27:56.294Z",
+      "masteredAt": "2026-07-17T13:27:56.294Z",
+      "masteredSource": "review-hard"
+    },
+    "word:guarantee": {
+      "itemId": "word:guarantee",
+      "term": "guarantee",
+      "type": "word",
+      "firstWrongAt": "2026-07-17T13:28:00.880Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S03-S10"
+      ],
+      "questionIds": [
+        "S03-S10:word:guarantee"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-17T13:28:00.880Z",
+      "lastBlockId": "S03-S10",
+      "updatedAt": "2026-07-17T13:28:00.880Z",
+      "masteredAt": "2026-07-17T13:28:00.880Z",
+      "masteredSource": "review-hard"
+    },
+    "word:gumball": {
+      "itemId": "word:gumball",
+      "term": "gumball",
+      "type": "word",
+      "firstWrongAt": "2026-07-17T13:28:03.094Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S03-S10"
+      ],
+      "questionIds": [
+        "S03-S10:word:gumball"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-17T13:28:03.094Z",
+      "lastBlockId": "S03-S10",
+      "updatedAt": "2026-07-17T13:28:03.094Z",
+      "masteredAt": "2026-07-17T13:28:03.094Z",
+      "masteredSource": "review-hard"
+    },
+    "word:highlight": {
+      "itemId": "word:highlight",
+      "term": "highlight",
+      "type": "word",
+      "firstWrongAt": "2026-07-17T13:28:11.715Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S03-S10"
+      ],
+      "questionIds": [
+        "S03-S10:word:highlight"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-17T13:28:11.715Z",
+      "lastBlockId": "S03-S10",
+      "updatedAt": "2026-07-17T13:28:11.715Z",
+      "masteredAt": "2026-07-17T13:28:11.715Z",
+      "masteredSource": "review-hard"
+    },
+    "word:hilarious": {
+      "itemId": "word:hilarious",
+      "term": "hilarious",
+      "type": "word",
+      "firstWrongAt": "2026-07-17T13:28:16.823Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S03-S10"
+      ],
+      "questionIds": [
+        "S03-S10:word:hilarious"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-17T13:28:16.823Z",
+      "lastBlockId": "S03-S10",
+      "updatedAt": "2026-07-17T13:28:16.823Z",
+      "masteredAt": "2026-07-17T13:28:16.823Z",
+      "masteredSource": "review-hard"
+    },
+    "word:hollow": {
+      "itemId": "word:hollow",
+      "term": "hollow",
+      "type": "word",
+      "firstWrongAt": "2026-07-17T13:28:18.971Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S03-S10"
+      ],
+      "questionIds": [
+        "S03-S10:word:hollow"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-17T13:28:18.971Z",
+      "lastBlockId": "S03-S10",
+      "updatedAt": "2026-07-17T13:28:18.971Z",
+      "masteredAt": "2026-07-17T13:28:18.971Z",
+      "masteredSource": "review-hard"
+    },
+    "word:hostess": {
+      "itemId": "word:hostess",
+      "term": "hostess",
+      "type": "word",
+      "firstWrongAt": "2026-07-17T13:28:25.418Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S03-S10"
+      ],
+      "questionIds": [
+        "S03-S10:word:hostess"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-17T13:28:25.418Z",
+      "lastBlockId": "S03-S10",
+      "updatedAt": "2026-07-17T13:28:25.418Z",
+      "masteredAt": "2026-07-17T13:28:25.418Z",
+      "masteredSource": "review-hard"
+    },
+    "word:hottie": {
+      "itemId": "word:hottie",
+      "term": "hottie",
+      "type": "word",
+      "firstWrongAt": "2026-07-17T13:28:27.759Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S03-S10"
+      ],
+      "questionIds": [
+        "S03-S10:word:hottie"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-17T13:28:27.759Z",
+      "lastBlockId": "S03-S10",
+      "updatedAt": "2026-07-17T13:28:27.759Z",
+      "masteredAt": "2026-07-17T13:28:27.759Z",
+      "masteredSource": "review-hard"
+    },
+    "word:insanely": {
+      "itemId": "word:insanely",
+      "term": "insanely",
+      "type": "word",
+      "firstWrongAt": "2026-07-17T13:28:36.014Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S03-S10"
+      ],
+      "questionIds": [
+        "S03-S10:word:insanely"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-17T13:28:36.014Z",
+      "lastBlockId": "S03-S10",
+      "updatedAt": "2026-07-17T13:28:36.015Z",
+      "masteredAt": "2026-07-17T13:28:36.015Z",
+      "masteredSource": "review-hard"
+    },
+    "word:inspector": {
+      "itemId": "word:inspector",
+      "term": "inspector",
+      "type": "word",
+      "firstWrongAt": "2026-07-17T13:28:37.908Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S03-S10"
+      ],
+      "questionIds": [
+        "S03-S10:word:inspector"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-17T13:28:37.908Z",
+      "lastBlockId": "S03-S10",
+      "updatedAt": "2026-07-17T13:28:37.909Z",
+      "masteredAt": "2026-07-17T13:28:37.909Z",
+      "masteredSource": "review-hard"
+    },
+    "word:instinct": {
+      "itemId": "word:instinct",
+      "term": "instinct",
+      "type": "word",
+      "firstWrongAt": "2026-07-17T13:28:39.646Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S03-S10"
+      ],
+      "questionIds": [
+        "S03-S10:word:instinct"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-17T13:28:39.646Z",
+      "lastBlockId": "S03-S10",
+      "updatedAt": "2026-07-17T13:28:39.646Z",
+      "masteredAt": "2026-07-17T13:28:39.646Z",
+      "masteredSource": "review-hard"
+    },
+    "word:intern": {
+      "itemId": "word:intern",
+      "term": "intern",
+      "type": "word",
+      "firstWrongAt": "2026-07-17T13:28:40.904Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S03-S10"
+      ],
+      "questionIds": [
+        "S03-S10:word:intern"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-17T13:28:40.904Z",
+      "lastBlockId": "S03-S10",
+      "updatedAt": "2026-07-17T13:28:40.904Z",
+      "masteredAt": "2026-07-17T13:28:40.904Z",
+      "masteredSource": "review-hard"
+    },
+    "word:jackass": {
+      "itemId": "word:jackass",
+      "term": "jackass",
+      "type": "word",
+      "firstWrongAt": "2026-07-17T13:28:47.910Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S03-S10"
+      ],
+      "questionIds": [
+        "S03-S10:word:jackass"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-17T13:28:47.910Z",
+      "lastBlockId": "S03-S10",
+      "updatedAt": "2026-07-17T13:28:47.910Z",
+      "masteredAt": "2026-07-17T13:28:47.910Z",
+      "masteredSource": "review-hard"
+    },
+    "word:jaw": {
+      "itemId": "word:jaw",
+      "term": "jaw",
+      "type": "word",
+      "firstWrongAt": "2026-07-17T13:28:49.187Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S03-S10"
+      ],
+      "questionIds": [
+        "S03-S10:word:jaw"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-17T13:28:49.187Z",
+      "lastBlockId": "S03-S10",
+      "updatedAt": "2026-07-17T13:28:49.187Z",
+      "masteredAt": "2026-07-17T13:28:49.187Z",
+      "masteredSource": "review-hard"
+    },
+    "word:journey": {
+      "itemId": "word:journey",
+      "term": "journey",
+      "type": "word",
+      "firstWrongAt": "2026-07-17T13:28:57.040Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S03-S10"
+      ],
+      "questionIds": [
+        "S03-S10:word:journey"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-17T13:28:57.040Z",
+      "lastBlockId": "S03-S10",
+      "updatedAt": "2026-07-17T13:28:57.040Z",
+      "masteredAt": "2026-07-17T13:28:57.040Z",
+      "masteredSource": "review-hard"
+    },
+    "word:ketchup": {
+      "itemId": "word:ketchup",
+      "term": "ketchup",
+      "type": "word",
+      "firstWrongAt": "2026-07-17T13:28:58.420Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S03-S10"
+      ],
+      "questionIds": [
+        "S03-S10:word:ketchup"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-17T13:28:58.420Z",
+      "lastBlockId": "S03-S10",
+      "updatedAt": "2026-07-17T13:28:58.420Z",
+      "masteredAt": "2026-07-17T13:28:58.420Z",
+      "masteredSource": "review-hard"
+    },
+    "word:landlord": {
+      "itemId": "word:landlord",
+      "term": "landlord",
+      "type": "word",
+      "firstWrongAt": "2026-07-17T13:29:00.383Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S03-S10"
+      ],
+      "questionIds": [
+        "S03-S10:word:landlord"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-17T13:29:00.383Z",
+      "lastBlockId": "S03-S10",
+      "updatedAt": "2026-07-17T13:29:00.383Z",
+      "masteredAt": "2026-07-17T13:29:00.383Z",
+      "masteredSource": "review-hard"
+    },
+    "word:leak": {
+      "itemId": "word:leak",
+      "term": "leak",
+      "type": "word",
+      "firstWrongAt": "2026-07-17T13:29:04.129Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S03-S10"
+      ],
+      "questionIds": [
+        "S03-S10:word:leak"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-17T13:29:04.129Z",
+      "lastBlockId": "S03-S10",
+      "updatedAt": "2026-07-17T13:29:04.129Z",
+      "masteredAt": "2026-07-17T13:29:04.129Z",
+      "masteredSource": "review-hard"
+    },
+    "word:licorice": {
+      "itemId": "word:licorice",
+      "term": "licorice",
+      "type": "word",
+      "firstWrongAt": "2026-07-17T13:29:05.637Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S03-S10"
+      ],
+      "questionIds": [
+        "S03-S10:word:licorice"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-17T13:29:05.637Z",
+      "lastBlockId": "S03-S10",
+      "updatedAt": "2026-07-17T13:29:05.637Z",
+      "masteredAt": "2026-07-17T13:29:05.637Z",
+      "masteredSource": "review-hard"
+    },
+    "phrase:make a big deal": {
+      "itemId": "phrase:make a big deal",
+      "term": "make a big deal",
+      "type": "phrase",
+      "firstWrongAt": "2026-07-17T13:29:12.093Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S03-S10"
+      ],
+      "questionIds": [
+        "S03-S10:phrase:make a big deal"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-17T13:29:12.093Z",
+      "lastBlockId": "S03-S10",
+      "updatedAt": "2026-07-17T13:29:12.093Z",
+      "masteredAt": "2026-07-17T13:29:12.093Z",
+      "masteredSource": "review-hard"
+    },
+    "word:matthew": {
+      "itemId": "word:matthew",
+      "term": "matthew",
+      "type": "word",
+      "firstWrongAt": "2026-07-17T13:29:20.068Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S03-S10"
+      ],
+      "questionIds": [
+        "S03-S10:word:matthew"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-17T13:29:20.068Z",
+      "lastBlockId": "S03-S10",
+      "updatedAt": "2026-07-17T13:29:20.068Z",
+      "masteredAt": "2026-07-17T13:29:20.068Z",
+      "masteredSource": "review-hard"
+    },
+    "word:meanwhile": {
+      "itemId": "word:meanwhile",
+      "term": "meanwhile",
+      "type": "word",
+      "firstWrongAt": "2026-07-17T13:29:23.486Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S03-S10"
+      ],
+      "questionIds": [
+        "S03-S10:word:meanwhile"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-17T13:29:23.486Z",
+      "lastBlockId": "S03-S10",
+      "updatedAt": "2026-07-17T13:29:23.486Z",
+      "masteredAt": "2026-07-17T13:29:23.486Z",
+      "masteredSource": "review-hard"
+    },
+    "word:mento": {
+      "itemId": "word:mento",
+      "term": "mento",
+      "type": "word",
+      "firstWrongAt": "2026-07-17T13:29:25.700Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S03-S10"
+      ],
+      "questionIds": [
+        "S03-S10:word:mento"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-17T13:29:25.700Z",
+      "lastBlockId": "S03-S10",
+      "updatedAt": "2026-07-17T13:29:25.700Z",
+      "masteredAt": "2026-07-17T13:29:25.700Z",
+      "masteredSource": "review-hard"
+    },
+    "word:moni": {
+      "itemId": "word:moni",
+      "term": "moni",
+      "type": "word",
+      "firstWrongAt": "2026-07-17T13:29:28.276Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S03-S10"
+      ],
+      "questionIds": [
+        "S03-S10:word:moni"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-17T13:29:28.276Z",
+      "lastBlockId": "S03-S10",
+      "updatedAt": "2026-07-17T13:29:28.277Z",
+      "masteredAt": "2026-07-17T13:29:28.277Z",
+      "masteredSource": "review-hard"
+    },
+    "word:moron": {
+      "itemId": "word:moron",
+      "term": "moron",
+      "type": "word",
+      "firstWrongAt": "2026-07-17T13:29:33.337Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S03-S10"
+      ],
+      "questionIds": [
+        "S03-S10:word:moron"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-17T13:29:33.337Z",
+      "lastBlockId": "S03-S10",
+      "updatedAt": "2026-07-17T13:29:33.337Z",
+      "masteredAt": "2026-07-17T13:29:33.337Z",
+      "masteredSource": "review-hard"
+    },
+    "word:nominated": {
+      "itemId": "word:nominated",
+      "term": "nominated",
+      "type": "word",
+      "firstWrongAt": "2026-07-17T13:29:40.411Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S03-S10"
+      ],
+      "questionIds": [
+        "S03-S10:word:nominated"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-17T13:29:40.411Z",
+      "lastBlockId": "S03-S10",
+      "updatedAt": "2026-07-17T13:29:40.411Z",
+      "masteredAt": "2026-07-17T13:29:40.411Z",
+      "masteredSource": "review-hard"
+    },
+    "word:nor": {
+      "itemId": "word:nor",
+      "term": "nor",
+      "type": "word",
+      "firstWrongAt": "2026-07-17T13:29:44.599Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S03-S10"
+      ],
+      "questionIds": [
+        "S03-S10:word:nor"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-07-17T13:29:44.599Z",
+      "lastBlockId": "S03-S10",
+      "updatedAt": "2026-07-17T13:29:44.599Z",
+      "masteredAt": "2026-07-17T13:29:44.599Z",
+      "masteredSource": "review-hard"
     }
   },
   "reviewMemoryDeletedAt": {
@@ -57615,8 +58316,29 @@
     "word:arrange": "2026-07-15T14:28:49.628Z",
     "word:average": "2026-07-15T14:28:58.939Z",
     "word:bravo": "2026-07-15T14:29:10.636Z",
-    "word:bro": "2026-07-15T14:29:12.815Z"
+    "word:bro": "2026-07-15T14:29:12.815Z",
+    "word:comment": "2026-07-17T13:26:38.661Z",
+    "word:curiosity": "2026-07-17T13:26:46.941Z",
+    "phrase:cut off": "2026-07-17T13:26:49.605Z",
+    "word:delta": "2026-07-17T13:26:52.044Z",
+    "word:design": "2026-07-17T13:27:00.206Z",
+    "word:direct": "2026-07-17T13:27:03.369Z",
+    "word:donor": "2026-07-17T13:27:07.157Z",
+    "word:dreamt": "2026-07-17T13:27:18.086Z",
+    "word:effort": "2026-07-17T13:27:24.926Z",
+    "word:entertain": "2026-07-17T13:27:28.941Z",
+    "word:foundation": "2026-07-17T13:27:47.626Z",
+    "word:freedom": "2026-07-17T13:27:49.109Z",
+    "word:happily": "2026-07-17T13:28:05.168Z",
+    "word:honesty": "2026-07-17T13:28:22.023Z",
+    "word:ingredient": "2026-07-17T13:28:32.757Z",
+    "word:investment": "2026-07-17T13:28:42.761Z",
+    "word:log": "2026-07-17T13:29:07.717Z",
+    "phrase:make sense": "2026-07-17T13:29:16.329Z",
+    "word:monster": "2026-07-17T13:29:31.426Z",
+    "word:movement": "2026-07-17T13:29:36.548Z",
+    "word:non": "2026-07-17T13:29:42.805Z"
   },
-  "savedAt": "2026-07-15T14:29:25.076Z",
-  "syncedAt": "2026-07-15T14:29:25.076Z"
+  "savedAt": "2026-07-17T13:29:49.280Z",
+  "syncedAt": "2026-07-17T13:29:49.280Z"
 }
