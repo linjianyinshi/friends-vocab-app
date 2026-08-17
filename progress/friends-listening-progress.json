@@ -248,7 +248,7 @@
     "word:psyched": 5,
     "word:puppet": 5,
     "word:wipe": 5,
-    "word:willy": 1,
+    "word:willy": 5,
     "word:wig": 5,
     "word:vitamins": 4,
     "word:vis": 1,
@@ -1438,7 +1438,7 @@
     "word:whew": 5,
     "word:wholl": 1,
     "word:whove": 1,
-    "word:wiggle": 1,
+    "word:wiggle": 5,
     "word:workin": 5,
     "word:yuck": 5,
     "word:anchovies": 5,
@@ -4667,7 +4667,34 @@
     "word:wesley": 5,
     "word:westminster": 5,
     "word:wheat": 5,
-    "word:wholesome": 5
+    "word:wholesome": 5,
+    "word:wildness": 5,
+    "word:workout": 5,
+    "word:youngest": 5,
+    "word:zelda": 5,
+    "word:zip": 5,
+    "word:abs": 5,
+    "word:absorb": 5,
+    "word:academic": 5,
+    "word:adjusting": 5,
+    "word:alien": 5,
+    "word:alimony": 5,
+    "word:alphabetically": 5,
+    "word:alternative": 5,
+    "word:altmann": 5,
+    "word:amen": 5,
+    "word:ammonia": 5,
+    "word:amphibian": 5,
+    "word:anderson": 5,
+    "word:ant": 5,
+    "word:anthropologist": 5,
+    "word:anxious": 5,
+    "word:aortic": 5,
+    "word:apostrophe": 5,
+    "word:appearance": 5,
+    "word:applaud": 5,
+    "word:appliance": 5,
+    "word:approach": 5
   },
   "scoreUpdatedAt": {
     "word:smelly": "2026-07-04T13:44:01.296Z",
@@ -4916,7 +4943,7 @@
     "word:psyched": "2026-07-07T14:38:31.042Z",
     "word:puppet": "2026-06-04T12:23:28.149Z",
     "word:wipe": "2026-06-26T14:29:54.158Z",
-    "word:willy": "2026-06-04T13:14:18.234Z",
+    "word:willy": "2026-08-17T12:14:28.031Z",
     "word:wig": "2026-08-17T12:13:43.655Z",
     "word:vitamins": "2026-06-04T13:14:23.580Z",
     "word:vis": "2026-06-04T13:14:25.929Z",
@@ -6106,7 +6133,7 @@
     "word:whew": "2026-08-17T12:13:40.983Z",
     "word:wholl": "2026-06-10T13:30:51.147Z",
     "word:whove": "2026-06-10T13:30:52.547Z",
-    "word:wiggle": "2026-06-10T13:30:55.614Z",
+    "word:wiggle": "2026-08-17T12:14:24.902Z",
     "word:workin": "2026-07-07T14:52:42.580Z",
     "word:yuck": "2026-07-04T12:43:37.088Z",
     "word:anchovies": "2026-07-24T14:48:00.777Z",
@@ -9488,7 +9515,34 @@
     "word:wesley": "2026-08-17T12:13:36.265Z",
     "word:westminster": "2026-08-17T12:13:38.092Z",
     "word:wheat": "2026-08-17T12:13:40.019Z",
-    "word:wholesome": "2026-08-17T12:13:42.528Z"
+    "word:wholesome": "2026-08-17T12:13:42.528Z",
+    "word:wildness": "2026-08-17T12:14:27.087Z",
+    "word:workout": "2026-08-17T12:14:32.983Z",
+    "word:youngest": "2026-08-17T12:14:34.679Z",
+    "word:zelda": "2026-08-17T12:14:35.759Z",
+    "word:zip": "2026-08-17T12:14:38.050Z",
+    "word:abs": "2026-08-17T12:14:39.451Z",
+    "word:absorb": "2026-08-17T12:14:41.307Z",
+    "word:academic": "2026-08-17T12:14:41.553Z",
+    "word:adjusting": "2026-08-17T12:14:45.976Z",
+    "word:alien": "2026-08-17T12:14:50.686Z",
+    "word:alimony": "2026-08-17T12:14:54.949Z",
+    "word:alphabetically": "2026-08-17T12:14:57.009Z",
+    "word:alternative": "2026-08-17T12:14:59.553Z",
+    "word:altmann": "2026-08-17T12:15:02.571Z",
+    "word:amen": "2026-08-17T12:15:04.418Z",
+    "word:ammonia": "2026-08-17T12:15:06.197Z",
+    "word:amphibian": "2026-08-17T12:15:07.779Z",
+    "word:anderson": "2026-08-17T12:15:10.330Z",
+    "word:ant": "2026-08-17T12:15:13.777Z",
+    "word:anthropologist": "2026-08-17T12:15:15.778Z",
+    "word:anxious": "2026-08-17T12:15:23.259Z",
+    "word:aortic": "2026-08-17T12:15:25.321Z",
+    "word:apostrophe": "2026-08-17T12:15:29.784Z",
+    "word:appearance": "2026-08-17T12:15:35.277Z",
+    "word:applaud": "2026-08-17T12:15:37.351Z",
+    "word:appliance": "2026-08-17T12:15:41.561Z",
+    "word:approach": "2026-08-17T12:15:45.303Z"
   },
   "scoreDeletedAt": {
     "word:valentines": "2026-06-04T13:10:50Z",
@@ -9648,209 +9702,6 @@
   "resetAt": null,
   "notes": {},
   "history": [
-    {
-      "itemId": "word:ought",
-      "previous": null,
-      "score": 5,
-      "source": "review-hard",
-      "at": "2026-07-15T14:26:17.522Z"
-    },
-    {
-      "itemId": "word:owen",
-      "previous": null,
-      "score": 5,
-      "source": "review-skip",
-      "at": "2026-07-15T14:26:19.933Z"
-    },
-    {
-      "itemId": "word:pearl",
-      "previous": 1,
-      "score": 5,
-      "source": "review-hard",
-      "at": "2026-07-15T14:26:22.662Z"
-    },
-    {
-      "itemId": "word:permission",
-      "previous": null,
-      "score": 5,
-      "source": "review-skip",
-      "at": "2026-07-15T14:26:26.321Z"
-    },
-    {
-      "itemId": "word:phil",
-      "previous": null,
-      "score": 5,
-      "source": "review-hard",
-      "at": "2026-07-15T14:26:31.948Z"
-    },
-    {
-      "itemId": "word:phillips",
-      "previous": null,
-      "score": 5,
-      "source": "review-skip",
-      "at": "2026-07-15T14:26:35.040Z"
-    },
-    {
-      "itemId": "word:pierce",
-      "previous": 1,
-      "score": 5,
-      "source": "review-hard",
-      "at": "2026-07-15T14:26:37.106Z"
-    },
-    {
-      "itemId": "word:poetry",
-      "previous": null,
-      "score": 5,
-      "source": "review-hard",
-      "at": "2026-07-15T14:26:40.736Z"
-    },
-    {
-      "itemId": "word:postpone",
-      "previous": 1,
-      "score": 5,
-      "source": "review-hard",
-      "at": "2026-07-15T14:26:42.698Z"
-    },
-    {
-      "itemId": "word:premiere",
-      "previous": null,
-      "score": 5,
-      "source": "review-hard",
-      "at": "2026-07-15T14:27:11.821Z"
-    },
-    {
-      "itemId": "word:repel",
-      "previous": 1,
-      "score": 5,
-      "source": "review-hard",
-      "at": "2026-07-15T14:27:13.402Z"
-    },
-    {
-      "itemId": "word:reset",
-      "previous": null,
-      "score": 5,
-      "source": "review-skip",
-      "at": "2026-07-15T14:27:16.356Z"
-    },
-    {
-      "itemId": "word:resources",
-      "previous": null,
-      "score": 5,
-      "source": "review-skip",
-      "at": "2026-07-15T14:27:19.584Z"
-    },
-    {
-      "itemId": "word:ribbon",
-      "previous": 1,
-      "score": 5,
-      "source": "review-hard",
-      "at": "2026-07-15T14:27:22.057Z"
-    },
-    {
-      "itemId": "word:river",
-      "previous": null,
-      "score": 5,
-      "source": "review-skip",
-      "at": "2026-07-15T14:27:25.368Z"
-    },
-    {
-      "itemId": "word:ron",
-      "previous": null,
-      "score": 5,
-      "source": "review-hard",
-      "at": "2026-07-15T14:27:29.948Z"
-    },
-    {
-      "itemId": "word:rooster",
-      "previous": 1,
-      "score": 5,
-      "source": "review-hard",
-      "at": "2026-07-15T14:27:32.267Z"
-    },
-    {
-      "itemId": "word:salon",
-      "previous": null,
-      "score": 5,
-      "source": "review-hard",
-      "at": "2026-07-15T14:27:35.449Z"
-    },
-    {
-      "itemId": "word:sapien",
-      "previous": 1,
-      "score": 5,
-      "source": "review-hard",
-      "at": "2026-07-15T14:27:37.002Z"
-    },
-    {
-      "itemId": "word:scarf",
-      "previous": 3,
-      "score": 5,
-      "source": "review-hard",
-      "at": "2026-07-15T14:27:41.467Z"
-    },
-    {
-      "itemId": "word:seed",
-      "previous": null,
-      "score": 5,
-      "source": "review-skip",
-      "at": "2026-07-15T14:27:43.582Z"
-    },
-    {
-      "itemId": "word:semi",
-      "previous": null,
-      "score": 5,
-      "source": "review-hard",
-      "at": "2026-07-15T14:27:45.912Z"
-    },
-    {
-      "itemId": "word:several",
-      "previous": null,
-      "score": 5,
-      "source": "review-hard",
-      "at": "2026-07-15T14:27:51.264Z"
-    },
-    {
-      "itemId": "word:sid",
-      "previous": 1,
-      "score": 5,
-      "source": "review-hard",
-      "at": "2026-07-15T14:27:53.571Z"
-    },
-    {
-      "itemId": "word:silent",
-      "previous": null,
-      "score": 5,
-      "source": "review-skip",
-      "at": "2026-07-15T14:27:55.267Z"
-    },
-    {
-      "itemId": "word:soak",
-      "previous": 1,
-      "score": 5,
-      "source": "review-hard",
-      "at": "2026-07-15T14:27:59.130Z"
-    },
-    {
-      "itemId": "word:stack",
-      "previous": 1,
-      "score": 5,
-      "source": "review-hard",
-      "at": "2026-07-15T14:28:00.587Z"
-    },
-    {
-      "itemId": "word:steady",
-      "previous": null,
-      "score": 5,
-      "source": "review-skip",
-      "at": "2026-07-15T14:28:02.687Z"
-    },
-    {
-      "itemId": "word:straightener",
-      "previous": 1,
-      "score": 5,
-      "source": "review-hard",
-      "at": "2026-07-15T14:28:09.206Z"
-    },
     {
       "itemId": "word:sublet",
       "previous": 1,
@@ -15247,6 +15098,209 @@
       "score": 5,
       "source": "review-hard",
       "at": "2026-08-17T12:13:43.655Z"
+    },
+    {
+      "itemId": "word:wiggle",
+      "previous": 1,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-08-17T12:14:24.902Z"
+    },
+    {
+      "itemId": "word:wildness",
+      "previous": null,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-08-17T12:14:27.087Z"
+    },
+    {
+      "itemId": "word:willy",
+      "previous": 1,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-08-17T12:14:28.031Z"
+    },
+    {
+      "itemId": "word:workout",
+      "previous": null,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-08-17T12:14:32.983Z"
+    },
+    {
+      "itemId": "word:youngest",
+      "previous": null,
+      "score": 5,
+      "source": "review-skip",
+      "at": "2026-08-17T12:14:34.679Z"
+    },
+    {
+      "itemId": "word:zelda",
+      "previous": null,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-08-17T12:14:35.759Z"
+    },
+    {
+      "itemId": "word:zip",
+      "previous": null,
+      "score": 5,
+      "source": "review-skip",
+      "at": "2026-08-17T12:14:38.050Z"
+    },
+    {
+      "itemId": "word:abs",
+      "previous": null,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-08-17T12:14:39.451Z"
+    },
+    {
+      "itemId": "word:absorb",
+      "previous": null,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-08-17T12:14:41.307Z"
+    },
+    {
+      "itemId": "word:academic",
+      "previous": null,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-08-17T12:14:41.553Z"
+    },
+    {
+      "itemId": "word:adjusting",
+      "previous": null,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-08-17T12:14:45.976Z"
+    },
+    {
+      "itemId": "word:alien",
+      "previous": null,
+      "score": 5,
+      "source": "review-skip",
+      "at": "2026-08-17T12:14:50.686Z"
+    },
+    {
+      "itemId": "word:alimony",
+      "previous": null,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-08-17T12:14:54.949Z"
+    },
+    {
+      "itemId": "word:alphabetically",
+      "previous": null,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-08-17T12:14:57.009Z"
+    },
+    {
+      "itemId": "word:alternative",
+      "previous": null,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-08-17T12:14:59.553Z"
+    },
+    {
+      "itemId": "word:altmann",
+      "previous": null,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-08-17T12:15:02.571Z"
+    },
+    {
+      "itemId": "word:amen",
+      "previous": null,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-08-17T12:15:04.418Z"
+    },
+    {
+      "itemId": "word:ammonia",
+      "previous": null,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-08-17T12:15:06.197Z"
+    },
+    {
+      "itemId": "word:amphibian",
+      "previous": null,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-08-17T12:15:07.779Z"
+    },
+    {
+      "itemId": "word:anderson",
+      "previous": null,
+      "score": 5,
+      "source": "review-skip",
+      "at": "2026-08-17T12:15:10.330Z"
+    },
+    {
+      "itemId": "word:ant",
+      "previous": null,
+      "score": 5,
+      "source": "review-skip",
+      "at": "2026-08-17T12:15:13.777Z"
+    },
+    {
+      "itemId": "word:anthropologist",
+      "previous": null,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-08-17T12:15:15.778Z"
+    },
+    {
+      "itemId": "word:anxious",
+      "previous": null,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-08-17T12:15:23.259Z"
+    },
+    {
+      "itemId": "word:aortic",
+      "previous": null,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-08-17T12:15:25.321Z"
+    },
+    {
+      "itemId": "word:apostrophe",
+      "previous": null,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-08-17T12:15:29.784Z"
+    },
+    {
+      "itemId": "word:appearance",
+      "previous": null,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-08-17T12:15:35.277Z"
+    },
+    {
+      "itemId": "word:applaud",
+      "previous": null,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-08-17T12:15:37.351Z"
+    },
+    {
+      "itemId": "word:appliance",
+      "previous": null,
+      "score": 5,
+      "source": "review-hard",
+      "at": "2026-08-17T12:15:41.561Z"
+    },
+    {
+      "itemId": "word:approach",
+      "previous": null,
+      "score": 5,
+      "source": "review-skip",
+      "at": "2026-08-17T12:15:45.303Z"
     }
   ],
   "reviewEngineVersion": 2,
@@ -20555,122 +20609,6 @@
       "total": 1945,
       "queue": [
         {
-          "id": "S03-S10:word:wiggle",
-          "kind": "new"
-        },
-        {
-          "id": "S03-S10:word:wildness",
-          "kind": "new"
-        },
-        {
-          "id": "S03-S10:word:willy",
-          "kind": "new"
-        },
-        {
-          "id": "S03-S10:word:workout",
-          "kind": "new"
-        },
-        {
-          "id": "S03-S10:word:youngest",
-          "kind": "new"
-        },
-        {
-          "id": "S03-S10:word:zelda",
-          "kind": "new"
-        },
-        {
-          "id": "S03-S10:word:zip",
-          "kind": "new"
-        },
-        {
-          "id": "S03-S10:word:abs",
-          "kind": "new"
-        },
-        {
-          "id": "S03-S10:word:absorb",
-          "kind": "new"
-        },
-        {
-          "id": "S03-S10:word:academic",
-          "kind": "new"
-        },
-        {
-          "id": "S03-S10:word:adjusting",
-          "kind": "new"
-        },
-        {
-          "id": "S03-S10:word:alien",
-          "kind": "new"
-        },
-        {
-          "id": "S03-S10:word:alimony",
-          "kind": "new"
-        },
-        {
-          "id": "S03-S10:word:alphabetically",
-          "kind": "new"
-        },
-        {
-          "id": "S03-S10:word:alternative",
-          "kind": "new"
-        },
-        {
-          "id": "S03-S10:word:altmann",
-          "kind": "new"
-        },
-        {
-          "id": "S03-S10:word:amen",
-          "kind": "new"
-        },
-        {
-          "id": "S03-S10:word:ammonia",
-          "kind": "new"
-        },
-        {
-          "id": "S03-S10:word:amphibian",
-          "kind": "new"
-        },
-        {
-          "id": "S03-S10:word:anderson",
-          "kind": "new"
-        },
-        {
-          "id": "S03-S10:word:ant",
-          "kind": "new"
-        },
-        {
-          "id": "S03-S10:word:anthropologist",
-          "kind": "new"
-        },
-        {
-          "id": "S03-S10:word:anxious",
-          "kind": "new"
-        },
-        {
-          "id": "S03-S10:word:aortic",
-          "kind": "new"
-        },
-        {
-          "id": "S03-S10:word:apostrophe",
-          "kind": "new"
-        },
-        {
-          "id": "S03-S10:word:appearance",
-          "kind": "new"
-        },
-        {
-          "id": "S03-S10:word:applaud",
-          "kind": "new"
-        },
-        {
-          "id": "S03-S10:word:appliance",
-          "kind": "new"
-        },
-        {
-          "id": "S03-S10:word:approach",
-          "kind": "new"
-        },
-        {
           "id": "S03-S10:word:armageddon",
           "kind": "new"
         },
@@ -23860,10 +23798,10 @@
       "wrongChoice": null,
       "questionStats": {},
       "correctCount": 0,
-      "wrongCount": 731,
-      "skippedCount": 389,
-      "completedCount": 731,
-      "hardCount": 731
+      "wrongCount": 754,
+      "skippedCount": 395,
+      "completedCount": 754,
+      "hardCount": 754
     }
   },
   "reviewMemory": {
@@ -64431,6 +64369,443 @@
       "updatedAt": "2026-08-17T12:13:43.655Z",
       "masteredAt": "2026-08-17T12:13:43.655Z",
       "masteredSource": "review-hard"
+    },
+    "word:wiggle": {
+      "itemId": "word:wiggle",
+      "term": "wiggle",
+      "type": "word",
+      "firstWrongAt": "2026-08-17T12:14:24.902Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S03-S10"
+      ],
+      "questionIds": [
+        "S03-S10:word:wiggle"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-08-17T12:14:24.902Z",
+      "lastBlockId": "S03-S10",
+      "updatedAt": "2026-08-17T12:14:24.902Z",
+      "masteredAt": "2026-08-17T12:14:24.902Z",
+      "masteredSource": "review-hard"
+    },
+    "word:wildness": {
+      "itemId": "word:wildness",
+      "term": "wildness",
+      "type": "word",
+      "firstWrongAt": "2026-08-17T12:14:27.087Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S03-S10"
+      ],
+      "questionIds": [
+        "S03-S10:word:wildness"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-08-17T12:14:27.087Z",
+      "lastBlockId": "S03-S10",
+      "updatedAt": "2026-08-17T12:14:27.087Z",
+      "masteredAt": "2026-08-17T12:14:27.087Z",
+      "masteredSource": "review-hard"
+    },
+    "word:willy": {
+      "itemId": "word:willy",
+      "term": "willy",
+      "type": "word",
+      "firstWrongAt": "2026-08-17T12:14:28.031Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S03-S10"
+      ],
+      "questionIds": [
+        "S03-S10:word:willy"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-08-17T12:14:28.031Z",
+      "lastBlockId": "S03-S10",
+      "updatedAt": "2026-08-17T12:14:28.031Z",
+      "masteredAt": "2026-08-17T12:14:28.031Z",
+      "masteredSource": "review-hard"
+    },
+    "word:workout": {
+      "itemId": "word:workout",
+      "term": "workout",
+      "type": "word",
+      "firstWrongAt": "2026-08-17T12:14:32.982Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S03-S10"
+      ],
+      "questionIds": [
+        "S03-S10:word:workout"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-08-17T12:14:32.982Z",
+      "lastBlockId": "S03-S10",
+      "updatedAt": "2026-08-17T12:14:32.982Z",
+      "masteredAt": "2026-08-17T12:14:32.982Z",
+      "masteredSource": "review-hard"
+    },
+    "word:zelda": {
+      "itemId": "word:zelda",
+      "term": "zelda",
+      "type": "word",
+      "firstWrongAt": "2026-08-17T12:14:35.759Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S03-S10"
+      ],
+      "questionIds": [
+        "S03-S10:word:zelda"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-08-17T12:14:35.759Z",
+      "lastBlockId": "S03-S10",
+      "updatedAt": "2026-08-17T12:14:35.759Z",
+      "masteredAt": "2026-08-17T12:14:35.759Z",
+      "masteredSource": "review-hard"
+    },
+    "word:abs": {
+      "itemId": "word:abs",
+      "term": "abs",
+      "type": "word",
+      "firstWrongAt": "2026-08-17T12:14:39.451Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S03-S10"
+      ],
+      "questionIds": [
+        "S03-S10:word:abs"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-08-17T12:14:39.451Z",
+      "lastBlockId": "S03-S10",
+      "updatedAt": "2026-08-17T12:14:39.451Z",
+      "masteredAt": "2026-08-17T12:14:39.451Z",
+      "masteredSource": "review-hard"
+    },
+    "word:absorb": {
+      "itemId": "word:absorb",
+      "term": "absorb",
+      "type": "word",
+      "firstWrongAt": "2026-08-17T12:14:41.306Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S03-S10"
+      ],
+      "questionIds": [
+        "S03-S10:word:absorb"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-08-17T12:14:41.306Z",
+      "lastBlockId": "S03-S10",
+      "updatedAt": "2026-08-17T12:14:41.306Z",
+      "masteredAt": "2026-08-17T12:14:41.306Z",
+      "masteredSource": "review-hard"
+    },
+    "word:academic": {
+      "itemId": "word:academic",
+      "term": "academic",
+      "type": "word",
+      "firstWrongAt": "2026-08-17T12:14:41.553Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S03-S10"
+      ],
+      "questionIds": [
+        "S03-S10:word:academic"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-08-17T12:14:41.553Z",
+      "lastBlockId": "S03-S10",
+      "updatedAt": "2026-08-17T12:14:41.553Z",
+      "masteredAt": "2026-08-17T12:14:41.553Z",
+      "masteredSource": "review-hard"
+    },
+    "word:adjusting": {
+      "itemId": "word:adjusting",
+      "term": "adjusting",
+      "type": "word",
+      "firstWrongAt": "2026-08-17T12:14:45.975Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S03-S10"
+      ],
+      "questionIds": [
+        "S03-S10:word:adjusting"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-08-17T12:14:45.975Z",
+      "lastBlockId": "S03-S10",
+      "updatedAt": "2026-08-17T12:14:45.976Z",
+      "masteredAt": "2026-08-17T12:14:45.976Z",
+      "masteredSource": "review-hard"
+    },
+    "word:alimony": {
+      "itemId": "word:alimony",
+      "term": "alimony",
+      "type": "word",
+      "firstWrongAt": "2026-08-17T12:14:54.949Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S03-S10"
+      ],
+      "questionIds": [
+        "S03-S10:word:alimony"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-08-17T12:14:54.949Z",
+      "lastBlockId": "S03-S10",
+      "updatedAt": "2026-08-17T12:14:54.949Z",
+      "masteredAt": "2026-08-17T12:14:54.949Z",
+      "masteredSource": "review-hard"
+    },
+    "word:alphabetically": {
+      "itemId": "word:alphabetically",
+      "term": "alphabetically",
+      "type": "word",
+      "firstWrongAt": "2026-08-17T12:14:57.009Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S03-S10"
+      ],
+      "questionIds": [
+        "S03-S10:word:alphabetically"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-08-17T12:14:57.009Z",
+      "lastBlockId": "S03-S10",
+      "updatedAt": "2026-08-17T12:14:57.009Z",
+      "masteredAt": "2026-08-17T12:14:57.009Z",
+      "masteredSource": "review-hard"
+    },
+    "word:alternative": {
+      "itemId": "word:alternative",
+      "term": "alternative",
+      "type": "word",
+      "firstWrongAt": "2026-08-17T12:14:59.553Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S03-S10"
+      ],
+      "questionIds": [
+        "S03-S10:word:alternative"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-08-17T12:14:59.553Z",
+      "lastBlockId": "S03-S10",
+      "updatedAt": "2026-08-17T12:14:59.553Z",
+      "masteredAt": "2026-08-17T12:14:59.553Z",
+      "masteredSource": "review-hard"
+    },
+    "word:altmann": {
+      "itemId": "word:altmann",
+      "term": "altmann",
+      "type": "word",
+      "firstWrongAt": "2026-08-17T12:15:02.571Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S03-S10"
+      ],
+      "questionIds": [
+        "S03-S10:word:altmann"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-08-17T12:15:02.571Z",
+      "lastBlockId": "S03-S10",
+      "updatedAt": "2026-08-17T12:15:02.571Z",
+      "masteredAt": "2026-08-17T12:15:02.571Z",
+      "masteredSource": "review-hard"
+    },
+    "word:amen": {
+      "itemId": "word:amen",
+      "term": "amen",
+      "type": "word",
+      "firstWrongAt": "2026-08-17T12:15:04.418Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S03-S10"
+      ],
+      "questionIds": [
+        "S03-S10:word:amen"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-08-17T12:15:04.418Z",
+      "lastBlockId": "S03-S10",
+      "updatedAt": "2026-08-17T12:15:04.418Z",
+      "masteredAt": "2026-08-17T12:15:04.418Z",
+      "masteredSource": "review-hard"
+    },
+    "word:ammonia": {
+      "itemId": "word:ammonia",
+      "term": "ammonia",
+      "type": "word",
+      "firstWrongAt": "2026-08-17T12:15:06.197Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S03-S10"
+      ],
+      "questionIds": [
+        "S03-S10:word:ammonia"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-08-17T12:15:06.197Z",
+      "lastBlockId": "S03-S10",
+      "updatedAt": "2026-08-17T12:15:06.197Z",
+      "masteredAt": "2026-08-17T12:15:06.197Z",
+      "masteredSource": "review-hard"
+    },
+    "word:amphibian": {
+      "itemId": "word:amphibian",
+      "term": "amphibian",
+      "type": "word",
+      "firstWrongAt": "2026-08-17T12:15:07.779Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S03-S10"
+      ],
+      "questionIds": [
+        "S03-S10:word:amphibian"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-08-17T12:15:07.779Z",
+      "lastBlockId": "S03-S10",
+      "updatedAt": "2026-08-17T12:15:07.779Z",
+      "masteredAt": "2026-08-17T12:15:07.779Z",
+      "masteredSource": "review-hard"
+    },
+    "word:anthropologist": {
+      "itemId": "word:anthropologist",
+      "term": "anthropologist",
+      "type": "word",
+      "firstWrongAt": "2026-08-17T12:15:15.778Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S03-S10"
+      ],
+      "questionIds": [
+        "S03-S10:word:anthropologist"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-08-17T12:15:15.778Z",
+      "lastBlockId": "S03-S10",
+      "updatedAt": "2026-08-17T12:15:15.778Z",
+      "masteredAt": "2026-08-17T12:15:15.778Z",
+      "masteredSource": "review-hard"
+    },
+    "word:anxious": {
+      "itemId": "word:anxious",
+      "term": "anxious",
+      "type": "word",
+      "firstWrongAt": "2026-08-17T12:15:23.259Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S03-S10"
+      ],
+      "questionIds": [
+        "S03-S10:word:anxious"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-08-17T12:15:23.259Z",
+      "lastBlockId": "S03-S10",
+      "updatedAt": "2026-08-17T12:15:23.259Z",
+      "masteredAt": "2026-08-17T12:15:23.259Z",
+      "masteredSource": "review-hard"
+    },
+    "word:aortic": {
+      "itemId": "word:aortic",
+      "term": "aortic",
+      "type": "word",
+      "firstWrongAt": "2026-08-17T12:15:25.321Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S03-S10"
+      ],
+      "questionIds": [
+        "S03-S10:word:aortic"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-08-17T12:15:25.321Z",
+      "lastBlockId": "S03-S10",
+      "updatedAt": "2026-08-17T12:15:25.321Z",
+      "masteredAt": "2026-08-17T12:15:25.321Z",
+      "masteredSource": "review-hard"
+    },
+    "word:apostrophe": {
+      "itemId": "word:apostrophe",
+      "term": "apostrophe",
+      "type": "word",
+      "firstWrongAt": "2026-08-17T12:15:29.784Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S03-S10"
+      ],
+      "questionIds": [
+        "S03-S10:word:apostrophe"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-08-17T12:15:29.784Z",
+      "lastBlockId": "S03-S10",
+      "updatedAt": "2026-08-17T12:15:29.784Z",
+      "masteredAt": "2026-08-17T12:15:29.784Z",
+      "masteredSource": "review-hard"
+    },
+    "word:appearance": {
+      "itemId": "word:appearance",
+      "term": "appearance",
+      "type": "word",
+      "firstWrongAt": "2026-08-17T12:15:35.277Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S03-S10"
+      ],
+      "questionIds": [
+        "S03-S10:word:appearance"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-08-17T12:15:35.277Z",
+      "lastBlockId": "S03-S10",
+      "updatedAt": "2026-08-17T12:15:35.277Z",
+      "masteredAt": "2026-08-17T12:15:35.277Z",
+      "masteredSource": "review-hard"
+    },
+    "word:applaud": {
+      "itemId": "word:applaud",
+      "term": "applaud",
+      "type": "word",
+      "firstWrongAt": "2026-08-17T12:15:37.351Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S03-S10"
+      ],
+      "questionIds": [
+        "S03-S10:word:applaud"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-08-17T12:15:37.351Z",
+      "lastBlockId": "S03-S10",
+      "updatedAt": "2026-08-17T12:15:37.351Z",
+      "masteredAt": "2026-08-17T12:15:37.351Z",
+      "masteredSource": "review-hard"
+    },
+    "word:appliance": {
+      "itemId": "word:appliance",
+      "term": "appliance",
+      "type": "word",
+      "firstWrongAt": "2026-08-17T12:15:41.561Z",
+      "wrongAppearances": 1,
+      "blockIds": [
+        "S03-S10"
+      ],
+      "questionIds": [
+        "S03-S10:word:appliance"
+      ],
+      "needsLongTermReview": true,
+      "lastWrongAt": "2026-08-17T12:15:41.561Z",
+      "lastBlockId": "S03-S10",
+      "updatedAt": "2026-08-17T12:15:41.561Z",
+      "masteredAt": "2026-08-17T12:15:41.561Z",
+      "masteredSource": "review-hard"
     }
   },
   "reviewMemoryDeletedAt": {
@@ -65958,8 +66333,14 @@
     "word:versus": "2026-08-17T12:13:03.088Z",
     "word:visitor": "2026-08-17T12:13:06.634Z",
     "word:volcano": "2026-08-17T12:13:32.167Z",
-    "word:weirder": "2026-08-17T12:13:34.646Z"
+    "word:weirder": "2026-08-17T12:13:34.646Z",
+    "word:youngest": "2026-08-17T12:14:34.679Z",
+    "word:zip": "2026-08-17T12:14:38.050Z",
+    "word:alien": "2026-08-17T12:14:50.686Z",
+    "word:anderson": "2026-08-17T12:15:10.330Z",
+    "word:ant": "2026-08-17T12:15:13.777Z",
+    "word:approach": "2026-08-17T12:15:45.303Z"
   },
-  "savedAt": "2026-08-17T12:13:46.709Z",
-  "syncedAt": "2026-08-17T12:13:46.709Z"
+  "savedAt": "2026-08-17T12:15:48.661Z",
+  "syncedAt": "2026-08-17T12:15:48.661Z"
 }
